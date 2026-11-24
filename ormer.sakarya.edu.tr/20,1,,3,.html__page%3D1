@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2024 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Analiz | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="https://ortadogu.sakarya.edu.tr/tr/icerik/23215/121792/doktora-programina-nasil-basvurulur">Başvuru Koşulları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a><ul><li><a href="19,2,,3,1_ortadogu_kongresi.html">1. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,2_ortadogu_kongresi.html">2. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,3_ortadogu_kongresi.html">3. Ortadoğu Kongresi</a></li><li><a href="19,2,,13,4_ortadogu_kongresi.html">4. Ortadoğu Kongresi</a></li><li><a href="19,2,,20,5_ortadogu_kongresi.html">5. Ortadoğu Kongresi</a></li><li><a href="19,2,,22,6_ortadogu_kongresi.html">6.Ortadoğu Kongresi</a></li><li><a href="19,,7_ortadogu_kongresi.html">7.Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Son Duyurular</span></h4></div>
+<div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,286,ortadogu_da_toplum_ve_siyaset_kongresi_acilis_konusmacimiz_norman_g_finkelstein.html" title="Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein">Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 26 Temmuz 2024, Cuma</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,285,nili_ortadogu_da_casuslar_savasi_programimiz_29_subat_2024_tarihine_ertelenmistir.html" title="Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir">Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Şubat 2024, Salı</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,284,filistin_uyruklu_ogrencilerin_dikkatine.html" title="FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE">FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Aralık 2023, Çarşamba</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,282,tez_asamasindaki_ogrencilerin_dikkatine.html" title="Tez Aşamasındaki Öğrencilerin Dikkatine">Tez Aşamasındaki Öğrencilerin Dikkatine</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 11 Aralık 2023, Pazartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,280,israil_sorunu_ve_gazze_sempozyumu.html" title="İsrail Sorunu ve Gazze Sempozyumu">İsrail Sorunu ve Gazze Sempozyumu</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 06 Kasım 2023, Pazartesi</span></div></div><div class="clear"></div></article></div></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Analiz</span></h4></div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,661,turkiye_nin_bae_ve_suudi_arabistan_ile_normallesme_hikayesi.html" title="Türkiye’nin BAE ve Suudi Arabistan ile Normalleşme Hikayesi">Türkiye’nin BAE ve Suudi Arabistan ile Normalleşme Hikayesi</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 29 Temmuz 2022, Cuma</span>          
+      </div>
+    </div>
+    <div class="entry-summary"> Türkiye ile Körfez ülkeleri arasındaki ilişkiler son dönemde oldukça çok tartışılmaktadır. Bu minvalde Körfez-Türkiye normalleşmesi özellikle Türkiye'deki iç siyasette muhalefetin hükümeti eleştirdiği bir nokta olarak karşımıza çıkmaktadır. Fakat meseleyi sadece Türkiye'deki iç siyasi ve ekonomik atmosfer üzerinden okumak...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,648,turkiye_cezayir_iliskilerinde_stratejik_ortaklik_donemi.html" title="Türkiye-Cezayir İlişkilerinde Stratejik Ortaklık Dönemi">Türkiye-Cezayir İlişkilerinde Stratejik Ortaklık Dönemi</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 19 Mayıs 2022, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,84,doc_dr_ismail_numan_telci.html" title="Doç. Dr. İsmail Numan Telci" class="important">Doç. Dr. İsmail Numan Telci</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,3,analiz.html" title="Analiz" class="important">Analiz</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Sahip olduğu jeopolitik konum ve yüzölçümü itibarıyla Afrika kıtasının kilit aktörlerinden birisi olan Cezayir, siyasi, ekonomik ve askeri alanlarda Türkiye için elverişli ve uzun soluklu pek çok iş birliği sahasını içinde barındıran bir ülke konumundadır. Libya meselesi başta olmak üzere günümüz bölgesel krizlerine benzer perspektiften yaklaşan iki...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,504,lubnan_yeni_hukumet_eski_duzen_sizlik_.html" title="Lübnan: Yeni Hükümet Eski Düzen(sizlik)">Lübnan: Yeni Hükümet Eski Düzen(sizlik)</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 14 Şubat 2020, Cuma</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,5,arastirma_gorevlisi_dr_a_selcan_ozdemirci_cinal.html" title="Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal" class="important">Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,3,analiz.html" title="Analiz" class="important">Analiz</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Lübnanlılar 17 Ekim 2019 tarihinden bugüne başta Beyrut ve Trablus meydanları olmak üzere ülkenin her köşesinde eylemlerine devam ediyor. Halk; yozlaşmış siyasetçileri, adalet sisteminin arızalarını, bozuk ekonomik sistemi, alt yapı sorunlarını, işsizliği ve günlük yaşamlarını kesintiye uğratan birçok sorunu protesto ediyor. Üç ayı aşkın süredir...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,502,sultan_kabus_un_mirasi_ve_umman_siyasetinde_yeni_donem.html" title="Sultan Kabus’un Mirası ve Umman Siyasetinde Yeni Dönem">Sultan Kabus’un Mirası ve Umman Siyasetinde Yeni Dönem</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 20 Ocak 2020, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,70,arastirma_gorevlisi_rumeysa_ayverdi_varan.html" title="Araştırma Görevlisi
+ Rümeysa Ayverdi Varan" class="important">Araştırma Görevlisi
+ Rümeysa Ayverdi Varan</a>,  <a href="20,5,ismail_numan_telci.html?author=İsmail Numan Telci" title="İsmail Numan Telci" class="important">İsmail Numan Telci</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,3,analiz.html" title="Analiz" class="important">Analiz</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> Arap yarımadasında tarihi, kültürü ve kadim devlet geleneği ile farklılaşan ülkesi Umman'da Sultan Kâbus bin Said bin Teymur el-Said'in 10 Ocak 2020'de hayatını kaybetmesi ülkenin modern tarihinde bir dönemin bitişi anlamına gelmiştir. Yazının devamını buradan okuyabilirsiniz....</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,486,lubnan_da_ekim_protestolari_kulluhum_yani_kulluhum_.html" title="Lübnan’da Ekim Protestoları: “Kulluhum Yani Kulluhum”">Lübnan’da Ekim Protestoları: “Kulluhum Yani Kulluhum”</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 23 Ekim 2019, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,5,arastirma_gorevlisi_dr_a_selcan_ozdemirci_cinal.html" title="Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal" class="important">Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,3,analiz.html" title="Analiz" class="important">Analiz</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">3 Eylül 2019 tarihinde 'ekonomik olağanüstü hâl' ilan edilen Lübnan'da son dönemlerde ekonomik gidişata ilişkin sık sık protestolar düzenlenmekteydi. Ancak Ekim ayının ikinci haftası itibariyle yeniden patlak veren gösteriler; münferit olaylardan ziyade kitlesel, belirli taleplerin kararlılıkla savunulduğu, ülke geneline yayılmış ve vergi protestosundan...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,419,2018_yerel_secimleri_uzerinden_israil_deki_temsiliyet_sorunu.html" title="2018 Yerel Seçimleri Üzerinden İsrail’deki Temsiliyet Sorunu">2018 Yerel Seçimleri Üzerinden İsrail’deki Temsiliyet Sorunu</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 20 Şubat 2019, Çarşamba</span>          
+      </div>
+    </div>
+    <div class="entry-summary">İsrail'in işgal altında tuttuğu Batı Şeria ve Doğu Kudüs'teki yerleşim yerleri de dahil olmak üzere toplam 251 yerleşim biriminde, belediye başkanlığı ile bölge ve yerel belediye meclis üyelerinin yeniden belirlenmesine yönelik olarak 11 bin sandıkta yapılan yerel seçimlerin ilk turu 30 Ekim 2018 tarihinde icra edildi. Seçimde 863 aday belediye...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,175,daes_sonrasi_musul_ic_ve_bolgesel_dinamikler.html" title="Daeş Sonrası Musul: İç ve Bölgesel Dinamikler">Daeş Sonrası Musul: İç ve Bölgesel Dinamikler</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 30 Ocak 2017, Pazartesi</span>          
+      </div>
+    </div>
+    <div class="entry-summary">Musul operasyonu Irak ve Ortadoğuda ciddi sonuçlar doğuracaktır. Bu makalede Irak ve Ortadoğuda DEAŞ sonrası ortaya çıkabilecek muhtemel senaryolar irdelenmektedir. Amerika Birleşik Devletlerinin (ABD) operasyonun planlanma ve uygulanma safhasında oynadığı rol aşikar. Ancak biz Musul operasyonunun İran ve onun Iraklı Şii müttefiklerinin çıkarlarına hizmet...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,176,ortadogu_daki_bolgesel_aktorlerin_musul_politiklari.html" title="Ortadoğu'daki Bölgesel Aktörlerin Musul Politikları">Ortadoğu'daki Bölgesel Aktörlerin Musul Politikları</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 30 Aralık 2016, Cuma</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a>,  <a href="20,5,,12,ogretim_uyesi_dr_mustafa_caner.html" title="Öğretim Görevlisi, Dr. Mustafa Caner" class="important">Öğretim Görevlisi, Dr. Mustafa Caner</a>,  <a href="20,5,,11,arastirma_gorevlisi_recep_tayyip_gurler.html" title="Araştırma Görevlisi
+ Recep Tayyip Gürler" class="important">Araştırma Görevlisi
+ Recep Tayyip Gürler</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,3,analiz.html" title="Analiz" class="important">Analiz</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Ortadoğu sorunları arasında bugünlerde en fazla öne çıkan konuların başında gelen Musul Operasyonu hususunda bölge ülkeleri ve artık de facto devlet olarak görülen Irak Bölgesel Kürt Yönetiminin (IKBY) ne tür politikalar izledikleri ve bu politikaların hedefleri üzerine çok tartışmalar yapılıyor. Bu çalışmada konuyla yakından ilgili bölgesel...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,130,misir_da_gelecegini_arayan_karsi.html" title="Mısır'da Geleceğini Arayan Karşı">Mısır'da Geleceğini Arayan Karşı</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 25 Ocak 2016, Pazartesi</span>          
+      </div>
+    </div>
+    <div class="entry-summary">Mısırda 25 Ocak 2011de başlayan halk ayaklanmasının 30 yıldır iktidarda olan Hüsnü Mübarek rejimini sona erdirmesi ülke tarihinin yakın geçmişteki en önemli olaylarından birisiydi. İzleyen süreçte Mısırın demokratikleşme yönünde adımlar atması beklenirken, 3 Temmuz 2013te gerçekleşen askeri darbe bu yöndeki beklentileri karşılıksız bıraktı....</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,129,iran_suudi_arabistan_rekabetinin_bolgesel_yansimalari.html" title="İran-Suudi Arabistan Rekabetinin Bölgesel Yansımaları">İran-Suudi Arabistan Rekabetinin Bölgesel Yansımaları</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 23 Ocak 2016, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a>,  <a href="20,5,,5,arastirma_gorevlisi_dr_a_selcan_ozdemirci_cinal.html" title="Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal" class="important">Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal</a>,  <a href="20,5,,11,arastirma_gorevlisi_recep_tayyip_gurler.html" title="Araştırma Görevlisi
+ Recep Tayyip Gürler" class="important">Araştırma Görevlisi
+ Recep Tayyip Gürler</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,3,analiz.html" title="Analiz" class="important">Analiz</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> Ortadoğunun iki önemli bölgesel gücü olan İran ve Suudi Arabistan arasındaki güç mücadelesi çok uzun bir geçmişe sahip olsa da Arap Devrimleri ile başlayan sürecin iki ülke arasındaki bu mücadeleyi iyice derinleştirdiği ve bütün Ortadoğu bölgesi açısından çok ciddi sorunlar doğuracak boyutlar taşıdığı görülmektedir. Neredeyse bütün Ortadoğu...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div align="center"><br /><b>Sayfa</b><br /><ul class="pagination">
+    <li><span>&laquo;</span></li>
+    <li class="active"><span>1</span></li>
+    <li><a href="20,1,,3,.html?page=2">2</a></li>
+    <li><a href="20,1,,3,.html?page=2">&raquo;</a></li>
+  </ul>
+<br /></div>          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2024. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

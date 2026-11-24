@@ -1,0 +1,47 @@
+.fc
+	{text-align: left;}
+.fc table
+	{border-collapse: collapse; border-spacing: 0}
+.fc td, .fc th
+	{padding: 0; vertical-align: top}
+.fc a
+	{color: #000000;}
+.fc-header td
+	{white-space: nowrap; background: none}
+.fc-header-left
+	{width: 100%; text-align: left; margin-left: 0; margin-top: 6px}
+.fc-header-right
+	{width: 100%; text-align: right; margin-right: 0; margin-top: 6px;}
+.fc-header-center
+	{text-align: center}
+.fc-header-title
+	{display: inline-block; vertical-align: top}
+.fc-header-title h2
+	{margin-top: 0; white-space: nowrap; font-size: 2.0em; color: #6C737F; line-height: 35px;}
+.fc-grid
+	{clear: both; background: #f9f9f9}
+.fc-grid thead
+	{background:#e9ecf1; line-height: 35px}
+.fc-grid th
+	{text-align: center}
+.fc-border-separate th, .fc-border-separate td
+	{border-width: 1px 0 0 1px}
+.fc-grid tr th:last-child, .fc-grid tr td:last-child
+	{border-right: 1px solid #ccc;}
+.fc-grid tr:last-child td
+	{border-bottom: 1px solid #ccc;}
+.fc-border-separate th, .fc-border-separate td
+	{border-top: 1px solid #ccc; border-left: 1px solid #ccc; width: 80px}
+.fc-border-separate th div, .fc-border-separate td div
+	{padding: 5px; min-height: 40px; width: 100%; text-align: right;}
+.fc-grid .fc-other-month
+	{opacity: 0.3; filter: alpha(opacity=30)}
+.fc-grid tbody .fc-wend
+	{; background: #e9e9e9}
+
+.calendarSelected div
+	{background-color: #ddf4f2;}
+td.calendarEntry a:link, td.calendarEntry a:active, td.calendarEntry a:visited, td.calendarEntry a:hover
+	{color: #F00;}
+.calendarToday div
+	{border: 1px solid #F00;}

@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2024 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Kitap | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="https://ortadogu.sakarya.edu.tr/tr/icerik/23215/121792/doktora-programina-nasil-basvurulur">Başvuru Koşulları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a><ul><li><a href="19,2,,3,1_ortadogu_kongresi.html">1. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,2_ortadogu_kongresi.html">2. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,3_ortadogu_kongresi.html">3. Ortadoğu Kongresi</a></li><li><a href="19,2,,13,4_ortadogu_kongresi.html">4. Ortadoğu Kongresi</a></li><li><a href="19,2,,20,5_ortadogu_kongresi.html">5. Ortadoğu Kongresi</a></li><li><a href="19,2,,22,6_ortadogu_kongresi.html">6.Ortadoğu Kongresi</a></li><li><a href="19,,7_ortadogu_kongresi.html">7.Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Son Duyurular</span></h4></div>
+<div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,286,ortadogu_da_toplum_ve_siyaset_kongresi_acilis_konusmacimiz_norman_g_finkelstein.html" title="Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein">Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 26 Temmuz 2024, Cuma</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,285,nili_ortadogu_da_casuslar_savasi_programimiz_29_subat_2024_tarihine_ertelenmistir.html" title="Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir">Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Şubat 2024, Salı</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,284,filistin_uyruklu_ogrencilerin_dikkatine.html" title="FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE">FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Aralık 2023, Çarşamba</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,282,tez_asamasindaki_ogrencilerin_dikkatine.html" title="Tez Aşamasındaki Öğrencilerin Dikkatine">Tez Aşamasındaki Öğrencilerin Dikkatine</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 11 Aralık 2023, Pazartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,280,israil_sorunu_ve_gazze_sempozyumu.html" title="İsrail Sorunu ve Gazze Sempozyumu">İsrail Sorunu ve Gazze Sempozyumu</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 06 Kasım 2023, Pazartesi</span></div></div><div class="clear"></div></article></div></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Kitap</span></h4></div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/a5301b6b_dc93_40ea_9637_24034a6c6f7b.jpg" alt="Balfour Deklarasyonu" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,41,balfour_deklarasyonu.html" title="Balfour Deklarasyonu">Balfour Deklarasyonu</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>İsmail Ediz</b><br /><br />Orta Doğu'da bir Yahudi devleti kurma düşüncesinin nasıl şekillendiğini Neoklasik Realizm teorisiyle açıklayan alanında öncü bir çalışma: Balfour Deklarasyonu: Yahudi Devletinin Kökenleri. 1917 Balfour Deklarasyonu'nu İngiliz hükümetinin ortaya çıkardığı bir karar olarak incelemeye alan eser, konuyu hem tarih hem de uluslararası ilişkiler perspektiflerinden değerlendiriyor. İngiliz arşiv belgelerini mercek altına alan kitap, günümüz araştırmalarında ihmal...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/68a38f14_6b8c_44e8_a6c7_ed2235f6fc6b_1.jpg" alt="Handbook of Asian States" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,39,handbook_of_asian_states.html" title="Handbook of Asian States">Handbook of Asian States</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Markus Porsche-Ludwig, Ying-Yu Chen</b><br /><br /> This handbook presents precise yet accessible up-to-date information about the geography, history, culture, politics, and economy of 49 Asian states, ranging from Afghanistan, Bangladesh, and China to India, Russia, and Yemen. The targeted readership consists primarily of scholars, students, teachers, journalists, and other mediators of political education as well as anyone interested in politics. It is a basic work that contributes to comparative assessments of this hugely important and...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/ortadogu_yilligi_2019_1.jpg" alt="Ortadoğu yıllığı 2019" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,36,ortadogu_yilligi_2019.html" title="Ortadoğu yıllığı 2019">Ortadoğu yıllığı 2019</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Muhittin Ataman, Kemal İnat</b><br /><br />Ortadoğu'da var olan askeri, siyasi ve insani krizler ve bu krizler bağlamında bölgesel/küresel aktörlerin davranışları hakkında akademik bilinç/hafıza oluşturmak amacıyla kaleme alınan Ortadoğu Yıllığı on beşinci kitabına ulaştı. Bu yıllığı yayımlayarak Ortadoğu alanında başta akademisyen ve araştırmacılar ile konuya ilgi duyan kamuoyuna nitelikli bilgi verme amacımıza büyük ölçüde ulaştığımıza inanıyoruz. Bu amacı gerçekleştirirken kitaptaki...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/facebook_tanitim_ortadog_u2_1__1.jpg" alt="Ortadoğu Yıllığı 2017" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,35,ortadogu_yilligi_2017.html" title="Ortadoğu Yıllığı 2017">Ortadoğu Yıllığı 2017</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Kemal İnat, Muhittin Ataman (Ed.)</b><br /><br />Ortadoğu'da var olan askeri, siyasi ve insani krizler ve bu krizler bağlamında bölgesel/küresel aktörlerin davranışları hakkında akademik bilinç/hafıza oluşturmak amacıyla kaleme alınan Ortadoğu Yıllığı on beşinci kitabına ulaştı. Bu yıllığı yayımlayarak Ortadoğu alanında başta akademisyen ve araştırmacılar ile konuya ilgi duyan kamuoyuna nitelikli bilgi verme amacımıza büyük ölçüde ulaştığımıza inanıyoruz. Bu amacı gerçekleştirirken kitaptaki...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/ortadogu_yilligi_2018_1574776203.jpg" alt="Ortadoğu Yıllığı 2018" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,34,ortadogu_yilligi_2018.html" title="Ortadoğu Yıllığı 2018">Ortadoğu Yıllığı 2018</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Kemal İnat, Muhittin Ataman (Ed.)</b><br /><br />İÇİNDEKİLER Türkiye'nin Ortadoğu Politikası 2018- Kemal İnat, Melih Yıldız ORTADOĞU ÜLKELERİNİN 2016 YILI GELİŞMELERİ Irak- Recep Tayyip Gürler İran- Mustafa Caner Filistin-Fatma Zehra Toçoğlu Lübnan-Ayşe Selcan Özdemirci İsrail-Haydar Oruç Suudi Arabistan- İsmail Akdoğan Mısır- İsmail Numan Telci Suriye-Ahmet Arda Şensoy Ürdün- Ünal Tüysüz Birleşik Arap Emirlikleri-Ahmet Üçağaç Yemen-Talha İsmail Duman Kuveyt-Mehmet Rakipoğlu Umman Sultanlığı-...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/foto.jpg" alt="Ortadoğu'da Sivil Toplum: İmkan ve Kısıtlılıklar" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,32,ortadogu_da_sivil_toplum_imkan_ve_kisitliliklar.html" title="Ortadoğu'da Sivil Toplum: İmkan ve Kısıtlılıklar">Ortadoğu'da Sivil Toplum: İmkan ve Kısıtlılıklar</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Filiz Cicioğlu (Ed.)</b><br /><br />Türkiye'de sivil toplum konusu 1980'lerden itibaren akademik yazında yoğun bir şekilde tartışılırken, bu konu daha çok siyaset bilimi ve sosyoloji gibi alanların gündemindeydi. Konunun uluslararası ilişkiler ve dış politika ile ilgilenenler tarafından çalışılmaya başlanması daha çok 1990'lar sonrasına rastlamaktadır. Ortadoğu'da sivil toplumu hatta onun varlığını tartışmak ise Türkiye'deki akademik camianın pek ilgisini çekmemiş gibi görünüyor. Bu konuda...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/irankitap_1.jpg" alt="İran Yaptırımları" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,31,iran_yaptirimlari.html" title="İran Yaptırımları">İran Yaptırımları</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Kemal İnat, Burhanettin Duran</b><br /><br /> Dünya politikasının önemli gündemlerinden birini oluşturan ABD'nin İran yaptırımları meselesi kuşkusuz sadece Washington ve Tahran yönetimlerini ilgilendirmiyor. Başta Türkiye olmak üzere her iki ülkeyle yakın ilişki içerisinde olan çok sayıda aktör de bu sorunun parçası haline gelmiş durumda. Trump yönetiminin hukuksuz bir şekilde Tahran ile imzalanan nükleer anlaşmadan çekilerek İran'a karşı yeniden yaptırım uygulamaya başlamasına –başta Avrupa...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/diplomasi_ve_savas_1_1560329843.jpg" alt="Diplomasi ve Savaş" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,30,diplomasi_ve_savas.html" title="Diplomasi ve Savaş">Diplomasi ve Savaş</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>İsmail Ediz</b><br /><br />Diplomasi ve Savaş Batı Anadolu'da Yunan İşgali 1919 - 1922 15 Mayıs 1919'da İzmir'in Yunan ordusu tarafından işgal edilmesi, "Büyük Yunanistan" hayalinden daha öte uluslararası politikaların, İtilaf Devletleri arasındaki dengelerin ve çatışmaların ortaya çıkardığı bir sürecin parçasıdır. Elinizdeki araştırma da Yunan işgalinin ekonomik ve siyasi boyutlarıyla uluslararası bir proje olduğu, dolayısıyla özelde Batı Anadolu'da, genelde ise bütün Osmanlı...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/ortadogu_ve_postkolonyalizm_843620_35_o.jpg" alt="Ortadoğu ve Postkolonyalizm" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,27,ortadogu_ve_postkolonyalizm.html" title="Ortadoğu ve Postkolonyalizm">Ortadoğu ve Postkolonyalizm</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Ali Balcı </b><br /><br />Postkolonyalizm tıpkı Şarkiyatçılık gibi günümüzde olup bitenleri kavrayabilmek açısından önemli teorik çerçevelerden biri. Gayatri Chakravorty Spivak, Homi Bhabha, Ranajit Guha, Dipesh Chakrabarty gibi önemli isimlerle anılan postkolonyal teori aynı zamanda Batı-merkezli "evrensel" kategorileri reddettiği için oldukça yaygın bir düşünce. Bu bakımdan hem ilk sömürgeci deneyimden beri ezilen hem de bu halinden dolayı sürekli suçlanan insanların coğrafyasında...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="image"><div class="thumb_ls"><img src="uploads/images/whatsapp_image_2019_07_05_at_16_29_05_2.jpg" alt="İmparatorluğun Savaş Kararı" /></div></div>
+    <div class="sec-heading">
+      <h2><a href="24,3,,26,imparatorlugun_savas_karari.html" title="İmparatorluğun Savaş Kararı">İmparatorluğun Savaş Kararı</a></h2>
+    </div>
+    <div class="entry-summary"><p style="text-align: justify;"><br /><b>Ali Balcı, Tuncay Kardaş, İsmail Ediz, Yıldırım Turan</b><br /><br /> Dağılmanın eşiğinde bir İmparatorluk, neden Avrupa'nın büyük devletleri arasındaki savaşa dahil oldu? Devletin sonunu getiren savaşın kararını kimler, hangi koşullar altında aldı? Elinizdeki kitap, geç Osmanlı döneminin en çok ilgi çeken sorusunu ele alıyor. Bu soruyu cevaplarken, okuyucusunu 'Osmanlı için tek seçenek savaşa girmekti' ya da 'Enver Paşa Osmanlı'yı savaşa soktu' gibi basmakalıp cevapların dışında düşünmeye sevk ediyor.Kitap, Birinci Dünya...</p></div>
+  </article>
+  <div class="clear"></div>
+</div>
+<div align="center"><br /><b>Sayfa</b><br /><ul class="pagination">
+    <li><span>&laquo;</span></li>
+    <li class="active"><span>1</span></li>
+    <li><a href="24,1,,1,kitap.html?page=2">2</a></li>
+    <li><a href="24,1,,1,kitap.html?page=2">&raquo;</a></li>
+  </ul>
+<br /></div>          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2024. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

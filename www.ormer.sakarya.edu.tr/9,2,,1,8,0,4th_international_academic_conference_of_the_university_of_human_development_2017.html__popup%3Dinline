@@ -1,0 +1,20 @@
+<html>
+<head>
+<meta http-equiv="Content-Language" content="tr">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+<title>502: could not connect to database server</title>
+</head>
+<body>
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+    <tr>
+      <td align="center">
+        <br><br><br><br><br><br><br><br>
+        <font color="red" style="font-size: 40px"><b>error</b></font><br>
+        <font style="font-size: 56px"><b>502</b></font><br>
+        <font style="font-size: 10px">f&nbsp; i&nbsp; v&nbsp; e&nbsp; o&nbsp; t&nbsp; w&nbsp; o</font><br><br>
+        <font style="font-size: 14px">&quot;could not connect to database server&quot;</font>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

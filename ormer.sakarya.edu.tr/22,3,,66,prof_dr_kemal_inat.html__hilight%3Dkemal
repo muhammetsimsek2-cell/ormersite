@@ -1,0 +1,612 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2024 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Profesör Kemal İnat | Kadromuz | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<meta property="og:title" content="Profesör Kemal İnat | Kadromuz | Ortadoğu Enstitüsü" />
+<meta property="og:description" content="..." />
+<meta property="og:image" content="http://ormer.sakarya.edu.tr/" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="https://ortadogu.sakarya.edu.tr/tr/icerik/23215/121792/doktora-programina-nasil-basvurulur">Başvuru Koşulları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,2,,27,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a><ul><li><a href="19,2,,3,1_ortadogu_kongresi.html">1. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,2_ortadogu_kongresi.html">2. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,3_ortadogu_kongresi.html">3. Ortadoğu Kongresi</a></li><li><a href="19,2,,13,4_ortadogu_kongresi.html">4. Ortadoğu Kongresi</a></li><li><a href="19,2,,20,5_ortadogu_kongresi.html">5. Ortadoğu Kongresi</a></li><li><a href="19,2,,22,6_ortadogu_kongresi.html">6.Ortadoğu Kongresi</a></li><li><a href="19,,7_ortadogu_kongresi.html">7.Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Kadromuz</span></h4></div>
+<ul class="sidebar-details">
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,22,profesor_ali_balci.html">Profesör Ali Balcı</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,24,profesor_kemal_inat.html">Profesör Kemal İnat</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,23,profesor_tuncay_kardas.html">Profesör Tuncay Kardaş</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,114,doc_dr_i_aytac_kadioglu.html">Doç. Dr. İ. Aytaç Kadıoğlu</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,37,doc_dr_ismail_ediz.html">Doç. Dr. İsmail Ediz</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,15,doc_dr_ismail_numan_telci.html">Doç. Dr. İsmail Numan Telci</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,18,doc_dr_nebi_mis.html">Doç. Dr. Nebi Miş</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,19,doc_dr_yildirim_turan.html">Doç. Dr. Yıldırım Turan</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,116,ogretim_uyesi_dr_elsadig_elfaqih.html">Öğretim Üyesi, Dr Elsadig Elfaqih</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,73,ogretim_uyesi_dr_m_soliman_al_zawawy.html">Öğretim Üyesi, Dr M.Soliman Al-Zawawy</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,64,ogretim_gorevlisi_dr_ayse_sosar.html">Öğretim Görevlisi, Dr. Ayşe Sosar</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,12,ogretim_gorevlisi_dr_mustafa_caner.html">Öğretim Görevlisi, Dr. Mustafa Caner</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,5,arastirma_gorevlisi_dr_a_selcan_ozdemirci_cinal.html">Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,3,arastirma_gorevlisi_dr_abdussamet_pulat.html">Araştırma Görevlisi, Dr. Abdüssamet Pulat</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,7,arastirma_gorevlisi_dr_berkan_ozgur.html">Araştırma Görevlisi, Dr. Berkan Özgür</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,14,arastirma_gorevlisi_dr_bilal_yildirim.html">Araştırma Görevlisi, Dr. Bilal Yıldırım</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,127,arastirma_gorevlisi_dr_mahmut_cihat_izgi.html">Araştırma Görevlisi, Dr. Mahmut Cihat İzgi</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,89,arastirma_gorevlisi_dr_talha_ismail_duman.html">Araştırma Görevlisi, Dr. Talha İsmail Duman</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,10,arastirma_gorevlisi_ayse_hazar.html">Araştırma Görevlisi
+ Ayşe Hazar</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,1,arastirma_gorevlisi_fatma_zehra_tocoglu.html">Araştırma Görevlisi
+ Fatma Zehra Toçoğlu</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,35,arastirma_gorevlisi_furkan_halit_yolcu.html">Araştırma Görevlisi
+ Furkan Halit Yolcu</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,129,arastirma_gorevlisi_ismail_ozturk.html">Araştırma Görevlisi
+ İsmail Öztürk</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,118,arastirma_gorevlisi_melih_yildiz.html">Araştırma Görevlisi
+ Melih Yıldız</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,120,arastirma_gorevlisi_muhammed_yasir_bodur.html">Araştırma Görevlisi
+ Muhammed Yasir Bodur</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,111,arastirma_gorevlisi_mustafa_onur_yalcin.html">Araştırma Görevlisi
+ Mustafa Onur Yalçın</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,47,arastirma_gorevlisi_recep_tayyip_gurler.html">Araştırma Görevlisi
+ Recep Tayyip Gürler</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,69,arastirma_gorevlisi_rumeysa_ayverdi_varan.html">Araştırma Görevlisi
+ Rümeysa Ayverdi Varan</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,9,arastirma_gorevlisi_rumeysa_koktas.html">Araştırma Görevlisi
+ Rümeysa Köktaş</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,41,arastirma_gorevlisi_serra_can.html">Araştırma Görevlisi
+ Serra Can</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,119,arastirma_gorevlisi_vahap_yildiz.html">Araştırma Görevlisi
+ Vahap Yıldız</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,6,arastirma_gorevlisi_zana_baykal.html">Araştırma Görevlisi
+ Zana Baykal</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,38,okutman_ma_en_ahmed_ali.html">Okutman Ma'en Ahmed Ali</a></span></li>
+  <li><span><i class="fa fa-circle-o"></i> <a href="22,3,,20,misafir_ogr_uy_murat_yesiltas.html">Misafir Öğr. Üy. Murat Yeşiltaş</a></span></li>
+</ul></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Kadromuz</span></h4></div>
+<div class="row site_post">
+  <div class="site_lists">
+    <article class="post">
+      <div class="sec-heading">
+        <h2>Profesör Kemal İnat</h2>
+        <div class="postmeta col-md-6 notprint">
+          &nbsp;
+        </div>
+        <div class="sidebar col-md-6 notprint">
+            <ul class="social-icons">
+    <li><a target="_blank" href="https://www.linkedin.com/cws/share?url=http%3A%2F%2Former.sakarya.edu.tr%2F22%2C3%2C.html"><i class="social linkedin"></i></a></li>
+    <li><a target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Former.sakarya.edu.tr%2F22%2C3%2C.html&ref_src=twsrc%5Etfw&text=&tw_p=tweetbutton&url=http%3A%2F%2Former.sakarya.edu.tr%2F22%2C3%2C.html&via=SAUOrtadogu"><i class="social twitter"></i></a></li>
+    <li><a target="_blank" href="https://plusone.google.com/_/+1/confirm?hl=en&url=http%3A%2F%2Former.sakarya.edu.tr%2F22%2C3%2C.html"><i class="social google-plus"></i></a></li>
+    <li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Former.sakarya.edu.tr%2F22%2C3%2C.html"><i class="social facebook"></i></a></li>
+  </ul>
+        </div>        
+      </div>
+      <div class="entry-summary"><p style="text-align: left;"><img src="uploads/images/foto_kemal_inat1.jpg" alt="foto kemal inat1 jpg" height="172" width="244"></p>
+<p style="text-align: justify;">Kemal İnat graduated from Ankara University with a Bachelor of Arts in Political Sciences in 1992 and from Siegen University with a Ph.D. through his dissertation "Turkey's Middle East Policy in the Inception of 21st Century " in 2000. Editing Middle East Yearbook which is published since 2005 and Turkish Foreign Policy Yearbook that is published since 2009, Inat published articles in several national and international books as Dünya Çatışmaları and peer-reviewed journals such as Blaetter für Deutsche und international Politik, Bilgi, Turkish Journal of Middle Eastern Studies. An active professor at Sakarya University International Relations Department and Middle East Institute, Inat lectures on Issues in the Middle East, Turkey's Middle East Policy and EU-Middle East Affairs. </p>
+<h2 style="text-align: justify;"><u>Books</u> </h2>
+<ul>
+<li>Kemal İnat ve Muhittin Ataman (Edits.), <b>Ortadoğu Yıllığı 2015</b>, Açılım Kitap, İstanbul, 2016.</li>
+<li>Burhanettin Duran, Kemal İnat ve Mustafa Caner (Edits.), <b>Türk Dış Politikası Yıllığı</b> <b>2016</b>, SETA Yayınları, Ankara, 2017.</li>
+<li>Burhanettin Duran ve Kemal İnat (Edits.), <b>Türk Dış Politikası Yıllığı</b> <b>2015</b>, SETA Yayınları, Ankara, 2016.</li>
+<li>Kemal İnat ve Muhittin Ataman (Edits.), <b>Ortadoğu Yıllığı 2014, </b>Açılım Kitap, İstanbul 2015.</li>
+<li>Burhanettin Duran, Kemal İnat ve Ali Balcı (Edits.), <b>Türk Dış Politikası Yıllığı 2014, </b>SETA Yayınları, Ankara 2015.</li>
+<li>Kemal İnat ve Muhittin Ataman (Edits.), <b>Ortadoğu Yıllığı 2013, </b>Açılım Kitap, İstanbul 2014.</li>
+<li>Kemal İnat, Muhittin Ataman ve İsmail Numan Telci (Edits.), <b>Ortadoğu Yıllığı 2012, </b>Açılım Kitap, İstanbul 2013.</li>
+<li>Kemal İnat vd. (Edits.), <b>Ortadoğu Yıllığı 2011, </b>Açılım Kitap, İstanbul 2012.</li>
+<li>Kemal İnat, Muhittin Ataman ve İsmail Numan Telci (Edits.), <b>Ortadoğu Yıllığı 2010, </b>Açılım Kitap, İstanbul 2011.</li>
+<li>Kemal İnat, Muhittin Ataman ve Burhanettin Duran (Edits.), <b>Ortadoğu Yıllığı 2009, </b>Küre Yayınları, İstanbul 2011.</li>
+<li>Burhanettin Duran, Kemal İnat ve Ali Balcı (Edits.), <b>Türk Dış Politikası Yıllığı 2013, </b>SETA Yayınları, Ankara 2015.</li>
+<li>Burhanettin Duran, Kemal İnat ve Ufuk Ulutaş (Edits.), <b>Türk Dış Politikası Yıllığı 2012, </b>SETA Yayınları, Ankara 2013.</li>
+<li>Burhanettin Duran, Kemal İnat ve Ali Resul Usul (Edits.), <b>Türk Dış Politikası Yıllığı 2011, </b>SETA Yayınları, Ankara 2012.</li>
+<li>Burhanettin Duran, Kemal İnat ve Mesut Özcan (Edits.), <b>Türk Dış Politikası Yıllığı 2010, </b>SETA Yayınları, Ankara 2011.</li>
+<li>Burhanettin Duran, Kemal İnat ve Muhittin Ataman (Edits.), <b>Türk Dış Politikası Yıllığı 2009, </b>SETA Yayınları, Ankara 2011.</li>
+<li>Kemal İnat, B.Duran, M.Ataman (Edits.), <b>Dünya Çatışmaları</b>, Nobel Yayınları, 2 Cilt, Ankara 2010.</li>
+<li>Kemal İnat, Muhittin Ataman ve Burhanettin Duran (Edits.), <b>Ortadoğu Yıllığı 2008, </b>Küre Yayınları, İstanbul 2009.</li>
+<li>Kemal İnat, Muhittin Ataman ve Murat Yeşiltaş (Edits.), <b>Ortadoğu Yıllığı 2007, </b>Küre Yayınları, İstanbul 2009.</li>
+<li>Kemal İnat ve Muhittin Ataman (Edits.), <b>Ortadoğu Yıllığı 2006</b>, Nobel Yayınları, Ankara 2008.</li>
+<li>Kemal İnat ve Ali Balcı (Edits.), <b>Ortadoğu Yıllığı 2005</b>, Nobel Yayınları, Ankara 2006.</li>
+<li>Wolfgang Gieler, Kemal İnat, Claudio Kullmann (Edits.), <b>Foreign Policy of States. A Handbook on World Affairs</b>, TASAM Publications, Istanbul 2005.</li>
+</ul>
+<h2 style="text-align: justify;"><u>Articles</u> </h2>
+<ul>
+<li>Kemal İnat, "Anti-Turkey Sentiment in Europe during the Referendum Process", Insight Turkey, Spring 2017, Volume 19, No. 2, ss. 43-61.</li>
+<li>Kemal İnat, "Economic Relations between Turkey and Germany", Insight Turkey, Winter 2016, ss. 21-34.</li>
+<li>Kemal İnat, "Türkiye'nin Ortadoğu Politikası 2015", <b>Ortadoğu Yıllığı 2015</b>, Açılım Kitap, İstanbul, 2016.</li>
+<li>Kemal İnat, "Türk Dış Politikasının Kapasitesinin Dönüşümü: AK Parti Dönemi<b>", Türkiye Ortadoğu Çalışmaları Dergisi, </b>Sayı 1, Yıl 1, 2014, ss. 1-24.</li>
+<li>Kemal İnat, "Türkiye'nin Ortadoğu Politikası 2012", <b>Ortadoğu Yıllığı 2012</b>, Sayı 8, Yıl 8, ss.9-30.</li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2011", <b>Ortadoğu Yıllığı 2011</b>, Sayı 7, Yıl 7, ss.9-30.</li>
+<li>Kemal İnat, "Türkische Aussenpolitik zwischen Europa und Amerika", <b>Blätter für deutsche und internationale Politik</b><em>, </em>Oktober 2005, s. 1237-1241.</li>
+<li>Kemal İnat, "Alman Dış Politikası'nın Temel Belirleyicileri: Tarih, Ekonomi ve Güvenlik", <b>Finanspolitik ve Ekonomik Yorumlar</b>, 2011, Cilt:48, Sayı: 556, ss. 45-55.</li>
+<li>Kemal İnat, "Birleşme Sonrasında Almanya'nın Dış Politikası: 'Normalleşme'nin Son Adımları", <b>Bilgi</b>, 2009/1. s. 1-37.</li>
+<li>Kemal İnat ve B. Duran, "AKP Dış Politikası: Teori ve Uygulama", <b>Demokrasi Platformu</b>, Güz 2005, ss. 1-39.</li>
+<li>Kemal İnat, "Türkiye'nin Kıbrıs Politikası'nın Dönüşümü", <b>Bilgi</b>, 2005/2, ss. 43-65. </li>
+</ul>
+<h2 style="text-align: justify;"><u>Book Chapters</u> </h2>
+<ul>
+<li>Kemal İnat, "Türkiye'nin Ortadoğu Politikası 2016", Ortadoğu Yıllığı 2016, 2017.</li>
+<li>Kemal İnat ve Mustafa Caner, "Türk-Amerikan İlişkilerinde "Eksen" Sorunu", AK Parti'nin 15 Yılı. Dış Politika, ed. Kemal İnat, Ali Aslan ve Burhanettin Duran, SETA Yayınları, Ankara 2017, ss. 109-134.</li>
+<li>Kemal İnat ve Mustafa Caner, "Suriye Savaşı ve ABD'nin Gölgesinde Türk-İran İlişkileri", AK Parti'nin 15 Yılı. Dış Politika, ed. Kemal İnat, Ali Aslan ve Burhanettin Duran, SETA Yayınları, Ankara 2017, ss. 239-262.</li>
+<li>Kemal İnat ve Mustafa Caner, "Türkiye'nin İran Politikası 2016", Türk Dış Politikası Yıllığı 2016, ed. Burhanettin Duran, Kemal İnat ve Mustafa Caner, SETA Yayınları, Ankara, 2017.</li>
+<li>Kemal İnat ve Mustafa Caner, "Türkiye'nin İran Politikası 2016", <b>Türk Dış Politikası Yıllığı 2016</b>, ed. Burhanettin Duran, Kemal İnat ve Mustafa Caner, SETA Yayınları, Ankara, 2017.</li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2015", <b>Türk Dış Politikası Yıllığı 2015</b>, ed. Burhanettin Duran ve Kemal İnat, SETA Yayınları, Ankara, 2016.</li>
+<li>Kemal İnat ve Abdullah Yeğin, "Türkiye'nin İran Politikası 2014", <b>Türk Dış Politikası Yıllığı 2014,</b> Burhanettin Duran, Kemal İnat, Ufuk Ulutaş, SETA Yayınları, Ankara 2015, ss. 141-170.</li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2013", <b>Türk Dış Politikası Yıllığı 2013,</b> Burhanettin Duran, Kemal İnat, Ali Balcı, SETA Yayınları, Ankara 2014, ss. 117-141.</li>
+<li>Kemal İnat ve Filiz Cicioğlu, Avrupa Birliği, Edits., Ali Balcı ve Şaban Kardaş, <b>Uluslararası İlişkilere Giriş,</b></li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2012", <b>Türk Dış Politikası Yıllığı 2012,</b> Burhanettin Duran, Kemal İnat, Ufuk Ulutaş, SETA Yayınları, Ankara 2013, ss. 183-213.</li>
+<li>Kemal İnat, "Türkiye'nin Orta Doğu Politikaları", Davut Dursun ve Tayyar Arı (Edits.), <b>Orta Doğuda Siyaset</b>, Anadolu Üniversitesi, 2013, 188-226.</li>
+<li>Kemal İnat ve İsmail Numan Telci, "Türkiye'nin İran, Suriye, İsrail ve Lübnan Politikası 2011", <b>Türk Dış Politikası Yıllığı 2011,</b> Burhanettin Duran, Kemal İnat, Ali Resul Usul, SETA Yayınları, Ankara 2012, ss. 205-264.</li>
+<li>Kemal İnat ve Nurpeis Kulzhabay Tegi, "Religion in Kasachstan", Markus Porsche-Ludwig ve Jürgen Bellers (Edits.), <b>Handbuch der Religionen der Welt</b>", Bautz Verlag, 2012.</li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2010", <b>Ortadoğu Yıllığı 2010</b>, ed. Kemal İnat, Muhittin Ataman, İsmail Numan Telci, Açılım Kitap, İstanbul 2011, ss. 9-41.</li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2009", <b>Ortadoğu Yıllığı 2009</b>, ed. Kemal İnat, Muhittin Ataman, Burhanettin Duran, Küre Yayınları, İstanbul 2011.</li>
+<li>Kemal İnat ve İsmail Numan Telci, "Türkiye'nin İran, İsrail/Filistin ve Suriye Politikası 2010", <b>Türk Dış Politikası Yıllığı 2010,</b> Burhanettin Duran, Kemal İnat, Mesut Özcan, SETA Yayınları, Ankara 2011, ss. 67-136.</li>
+<li>Kemal İnat ve İsmail Numan Telci, "Türkiye'nin İran, İsrail/Filistin ve Suriye Politikası 2009", <b>Türk Dış Politikası Yıllığı 2009,</b> Burhanettin Duran, Kemal İnat, Muhittin Ataman, SETA Yayınları, Ankara 2011, ss. 93-158.</li>
+<li>Kemal İnat, "Irak: ABD ve Saddam Hüseyin "İşbirliği" ile Gelen Yıkım", <b>Dünya Çatışmaları</b>, Cilt 1, eds. K. İnat, B. Duran, M. Ataman, Nobel Yayınları, Ankara, 2010, ss. 9-98.</li>
+<li>Kemal İnat ve A. Balcı, "Makedonya: Balkanlarda Tarihi Miras Kavgası ve Etnik Çatışma", <b>Dünya Çatışmaları</b>, Cilt 1, eds. K. İnat, B. Duran, M. Ataman, Nobel Yayınları, Ankara, 2010, ss. 639-655.</li>
+<li>Kemal İnat, "Sudan: Neo-Kolonializmin Kıskacında Bölünme Sancısı", <b>Dünya Çatışmaları</b>, Cilt 2, eds. K. İnat, B. Duran, M. Ataman, Nobel Yayınları, Ankara, 2010, ss. 3-60.</li>
+<li>Kemal İnat ve İsmail Numan Telci, "Kongo Demokratik Cumhuriyeti(Zaire): Orta Afrika İç Savaşı", <b>Dünya Çatışmaları</b>, Cilt 2, eds. K. İnat, B. Duran, M. Ataman, Nobel Yayınları, Ankara, 2010, ss. 121-148.</li>
+<li>Kemal İnat ve İsmail Numan Telci, "Burundi: 'Ortadoğu' Afrika'da Etnik Çatışma", <b>Dünya Çatışmaları</b>, Cilt 2, eds. K. İnat, B. Duran, M. Ataman, Nobel Yayınları, Ankara, 2010, ss. 97-120.</li>
+<li>Kemal İnat ve İsmail Numan Telci, "Ruanda: 'Ortadoğu' Afrika'da Katliamlar Ülkesi", <b>Dünya Çatışmaları</b>, Cilt 2, eds. K. İnat, B. Duran, M. Ataman, Nobel Yayınları, Ankara, 2010, ss. 149-170.</li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2008", <b>Ortadoğu Yıllığı 2008</b>, ed. Kemal İnat, Muhittin Ataman, Burhanettin Duran, Küre Yayınları, İstanbul 2009, ss. 9-47.</li>
+<li>Kemal İnat, "Türkiye'nin İran Politikası 2007", <b>Ortadoğu Yıllığı 2007</b>, ed. Kemal İnat, Muhittin Ataman, Murat Yeşiltaş, Küre Yayınları, İstanbul 2009, ss. 1-29.</li>
+<li>Kemal İnat ve Ali Balcı, "Dış Politika: Teorik Perspektifler", <b>Uluslararası Politikayı Anlamak: Ulus-devletten Küreselleşmeye</b>, ed. Zeynep Dağı, Alfa Yayınları, İstanbul 2007. ss. 212-287.</li>
+<li>Kemal İnat, "Türkiye'nin Dönüşümünde Avrupa Birliği'nin Etkisi", <b>Dönüşüm Sürecindeki Türkiye</b>, ed. Davut Dursun, Burhanettin Duran, Hamza Al, Alfa, İstanbul 2007, ss. 97-120.</li>
+<li>Kemal İnat, "Türkiye'nin Ortadoğu Politikası 2006", <b>Ortadoğu Yıllığı 2006</b>, ed. Kemal İnat ve Muhittin Ataman, Nobel Yayınları, Ankara 2007, ss. 1-54.</li>
+<li>Kemal İnat, "Türkiye'nin Ortadoğu Politikası 2005", <b>Ortadoğu Yıllığı 2005</b>, ed. Kemal İnat ve Ali Balcı, Nobel Yayınları, Ankara 2006, ss. 1-38.</li>
+<li>Kemal İnat, "Irak 2005", <b>Ortadoğu Yıllığı 2005</b>, ed. Kemal İnat ve Ali Balcı, Nobel Yayınları, Ankara 2006, ss. 53-78.</li>
+<li>Kemal İnat, "Avrupa Politik İşbirliği'nin Doğuşu", <b>Avrupa Birliği Üzerine Notlar</b>, ed. O. Kaymakçı, Nobel Yayınları, Ankara, 2005, ss. 3-21.</li>
+<li>Kemal İnat, "Republic of Turkey", <b>Foreign Policy in the Greater Middle East. Central Middle Eastern Countries</b>, ed. W. Gieler ve K. Inat, Wissenschaftlicher Verlag Berlin, Berlin, 2005, ss. 9-22.</li>
+<li>Kemal İnat ve M. Yeşiltaş, "Islamic Republic of Iran", <b>Foreign Policy in the Greater Middle East. Central Middle Eastern Countries</b>, ed. W. Gieler ve K. Inat, Wissenschaftlicher Verlag Berlin, Berlin, 2005, ss. 23-36.</li>
+<li>Kemal İnat ve M. Ataman, "KEIT", <b>Internationale Wirtschaftsorganisationen. Entsteheung-Struktur-Perspektiven</b>, ed. W. Gieler, Lit Verlag, Münster-Hamburg-London, 2005, ss. 211-220.</li>
+<li>Kemal İnat ve S. İnanclı, "ECO", <b>Internationale Wirtschaftsorganisationen. Entsteheung-Struktur-Perspektiven,</b> W. Gieler, Lit Verlag, Münster-Hamburg-London, 2005, ss. 192-202.</li>
+<li>Kemal İnat, "Sudan: İç Savaş, Siyasal İslam ve Petrol Ekseninde 'Terörizm' Suçlaması", <b>ABD'nin 'Haydut Devletleri'</b>, ed. K. İnat, Değişim Yayınları, İstanbul, 2004, ss. 63-105.</li>
+<li>Kemal İnat, "Türkei", <b>Handbuch der Aussenwirtschaftspolitiken: Staaten und Organisationen</b>, ed. M. Neu ve diğerleri, Lit Verlag, Münster-Hamburg-London, 2004, ss. 827-833.</li>
+<li>Kemal İnat ve M. Bilen, "Oman", <b>Handbuch der Aussenwirtschaftspolitiken: Staaten und Organisationen</b>, ed. M. Neu ve diğerleri, Lit Verlag, Münster-Hamburg-London, 2004, ss. 518-521.</li>
+<li>Kemal İnat, "Türkei", <b>Handbuch Europäischer Migrationspolitiken</b>, ed. W. Gieler ve D. Fricke, Lit Verlag, Münster-Hamburg-London, 2004, ss. 251-258.</li>
+<li>Kemal İnat, "Iran", <b>Handbuch der Ausländer- und Zuwanderungspolitik</b>, ed. Gieler, Lit Verlag, Münster-Hamburg-London, 2004, ss. 205-211.</li>
+<li>Kemal İnat ve M. Küçük, "Turkmenistan", <b>Handbuch der Ausländer- und Zuwanderungspolitik</b>, ed. Gieler, Lit Verlag, Münster-Hamburg-London, 2004, ss. 676-679.</li>
+</ul>
+<h2 style="text-align: justify;"><b><u>Reports</u></b></h2>
+<ul>
+<li>Kemal İnat (Proje Yürütücüsü), Ortadoğu'da Radikalizm: Görünümü ve Kaynakları, <b>IRCICA Projesi</b>, 1 Ağustos-30 Ekim 2016.</li>
+<li>Kemal İnat vd., Almanya'da FETÖ Yapılanması ve Almanya'nın FETÖ Politikası, <b>SETA Rapor</b>, 2017.</li>
+</ul>
+<p style="text-align: justify;"><u> </u></p>
+<h2 style="text-align: justify;"><b><u>Analysis and Pespectives</u><u> </u></b></h2>
+<ul>
+<li>Ufuk Ulutaş, Kemal İnat ve Kılıç Buğra Kanat, Turkish Foreign Policy after April 16, SETA Perspektif, Mayıs 2017.</li>
+<li>Kemal İnat, "Ankara-NATO İlişkilerinde "Yeni Formül İhtiyacı", Kriter, Haziran 2017.</li>
+<li>Kemal İnat, "For the U.S. and Turkey, NATO Continues to be an Unequal, Unreliable Alliance", New Turkey, June 2017.</li>
+<li>Kemal İnat, "Avrupa Neden 'Hayır' Diyor", Kriter, Nisan 2017.</li>
+<li>Kemal İnat, What the Referendum's "Yes" means for Europe's "No", New Turkey, April 2017.</li>
+<li>Kemal İnat, "Türk-Alman İlişkileri: Sorunlar ve Çözümler", Kriter, Mart 2017.</li>
+<li>Kemal İnat, "Seçimlerin Gölgesinde Türkiye-Hollanda Krizi", Al Jazeera Turk, Mart 2017.</li>
+<li>Kemal İnat, "FETÖ, The Coup, and Europe", Kriter, January 2017.</li>
+<li>Kemal İnat, "Katar'a Ambargo DEAŞ'ı Güçlendirir", Sabah Röportaj, 12 Haziran 2017.</li>
+<li>Kemal İnat, "Almanya'nın Suudi Arabistan Politikasını Anlamak", Anadolu Ajansı Analiz, Aralık 2017.</li>
+<li>Kemal İnat vd., "Ortadoğu'daki Bölgesel Aktörlerin Musul Politikaları", <b>SETA Analiz</b>, Aralık 2016.</li>
+<li>Kemal İnat vd. "İran-Suudi Arabistan Rekabetinin Bölgesel Yansımaları", <b>SETA Analiz</b>, Ocak 2016.</li>
+<li>Kemal İnat, "ECO'nun 30. Yılında Türkiye-İran Ekonomik İlişkileri", <b>SETA Analiz</b>, Mayıs 2015.</li>
+<li>Kemal İnat, "İslam İşbirliği Teşkilatı İstanbul Zirvesi ve Türkiye'nin Dönem Başkanlığı", <b>Ortadoğu Analiz</b>, Mayıs-Haziran 2016.</li>
+<li>Kemal İnat, "İran'ın Suudi Arabistan Politikasına Aktör Merkezli Bakış", <b>Ortadoğu Analiz</b>, Mart-Nisan 2016.</li>
+<li>Kemal İnat, "Mezhepçi Politika Nedir?", <b>ORMER</b>, 11 Mayıs 2016.</li>
+<li>Kemal İnat, "Suriye Trajedisi ve Türkiye'nin Pozisyonu", <b>Kriter Dergisi</b>, Nisan 2016.</li>
+<li>Kemal İnat, "Türkiye-AB İlişkilerinin Geleceği", <b>Kriter Dergisi</b>, Mayıs 2016.</li>
+<li>Kemal İnat, "FETÖ, Darbe ve Avrupa", <b>Kriter Dergisi</b>, Ağustos 2016.</li>
+<li>Kemal İnat, "<a href="http://kriterdergi.com/cerablus-operasyonu-abd-ile-ittifaktan-rusya-ile-isbirligine/">Cerablus Operasyonu ve ABD ile "İttifak"tan Rusya ile "İşbirliği"ne</a>", <b>Kriter Dergisi</b>, Eylül 2016.</li>
+<li>Kemal İnat, "<a href="http://kriterdergi.com/suriyede-savasin-sonu-yakin-mi/">Suriye'de Savaşın Sonu Yakın mı?</a>", <b>Kriter Dergisi</b>, Ekim 2016.</li>
+<li>Kemal İnat, "<a href="http://kriterdergi.com/tu%cc%88rkiye-ab-i%cc%87lis%cc%a7kilerinde-pkk-sorunu/">Türkiye-AB İlişkilerinde PKK Sorunu</a>", <b>Kriter Dergisi</b>, Aralık 2016.</li>
+<li>Kemal İnat, "What is Sectarian Politics?", <b>The New Turkey</b>, 9 Mayıs 2016.</li>
+<li>Kemal İnat, "The Geneva Talks and Syria in its Aftermath", <b>The New Turkey</b>, 14 Mart 2016.</li>
+<li>Kemal İnat, "Almanya'nın Suriyeli Sığınmacılara Yönelik Politikası", <b>Ortadoğu Analiz</b>, Kasım-Aralık 2015, Cilt 7, Sayı 69, ss. 22-25.</li>
+<li>Kemal İnat, "Almanya'nın PKK ve Kürt Politikası", <b>Ortadoğu Analiz</b>, Temmuz-Ağustos 2015, Cilt 7, Sayı 69, ss. 38-40.</li>
+<li>Kemal İnat, "Almanya'nın Ortadoğu Politikası", <b>Ortadoğu Analiz</b>, Mayıs-Haziran 2015, Cilt 7, Sayı 68, ss. 68-69.</li>
+<li>Kemal İnat, "Avrupa Birliği Adalet Divanı'nın Hamas Kararını Nasıl Okumalı?", <b>Ortadoğu Analiz</b>, Ocak-Şubat 2015, Cilt 7, Sayı 66.</li>
+<li>Kemal İnat, "Dinleme Skandalı Gölgesinde Türk-Alman İlişkileri", <b>SETA Perspektif</b>, Aralık 2014.</li>
+<li>Kemal İnat, "Dinleme Skandalı Gölgesinde Türk-Alman İlişkileri", <b>SETA Perspektif</b>, Eylül 2014.</li>
+<li>Kemal İnat, "ABD-İran İlişkilerinin Ortadoğu ve Türkiye'ye Etkileri", <b>SETA Perspektif</b>, Aralık 2014.</li>
+<li>Kemal İnat, "Türkiye'nin Son Dönem İran Politikası: Barış ve Kalkınma İçin Karşılıklı Bağımlılık", <b>Ortadoğu Analiz</b>, Ekim 2009, Cilt 1, sayı 10, ss. 8-16.</li>
+<li>Kemal İnat, "İsrail'in Arap Dünyasına Yönelik Politikası", <b>Anlayış</b>, Şubat 2009, ss. 42-44.</li>
+<li>Kemal İnat, "Bölgesel Soğuk Savaş Tehdidini Aşmak ve Türkiye-İran İlişkileri", Der., Ali Resul Usul, <b>Batı Sonrası Dünyaya Doğru Türk Dış Politikası</b>, MÜSİAD, İstanbul 2013, ss. 57-65.</li>
+</ul>
+<h2 style="text-align: justify;"><b><u>Editor in Scientific Journals</u></b><em> </em></h2>
+<ul>
+<li>"<a href="18,2,,2,turkiye_ortadogu_calismalari_dergisi.html">Türkiye Ortadoğu Çalışmaları Dergisi</a>", (since 2014)</li>
+<li>"<a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a>", (since 2005)</li>
+<li>"<a href="https://www.setav.org/tag/turk-dis-politikasi-yilligi/">Türk Dış Politikası Yıllığı</a>", SETA Yayınları.</li>
+<li>"<a href="http://www.bilgidergi.com">Bilgi</a>", (between 2012-2014)</li>
+</ul>
+<h2 style="text-align: justify;"><b><u>Conference Presentations</u></b></h2>
+<ul>
+<li>"Türkiye-Avrupa İlişkilerini Rasyonelleştirmek", SETA İstanbul, 20 Kasım 2015.</li>
+<li>"Türkiye-İran İlişkileri", IV. Uludağ Uluslararası İlişkiler Kongresi, Bursa: Uludağ Üniversitesi, 7-8 Kasım 2012.</li>
+<li>"15 Temmuz Darbe Girisimine Avrupa'nın Tepkisi", III.Ortadoğu'da Siyaset ve Toplum Kongresi, Sakarya: Sakarya Üniversitesi, 11-13 Ekim 2016.</li>
+<li>"Türk İran Iliskilerinin Önündeki Engeller", VIII. Uludağ Uluslararası İlişkiler Kongresi, Bursa: Uludağ Üniversitesi, 28-29  Kasım 2016.</li>
+<li>"Die neue türkische Aussenpolitik", Siegen: Siegen Üniversitesi-Almanya, 28 Haziran 2011</li>
+<li>"Türkiye ve İran'ın Ortadoğu Devrimlerine Yaklaşımı", İstanbul Ticaret Üniversitesi, 29 Nisan 2011.</li>
+</ul>
+<h2 style="text-align: justify;"><b><u>Membership in Scientific Institutions</u></b><b> </b></h2>
+<ul>
+<li>TÜBİTAK - SOBAG Advisory Board (2014-2017)</li>
+<li>Üniversitelerarası Kurul (2013-2016)</li>
+</ul><div class="attach_ilist clearfix"></div>
+</div>
+      <div class="clear"></div>      
+    </article>
+  </div>  
+</div>
+<b>Yazara Ait Sitede Yer Alan Yazılar</b><br /><br />
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,625,will_the_rise_of_china_transform_the_international_system_.html" title="Will the Rise of China Transform the International System?">Will the Rise of China Transform the International System?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 13 Aralık 2021, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a>,  <a href="20,5,melih_yildiz.html?author=Melih Yıldız" title="Melih Yıldız" class="important">Melih Yıldız</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,19,articles.html" title="Articles" class="important">Articles</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,581,abd_iran_gerilimi_israil_icin_son_firsat_mi_.html" title="ABD-İran gerilimi: İsrail için son fırsat mı?">ABD-İran gerilimi: İsrail için son fırsat mı?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 29 Aralık 2020, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,580,fahrizade_suikasti_orta_dogu_siyasetini_nasil_etkiler_.html" title="Fahrizade suikastı Orta Doğu siyasetini nasıl etkiler?">Fahrizade suikastı Orta Doğu siyasetini nasıl etkiler?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 04 Aralık 2020, Cuma</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,561,sozde_ibrahim_anlasmasi_ve_turkiye_nin_tavri.html" title="Sözde İbrahim Anlaşması ve Türkiye’nin tavrı">Sözde İbrahim Anlaşması ve Türkiye’nin tavrı</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 20 Ağustos 2020, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,443,tirmanan_iran_krizi_ve_turkiye_icin_cikarimlar.html" title="Tırmanan İran Krizi ve Türkiye İçin Çıkarımlar">Tırmanan İran Krizi ve Türkiye İçin Çıkarımlar</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Haziran 2019, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,339,diplomacy_to_compensate_international_inequality_un_jerusalem_vote.html" title="Diplomacy to Compensate International Inequality: UN Jerusalem Vote">Diplomacy to Compensate International Inequality: UN Jerusalem Vote</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 01 Mart 2018, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,273,is_russia_really_withdrawing_from_syria_.html" title="Is Russia Really Withdrawing from Syria?">Is Russia Really Withdrawing from Syria?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 19 Aralık 2017, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,262,the_latest_on_the_syrian_civil_war_the_victors_and_the_defeated.html" title="The Latest on the Syrian Civil War: The Victors and the Defeated">The Latest on the Syrian Civil War: The Victors and the Defeated</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 04 Aralık 2017, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,247,turkey_and_iran_towards_a_renewed_partnership_.html" title="Turkey and Iran: Towards a Renewed Partnership?">Turkey and Iran: Towards a Renewed Partnership?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 19 Ekim 2017, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,236,what_does_the_referendum_in_northern_iraq_mean_for_turkey_and_the_middle_east_.html" title="What Does the Referendum in Northern Iraq Mean for Turkey and the Middle East?">What Does the Referendum in Northern Iraq Mean for Turkey and the Middle East?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 02 Ekim 2017, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,239,what_does_turkey_want_in_iraq_.html" title="What Does Turkey Want in Iraq?">What Does Turkey Want in Iraq?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 25 Eylül 2017, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,234,turkey_s_balance_of_power_politics_in_the_axis_of_europe_us_and_russia.html" title="Turkey’s Balance of Power Politics in the Axis of Europe, US, and Russia">Turkey’s Balance of Power Politics in the Axis of Europe, US, and Russia</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 19 Eylül 2017, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,208,for_the_u_s_and_turkey_nato_continues_to_be_an_unequal_unreliable_alliance.html" title="For the U.S. and Turkey, NATO Continues to be an Unequal, Unreliable Alliance">For the U.S. and Turkey, NATO Continues to be an Unequal, Unreliable Alliance</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 13 Haziran 2017, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,183,what_the_referendum_s_yes_means_for_europe_s_no_.html" title="What the Referendum’s “Yes” means for Europe’s “No”">What the Referendum’s “Yes” means for Europe’s “No”</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 02 Nisan 2017, Pazar</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,184,what_is_sectarian_politics_.html" title="What is Sectarian Politics?">What is Sectarian Politics?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 09 Mayıs 2016, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,185,the_geneva_talks_and_syria_in_its_aftermath.html" title="The Geneva Talks and Syria in its Aftermath">The Geneva Talks and Syria in its Aftermath</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 14 Mart 2016, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,104,operation_sah_firat_shah_euphrates_and_turkey_s_middle_east_policy.html" title="Operation Şah-Fırat (Shah–Euphrates) and Turkey’s Middle East Policy">Operation Şah-Fırat (Shah–Euphrates) and Turkey’s Middle East Policy</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 18 Mart 2015, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,103,the_eu_s_turkey_policies_promotion_of_democracy_vs_interventionism.html" title="The EU’s Turkey Policies: Promotion of Democracy vs Interventionism">The EU’s Turkey Policies: Promotion of Democracy vs Interventionism</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 15 Mart 2014, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,102,rational_dimension_of_turkey_eu_relations.html" title="Rational Dimension of Turkey-EU relations">Rational Dimension of Turkey-EU relations</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 15 Şubat 2014, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="clear"></div>
+  </article>
+</div>
+          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2024. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,2,,27,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

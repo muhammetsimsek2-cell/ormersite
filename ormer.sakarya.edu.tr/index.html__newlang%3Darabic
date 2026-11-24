@@ -1,0 +1,747 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2017 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+<link rel="StyleSheet" href="modules/home_page/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+      
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,ara.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="http://www.ortadogu.sakarya.edu.tr/tr/icerik/12194/52778/program-asamalari">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li></ul></li><li><a href="19,1,,1,ortadogu_kongresi.html">Ortadoğu Kongresi</a><ul><li><a href="19,2,,5,iii_ortadogu_kongresi.html">III. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,ii_ortadogu_kongresi.html">II. Ortadoğu Kongresi</a></li><li><a href="19,2,,3,i_ortadogu_kongresi.html">I. Ortadoğu Kongresi</a></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <script type="text/javascript" src="modules/home_page/jquery.anythingslider.min.js"></script>
+<script>
+<!--
+$(function(){
+  $('#slider_entry').anythingSlider({delay: 6000, autoPlay: true, hashTags: false});
+});
+//-->
+</script>
+<div class="row">
+  <div class="col-sm-7 nopadding">
+    <div id="latest-entry"><div>
+      <ul id="slider_entry">
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,192,abd_pkk_yi_neden_destekliyor_.html" title="ABD PKK’yı Neden Destekliyor?"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">ABD PKK’yı Neden Destekliyor?</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">16 Mayıs 2017, Salı</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,20,doc_dr_murat_yesiltas.html" title="Doç. Dr. Murat Yeşiltaş">Doç. Dr. Murat Yeşiltaş</a></span>
+		        </div>
+            <p>Ortadoğu'da Suriye iç savaşından sonra büyük resmi yakalamak giderek daha da zorlaşıyor. Bölge radikal bir dönüşümden geçse de bunu şekillendiren asıl dinamik yerel ölçekte yaşanan kırılmalar. En önemli sorunlardan biri baskın gelmesi gereken jeopolitik realitelerin yerel ölçekte yaşanan gerçekliğin dinamizmi içinde kaybolmuş olması.ABD'nin PKK'yı...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,191,astana_ve_soci_sonrasi_turkiye_nin_suriye_politikasi.html" title="Astana ve Soçi Sonrası Türkiye’nin Suriye Politikası"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Astana ve Soçi Sonrası Türkiye’nin Suriye Politikası</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">11 Mayıs 2017, Perşembe</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat">Prof. Dr. Kemal İnat</a></span>
+		        </div>
+            <p>Cumartesi günkü yazımda, Astana'da varılan mutabakat sonrasında ABD-İsrail ekseninin tavrının ne olduğuna ve bu tavrın Suriye iç savaşının bundan sonraki seyrine muhtemel etkilerine değinmiştim. Türkiye'nin yeni durum karşısında politikasının nasıl olması gerektiği meselesini ise bugüne bırakmıştım. Uluslararası sistemdeki ve Orta Doğu bölgesindeki...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,190,astana_4_mutabakati_ve_abd_israil_ekseninin_tavri.html" title="Astana-4 Mutabakatı ve ABD-İsrail Ekseninin Tavrı"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Astana-4 Mutabakatı ve ABD-İsrail Ekseninin Tavrı</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">06 Mayıs 2017, Cumartesi</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat">Prof. Dr. Kemal İnat</a></span>
+		        </div>
+            <p>Son günlerde yaşanan Trump-Putin telefon görüşmesi, Erdoğan-Putin görüşmesi ve Astana-4 toplantısı Suriye sorununda bir hareketliliğe neden oldu. Türkiye, Rusya ve İran'ın garantör olarak imzaladığı bir mutabakata göre, İdlib vilayetinin tamamını, Halep, Hama, Humus, Lazkiye, Dera ve Kuneytra vilayetlerinin bazı bölgeleri ile Şam'ın Doğu Guta bölgesini...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="4,3,,14,seminer_sinavi.html" title="Seminer Sınavı"><div class="slider_imageborder">
+              <h4 class="item-label">Duyurular</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Seminer Sınavı</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">04 Mayıs 2017, Perşembe</span>
+		        </div>
+            <p>Öğrenci Adı: Eda KİRAZ Danışman: Yrd. Doç. Dr. Ayşe SOSAR Enstitü Anabilim Dalı:...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="4,3,,13,seminer_sinavi.html" title="Seminer Sınavı"><div class="slider_imageborder">
+              <h4 class="item-label">Duyurular</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Seminer Sınavı</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">04 Mayıs 2017, Perşembe</span>
+		        </div>
+            <p>Öğrenci Adı: Fatih KELEŞ Danışman: Yrd. Doç. Dr. Ahmet YEŞİL Enstitü Anabilim Dalı:...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,189,lubnan_daki_mardinliler_mardin_halkinin_gocu.html" title="Lübnan'daki Mardinliler:Mardin Halkının Göçü"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Lübnan'daki Mardinliler:Mardin Halkının Göçü</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">25 Nisan 2017, Salı</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,4,rapor.html" title="Rapor" class="important">Rapor</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,5,ars_gor_ayse_selcan_ozdemirci.html" title="Arş. Gör. Ayşe Selcan Özdemirci">Arş. Gör. Ayşe Selcan Özdemirci</a></span>
+		        </div>
+            <p> 18 farklı mezhebin varlık gösterdiği Lübnan'da sosyal ve siyasal yapı, söylemini mezhepsel farklılıklar üzerinden inşa etmiştir. Tüm sistemin mezhep kotalarına dayalı olduğu ülkede azınlıklar başta siyasal temsil ve sosyal haklar olmak üzere birçok temel meselede ciddi problemler yaşamaktadır. Bu çalışma yirminci yüzyıl başından itibaren Mardin'den...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="4,3,,10,turkiye_de_devlet_toplum_iliskisi_tarihsel_sosyolojik_bir_degerlendirme.html" title="Türkiye'de Devlet-Toplum İlişkisi: Tarihsel Sosyolojik Bir Değerlendirme"><div class="slider_imageborder">
+              <h4 class="item-label">Duyurular</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Türkiye'de Devlet-Toplum İlişkisi: Tarihsel Sosyolojik Bir Değerlendirme</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">18 Nisan 2017, Salı</span>
+		        </div>
+            <p>O Prof. Dr. Ali Yaşar Sarıbay "Türkiye'de Devlet-Toplum İlişkisi: Tarihsel Sosyolojik Bir...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,187,suriye_de_dengeler_yeniden_mi_degisiyor_.html" title="Suriye’de Dengeler Yeniden mi Değişiyor?"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Suriye’de Dengeler Yeniden mi Değişiyor?</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">17 Nisan 2017, Pazartesi</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,20,doc_dr_murat_yesiltas.html" title="Doç. Dr. Murat Yeşiltaş">Doç. Dr. Murat Yeşiltaş</a></span>
+		        </div>
+            <p>Suriye müdahalesi, Obama döneminde ABD'nin Ortadoğu'daki geleneksel müttefikleriyle kötüleşen ilişkileri tamir etme fırsatı yarattı. "Amerikan küresel liderliğini" geri kazanma ihtimali ortaya çıkardı. Ukrayna işgalinin ardından korkuya kapılan Polonya ve Baltık ülkelerinde görüldüğü üzere, Moskova'nın 'öngörülemezliği' karşısında tedirginlik...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,186,idlib_katliami_ve_uluslararasi_toplumun_koruma_sorumlulugu_.html" title="İdlib Katliamı ve Uluslararası Toplumun 'Koruma Sorumluluğu'"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">İdlib Katliamı ve Uluslararası Toplumun 'Koruma Sorumluluğu'</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">16 Nisan 2017, Pazar</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,20,doc_dr_murat_yesiltas.html" title="Doç. Dr. Murat Yeşiltaş">Doç. Dr. Murat Yeşiltaş</a>, <a href="20,5,merve_seren.html?Merve Seren" title="Merve Seren">Merve Seren</a></span>
+		        </div>
+            <p>Esed'e bağlı unsurların 4 Nisan 2017'de İdlib'in güneyindeki Han Şeyhun bölgesinde toksik maddeler içeren silah kullanımı neticesinde ortaya çıkan dehşet görüntüleri, bir kez daha kimyasal ve biyolojik silahları dünya gündemine getirdi. Beşşar Esed'e bağlı Suriye askeri unsurlarının 4 Nisan 2017 tarihinde İdlib'in güneyindeki Han Şeyhun bölgesinde...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,182,abd_ve_rusya_nin_suriye_rekabeti_yeni_mi_basliyor_.html" title="ABD ve Rusya'nın Suriye rekabeti yeni mi başlıyor?"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">ABD ve Rusya'nın Suriye rekabeti yeni mi başlıyor?</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">13 Nisan 2017, Perşembe</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat">Prof. Dr. Kemal İnat</a></span>
+		        </div>
+            <p>Amerika'nın Suriye'de Baas rejimine ait Şayrat Hava Üssünü vurması iki açıdan çok önemli bir gelişme olarak görülüyor: ABD-Rusya ilişkilerinin geleceği ve Suriye iç savaşının bundan sonraki seyri. Kuşkusuz bu gelişme uluslararası kamuoyunda en fazla ABD ile Rusya ilişkilerini nasıl etkileyeceği açısından tartışıldı ve hâlâ tartışılmaya devam...</p>
+          </div>
+	      </li>
+        <li>
+          <div class="slider_image">
+            <a href="20,3,,181,amerikan_hamlesinin_ardindan_suriye_de_yeni_sorular.html" title="Amerikan hamlesinin ardından Suriye'de yeni sorular"><div class="slider_imageborder">
+              <h4 class="item-label">Yayınlar</h4>
+              <div><img src="modules/home_page/images/no_image.png" /></div>
+              <h2 class="slider_header">Amerikan hamlesinin ardından Suriye'de yeni sorular</h2>
+            </div></a>
+          </div>
+          <div class="slider_content">
+		        <div class="postmeta">
+		          <i class="fa fa-calendar-plus-o"></i><span class="post-date">12 Nisan 2017, Çarşamba</span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+        <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat">Prof. Dr. Kemal İnat</a></span>
+		        </div>
+            <p>Dün sabaha karşı Amerika Birleşik Devletleri'nin, Doğu Akdeniz'deki savaş gemilerinden fırlattığı 59 Tomahawk füzesiyle Suriye rejiminin Humus vilayetindeki Şayrat hava üssünü vurması şüphesiz çok önemli bir gelişmeydi. Washington yönetimi, vurulan askerî tesisin salı günü Han Şeyhun'a yönelik kimyasal gaz saldırısını gerçekleştiren uçakların...</p>
+          </div>
+	      </li>
+      </ul>
+    </div></div>
+  </div>
+  <div class="col-sm-5 nopadding">
+    <div id="latest-media"><div>
+      <div class="module-title"><h4>Etkinlik Takvimi</h4></div>
+      <div class="row">
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="13,3,,52,seminer_sinavi.html">Seminer Sınavı</a></h2>
+                    <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">05 Mayıs 2017, Cuma 14:30 - 15:00</span> <span class="post_old">Geçmiş</span>              <i class="fa fa-book"></i><span class="post-categories"><a href="13,2,,2,seminer_sinavi.html" title="Seminer Sınavı" class="important">Seminer Sınavı</a></span>
+            </div>
+          </div>
+          <div class="entry-summary">Öğrenci Adı: Eda KİRAZ Danışman: Yrd. Doç. Dr. Ayşe SOSAR Enstitü Anabilim Dalı: Ortadoğu Çalışmaları Program: Yüksek Lisans Sınav Tarihi :05/05/2017 Sınav Saati:14:30 Sınav...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="13,3,,53,seminer_sinavi.html">Seminer Sınavı</a></h2>
+                    <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">05 Mayıs 2017, Cuma 14:00 - 14:30</span> <span class="post_old">Geçmiş</span>              <i class="fa fa-book"></i><span class="post-categories"><a href="13,2,,2,seminer_sinavi.html" title="Seminer Sınavı" class="important">Seminer Sınavı</a></span>
+            </div>
+          </div>
+          <div class="entry-summary">Öğrenci Adı: Fatih KELEŞ Danışman: Yrd. Doç. Dr. Ahmet YEŞİL Enstitü Anabilim Dalı: Ortadoğu Çalışmaları Program: Yüksek Lisans Sınav Tarihi :05/05/2017 Sınav Saati:14:00 Sınav...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="13,3,,36,turkiye_de_devlet_toplum_iliskisi_tarihsel_sosyolojik_bir_degerlendirme.html">Türkiye'de Devlet-Toplum İlişkisi: Tarihsel Sosyolojik Bir Değerlendirme</a></h2>
+                    <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">21 Nisan 2017, Cuma 14:30 - 16:30</span> <span class="post_old">Geçmiş</span>              <i class="fa fa-book"></i><span class="post-categories"><a href="13,2,,1,konusmalar.html" title="Konuşmalar" class="important">Konuşmalar</a></span>
+            </div>
+          </div>
+          <div class="entry-summary">ORMER Sosyal Bilim Konuşmaları-16 Prof. Dr. Ali Yaşar Sarıbay "Türkiye'de Devlet-Toplum İlişkisi: Tarihsel Sosyolojik Bir Değerlendirme" başlıklı konuşmasıyla konuğumuz olacak. 21 Nisan...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      </div>
+    </div></div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<div id="latest-content"><div class="row">
+  <div class="content content-left col-sm-4 nopadding"><div>
+    <div class="module-title"><h4>Duyurular</h4></div>
+    <div class="site_lists">
+      <article class="post">
+        <h2><a href="4,3,,14,seminer_sinavi.html">Seminer Sınavı</a></h2>
+                <div class="sec-heading">
+          <div class="postmeta">
+            <i class="fa fa-calendar-plus-o"></i><span class="post-date">04 Mayıs 2017</span>
+          </div>
+        </div>
+        <div class="entry-summary">Öğrenci Adı: Eda KİRAZ Danışman: Yrd. Doç. Dr. Ayşe SOSAR Enstitü Anabilim Dalı:...</div>
+        <div class="clear"></div>
+      </article>
+    </div> 
+    <div class="site_lists">
+      <article class="post">
+        <h2><a href="4,3,,13,seminer_sinavi.html">Seminer Sınavı</a></h2>
+                <div class="sec-heading">
+          <div class="postmeta">
+            <i class="fa fa-calendar-plus-o"></i><span class="post-date">04 Mayıs 2017</span>
+          </div>
+        </div>
+        <div class="entry-summary">Öğrenci Adı: Fatih KELEŞ Danışman: Yrd. Doç. Dr. Ahmet YEŞİL Enstitü Anabilim Dalı:...</div>
+        <div class="clear"></div>
+      </article>
+    </div> 
+    <div class="site_lists">
+      <article class="post">
+        <h2><a href="4,3,,10,turkiye_de_devlet_toplum_iliskisi_tarihsel_sosyolojik_bir_degerlendirme.html">Türkiye'de Devlet-Toplum İlişkisi: Tarihsel Sosyolojik Bir Değerlendirme</a></h2>
+                <div class="sec-heading">
+          <div class="postmeta">
+            <i class="fa fa-calendar-plus-o"></i><span class="post-date">18 Nisan 2017</span>
+          </div>
+        </div>
+        <div class="entry-summary">O Prof. Dr. Ali Yaşar Sarıbay "Türkiye'de Devlet-Toplum İlişkisi: Tarihsel Sosyolojik Bir...</div>
+        <div class="clear"></div>
+      </article>
+    </div> 
+    <div class="site_lists">
+      <article class="post">
+        <h2><a href="4,3,,5,turkiye_de_modern_dusunce_hareketleri.html">Türkiye'de Modern Düşünce Hareketleri</a></h2>
+                <div class="sec-heading">
+          <div class="postmeta">
+            <i class="fa fa-calendar-plus-o"></i><span class="post-date">04 Nisan 2017</span>
+          </div>
+        </div>
+        <div class="entry-summary">Türkiye'de Modern Düşünce Hareketleri الحركات الفكرية في تركيا...</div>
+        <div class="clear"></div>
+      </article>
+    </div> 
+    <div class="site_lists">
+      <article class="post">
+        <h2><a href="4,3,,1,2016_2017_bahar_yariyili_acilan_ve_acilmayan_ders_listesi.html">2016-2017 Bahar Yarıyılı Açılan ve Açılmayan Ders Listesi</a></h2>
+                <div class="sec-heading">
+          <div class="postmeta">
+            <i class="fa fa-calendar-plus-o"></i><span class="post-date">30 Ocak 2017</span>
+          </div>
+        </div>
+        <div class="entry-summary">Açılan açılmayan ders listesi ektedir.</div>
+        <div class="clear"></div>
+      </article>
+    </div> 
+    <div class="site_lists">
+      <article class="post">
+        <h2><a href="4,3,,2,2016_2017_bahar_yariyili_derse_yazilma_kayit_yenileme.html">2016-2017 Bahar Yarıyılı Derse Yazılma/Kayıt Yenileme</a></h2>
+                <div class="sec-heading">
+          <div class="postmeta">
+            <i class="fa fa-calendar-plus-o"></i><span class="post-date">23 Ocak 2017</span>
+          </div>
+        </div>
+        <div class="entry-summary">2016-2017 Bahar yarıyılı kayıt yenileme duyurusu ekte sunulmuştur. Önemli Not: Kayıt...</div>
+        <div class="clear"></div>
+      </article>
+    </div> 
+    <div align="right"><a href="4,1,.html">Tümü</a></div>
+  </div></div>
+  <div class="content content-middle col-sm-4 nopadding"><div>
+    <div class="module-title"><h4>Yorumlar</h4></div>
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="20,3,,192,abd_pkk_yi_neden_destekliyor_.html">ABD PKK’yı Neden Destekliyor?</a></h2>
+          <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">16 Mayıs 2017</span>
+              <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,20,doc_dr_murat_yesiltas.html" title="Doç. Dr. Murat Yeşiltaş">Doç. Dr. Murat Yeşiltaş</a></span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+            </div>
+          </div>
+          <div class="entry-summary">Ortadoğu'da Suriye iç savaşından sonra büyük resmi yakalamak giderek daha da zorlaşıyor. Bölge radikal bir dönüşümden geçse de bunu şekillendiren asıl dinamik yerel ölçekte yaşanan kırılmalar. En önemli sorunlardan biri baskın gelmesi gereken jeopolitik realitelerin yerel ölçekte yaşanan gerçekliğin dinamizmi içinde kaybolmuş olması.ABD'nin PKK'yı...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="20,3,,191,astana_ve_soci_sonrasi_turkiye_nin_suriye_politikasi.html">Astana ve Soçi Sonrası Türkiye’nin Suriye Politikası</a></h2>
+          <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">11 Mayıs 2017</span>
+              <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat">Prof. Dr. Kemal İnat</a></span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+            </div>
+          </div>
+          <div class="entry-summary">Cumartesi günkü yazımda, Astana'da varılan mutabakat sonrasında ABD-İsrail ekseninin tavrının ne olduğuna ve bu tavrın Suriye iç savaşının bundan sonraki seyrine muhtemel etkilerine değinmiştim. Türkiye'nin yeni durum karşısında politikasının nasıl olması gerektiği meselesini ise bugüne bırakmıştım. Uluslararası sistemdeki ve Orta Doğu bölgesindeki...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="20,3,,190,astana_4_mutabakati_ve_abd_israil_ekseninin_tavri.html">Astana-4 Mutabakatı ve ABD-İsrail Ekseninin Tavrı</a></h2>
+          <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">06 Mayıs 2017</span>
+              <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat">Prof. Dr. Kemal İnat</a></span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>
+            </div>
+          </div>
+          <div class="entry-summary">Son günlerde yaşanan Trump-Putin telefon görüşmesi, Erdoğan-Putin görüşmesi ve Astana-4 toplantısı Suriye sorununda bir hareketliliğe neden oldu. Türkiye, Rusya ve İran'ın garantör olarak imzaladığı bir mutabakata göre, İdlib vilayetinin tamamını, Halep, Hama, Humus, Lazkiye, Dera ve Kuneytra vilayetlerinin bazı bölgeleri ile Şam'ın Doğu Guta bölgesini...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+    <div align="right"><a href="20,1,,1,yorumlar.html">Tümü</a></div>
+  </div></div>
+  <div class="content content-right col-sm-4 nopadding"><div>
+    <div class="module-title"><h4>Twitter</h4></div>
+  
+    <h1 class="tweet-summary"><a class="tweet-customisable-highlight" href="https://twitter.com/SAUOrtadogu" title="SAU Ortadoğu adlı kişiden Tweetler">Tweet</a></h1>
+    <a class="tweet-follow-button" href="https://twitter.com/SAUOrtadogu" title="SAU Ortadoğu'i Twitter'da takip et"><i class="tweet-ic-button-bird"></i>Takip et</a>
+    <br clear="all" />
+  <div class="tweet">
+    <div class="tweet-header">
+      <div class="tweet-author">
+        <img class="tweet-avatar" src="themes/v2/images/logo_small.png">
+        <a class="tweet-profile" href="https://twitter.com/SAUOrtadogu" target="_blank"><span class="tweet-fullname">SAU Ortadoğu</span> <span class="tweet-nickname">@<b>SAUOrtadogu</b></span></a>
+        <div class="postmeta">
+          <i class="fa fa-calendar-plus-o"></i><span class="post-date">16 Mayıs 2017, Salı 09:47</span>
+        </div>
+      </div>
+    </div>
+    <div class="e-entry-content">
+      <p class="e-entry-title"><a href="https://twitter.com/bilgikultur/statuses/864371689416671232" title="Tweet'i Twitter'da Gör" target="_blank">Enstitümüzden @nebimis yazdı: "#Erdoğan-#Trump görüşmesi ve sonrası" https://t.co/crUtbF2rGy via @turkiyegazetesi</a></p>
+    </div>
+    <div class="footer">
+      <ul class="tweet-actions">
+        <li><a href="https://twitter.com/intent/tweet?in_reply_to=864371689416671232" title="Yanıtla" target="_blank"><i class="ic-reply ic-mask"></i><b>Yanıtla</b></a></li>
+        <li><a href="https://twitter.com/intent/retweet?tweet_id=864371689416671232" title="Retweetle" target="_blank"><i class="ic-retweet ic-mask"></i><b>Retweetle</b></a></li>
+        <li><a href="https://twitter.com/intent/favorite?tweet_id=864371689416671232" title="Favorilere ekle" target="_blank"><i class="ic-fav ic-mask"></i><b>Favorilere ekle</b></a></li>
+      </ul>
+      <span class="stats-wide">
+        <span class="stats">
+          <a href="https://twitter.com/bilgikultur/statuses/864371689416671232" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-retweets"><strong>5</strong> Retweet</span></a>
+          <a href="https://twitter.com/bilgikultur/statuses/864371689416671232" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-favorites"><strong>4</strong> Favori</span></a>
+        </span>
+      </span>
+    </div>
+  </div>
+  <div class="tweet">
+    <div class="tweet-header">
+      <div class="tweet-author">
+        <img class="tweet-avatar" src="themes/v2/images/logo_small.png">
+        <a class="tweet-profile" href="https://twitter.com/SAUOrtadogu" target="_blank"><span class="tweet-fullname">SAU Ortadoğu</span> <span class="tweet-nickname">@<b>SAUOrtadogu</b></span></a>
+        <div class="postmeta">
+          <i class="fa fa-calendar-plus-o"></i><span class="post-date">15 Mayıs 2017, Pazartesi 21:34</span>
+        </div>
+      </div>
+    </div>
+    <div class="e-entry-content">
+      <p class="e-entry-title"><a href="https://twitter.com/bilgikultur/statuses/864187125503213569" title="Tweet'i Twitter'da Gör" target="_blank">Enstitümüzden @muratyesiltas yazdı: "#ABD #PKK'yı neden destekliyor?" https://t.co/4vU42I3lUS</a></p>
+    </div>
+    <div class="footer">
+      <ul class="tweet-actions">
+        <li><a href="https://twitter.com/intent/tweet?in_reply_to=864187125503213569" title="Yanıtla" target="_blank"><i class="ic-reply ic-mask"></i><b>Yanıtla</b></a></li>
+        <li><a href="https://twitter.com/intent/retweet?tweet_id=864187125503213569" title="Retweetle" target="_blank"><i class="ic-retweet ic-mask"></i><b>Retweetle</b></a></li>
+        <li><a href="https://twitter.com/intent/favorite?tweet_id=864187125503213569" title="Favorilere ekle" target="_blank"><i class="ic-fav ic-mask"></i><b>Favorilere ekle</b></a></li>
+      </ul>
+      <span class="stats-wide">
+        <span class="stats">
+          <a href="https://twitter.com/bilgikultur/statuses/864187125503213569" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-retweets"><strong>5</strong> Retweet</span></a>
+          <a href="https://twitter.com/bilgikultur/statuses/864187125503213569" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-favorites"><strong>5</strong> Favori</span></a>
+        </span>
+      </span>
+    </div>
+  </div>
+  <div class="tweet">
+    <div class="tweet-header">
+      <div class="tweet-author">
+        <img class="tweet-avatar" src="themes/v2/images/logo_small.png">
+        <a class="tweet-profile" href="https://twitter.com/SAUOrtadogu" target="_blank"><span class="tweet-fullname">SAU Ortadoğu</span> <span class="tweet-nickname">@<b>SAUOrtadogu</b></span></a>
+        <div class="postmeta">
+          <i class="fa fa-calendar-plus-o"></i><span class="post-date">14 Mayıs 2017, Pazar 12:29</span>
+        </div>
+      </div>
+    </div>
+    <div class="e-entry-content">
+      <p class="e-entry-title"><a href="https://twitter.com/bilgikultur/statuses/863687720316657664" title="Tweet'i Twitter'da Gör" target="_blank">كتب خيري عمر من معهدنا مقالة عن #ليبيا و صعوباتها في الانتقال من الحوار إلى السلآم 
+@khairyomar 
+https://t.co/6QFPFj6XXo⁩</a></p>
+    </div>
+    <div class="footer">
+      <ul class="tweet-actions">
+        <li><a href="https://twitter.com/intent/tweet?in_reply_to=863687720316657664" title="Yanıtla" target="_blank"><i class="ic-reply ic-mask"></i><b>Yanıtla</b></a></li>
+        <li><a href="https://twitter.com/intent/retweet?tweet_id=863687720316657664" title="Retweetle" target="_blank"><i class="ic-retweet ic-mask"></i><b>Retweetle</b></a></li>
+        <li><a href="https://twitter.com/intent/favorite?tweet_id=863687720316657664" title="Favorilere ekle" target="_blank"><i class="ic-fav ic-mask"></i><b>Favorilere ekle</b></a></li>
+      </ul>
+      <span class="stats-wide">
+        <span class="stats">
+          <a href="https://twitter.com/bilgikultur/statuses/863687720316657664" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-retweets"><strong>2</strong> Retweet</span></a>
+          <a href="https://twitter.com/bilgikultur/statuses/863687720316657664" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-favorites"><strong>0</strong> Favori</span></a>
+        </span>
+      </span>
+    </div>
+  </div>
+  <div class="tweet">
+    <div class="tweet-header">
+      <div class="tweet-author">
+        <img class="tweet-avatar" src="themes/v2/images/logo_small.png">
+        <a class="tweet-profile" href="https://twitter.com/SAUOrtadogu" target="_blank"><span class="tweet-fullname">SAU Ortadoğu</span> <span class="tweet-nickname">@<b>SAUOrtadogu</b></span></a>
+        <div class="postmeta">
+          <i class="fa fa-calendar-plus-o"></i><span class="post-date">13 Mayıs 2017, Cumartesi 20:24</span>
+        </div>
+      </div>
+    </div>
+    <div class="e-entry-content">
+      <p class="e-entry-title"><a href="https://twitter.com/bilgikultur/statuses/863444755216314368" title="Tweet'i Twitter'da Gör" target="_blank">Enstitümüzden @nebimis yazdı: "Siyasi partilerin adaptasyon süreci" https://t.co/u78dBMV6UJ</a></p>
+    </div>
+    <div class="footer">
+      <ul class="tweet-actions">
+        <li><a href="https://twitter.com/intent/tweet?in_reply_to=863444755216314368" title="Yanıtla" target="_blank"><i class="ic-reply ic-mask"></i><b>Yanıtla</b></a></li>
+        <li><a href="https://twitter.com/intent/retweet?tweet_id=863444755216314368" title="Retweetle" target="_blank"><i class="ic-retweet ic-mask"></i><b>Retweetle</b></a></li>
+        <li><a href="https://twitter.com/intent/favorite?tweet_id=863444755216314368" title="Favorilere ekle" target="_blank"><i class="ic-fav ic-mask"></i><b>Favorilere ekle</b></a></li>
+      </ul>
+      <span class="stats-wide">
+        <span class="stats">
+          <a href="https://twitter.com/bilgikultur/statuses/863444755216314368" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-retweets"><strong>5</strong> Retweet</span></a>
+          <a href="https://twitter.com/bilgikultur/statuses/863444755216314368" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-favorites"><strong>3</strong> Favori</span></a>
+        </span>
+      </span>
+    </div>
+  </div>
+  <div class="tweet">
+    <div class="tweet-header">
+      <div class="tweet-author">
+        <img class="tweet-avatar" src="themes/v2/images/logo_small.png">
+        <a class="tweet-profile" href="https://twitter.com/SAUOrtadogu" target="_blank"><span class="tweet-fullname">SAU Ortadoğu</span> <span class="tweet-nickname">@<b>SAUOrtadogu</b></span></a>
+        <div class="postmeta">
+          <i class="fa fa-calendar-plus-o"></i><span class="post-date">13 Mayıs 2017, Cumartesi 18:35</span>
+        </div>
+      </div>
+    </div>
+    <div class="e-entry-content">
+      <p class="e-entry-title"><a href="https://twitter.com/bilgikultur/statuses/863417509155926016" title="Tweet'i Twitter'da Gör" target="_blank">Enstitümüzden @kemalinat yazdı: "#Batı’nın #Türkiye politikasını kim belirliyor?"
+https://t.co/rmojOgFSj8</a></p>
+    </div>
+    <div class="footer">
+      <ul class="tweet-actions">
+        <li><a href="https://twitter.com/intent/tweet?in_reply_to=863417509155926016" title="Yanıtla" target="_blank"><i class="ic-reply ic-mask"></i><b>Yanıtla</b></a></li>
+        <li><a href="https://twitter.com/intent/retweet?tweet_id=863417509155926016" title="Retweetle" target="_blank"><i class="ic-retweet ic-mask"></i><b>Retweetle</b></a></li>
+        <li><a href="https://twitter.com/intent/favorite?tweet_id=863417509155926016" title="Favorilere ekle" target="_blank"><i class="ic-fav ic-mask"></i><b>Favorilere ekle</b></a></li>
+      </ul>
+      <span class="stats-wide">
+        <span class="stats">
+          <a href="https://twitter.com/bilgikultur/statuses/863417509155926016" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-retweets"><strong>5</strong> Retweet</span></a>
+          <a href="https://twitter.com/bilgikultur/statuses/863417509155926016" title="Tweet'i Twitter'da Gör" target="_blank"><span class="stats-favorites"><strong>2</strong> Favori</span></a>
+        </span>
+      </span>
+    </div>
+  </div>
+    
+  </div></div>
+</div>
+<br clear="all" />
+<div class="row">
+  <div class="content content-left col-sm-4 nopadding"><div>
+    <div class="module-title"><h4>Dergiler</h4></div>
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="18,5,,34,turkiye_ortadogu_calismalari_dergisi_cilt_3_sayi_2.html">Türkiye Ortadoğu Çalışmaları Dergisi - Cilt: 3 Sayı: 2</a></h2>
+          <div class="book_image"><div><img src="uploads/images/59089bbf16286.jpg" alt="Türkiye Ortadoğu Çalışmaları Dergisi - Cilt: 3 Sayı: 2" /></div></div>          <div class="sec-heading">
+            <div class="postmeta per-line">
+<i class="fa fa-book"></i><span class="post-categories"><a href="18,2,,2,turkiye_ortadogu_calismalari_dergisi.html" title="Türkiye Ortadoğu Çalışmaları Dergisi" class="important">Türkiye Ortadoğu Çalışmaları Dergisi</a></span>            </div>
+          </div>
+          <div class="entry-summary">Türkiye Ortadoğu Çalışmaları Dergisi yılda iki kez yayınlanan hakemli bir dergidir. Türkiye Ortadoğu Çalışmaları Dergisi Ortadoğu bölgesine dair bilimsel, orijinal ve nitelikli araştırmaların İngilizce ve Türkçe olarak...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="18,5,,5,turkiye_ortadogu_calismalari_dergisi_cilt_3_sayi_1.html">Türkiye Ortadoğu Çalışmaları Dergisi - Cilt: 3 Sayı: 1</a></h2>
+          <div class="book_image"><div><img src="uploads/images/3_1_tr.jpg" alt="Türkiye Ortadoğu Çalışmaları Dergisi - Cilt: 3 Sayı: 1" /></div></div>          <div class="sec-heading">
+            <div class="postmeta per-line">
+<i class="fa fa-book"></i><span class="post-categories"><a href="18,2,,2,turkiye_ortadogu_calismalari_dergisi.html" title="Türkiye Ortadoğu Çalışmaları Dergisi" class="important">Türkiye Ortadoğu Çalışmaları Dergisi</a></span>            </div>
+          </div>
+          <div class="entry-summary">Türkiye Ortadoğu Çalışmaları Dergisi yılda iki kez yayınlanan hakemli bir dergidir. Türkiye Ortadoğu Çalışmaları Dergisi Ortadoğu bölgesine dair bilimsel, orijinal ve nitelikli araştırmaların İngilizce ve Türkçe olarak...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="18,5,,14,ortadogu_yilligi_2015.html">Ortadoğu Yıllığı 2015</a></h2>
+          <div class="book_image"><div><img src="uploads/images/0000_1.jpg" alt="Ortadoğu Yıllığı 2015" /></div></div>          <div class="sec-heading">
+            <div class="postmeta per-line">
+<i class="fa fa-book"></i><span class="post-categories"><a href="18,2,,1,ortadogu_yilligi.html" title="Ortadoğu Yıllığı" class="important">Ortadoğu Yıllığı</a></span>            </div>
+          </div>
+          <div class="entry-summary">"Bilgi sahibi olmadan fikir sahibi olunamayacağı" ilkesiyle 2005 yılında yola çıkan "Ortadoğu Yıllığı" Türkiye açısından çok büyük öneme sahip olan Ortadoğu bölgesinde yer alan ülkelerin iç, dış ve ekonomik gelişmeleri ile...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+    <div align="right"><a href="18,1,dergiler.html">Tümü</a></div>
+  </div></div>
+  <div class="content content-middle col-sm-4 nopadding"><div>
+    <div class="module-title"><h4>Kitaplar</h4></div>
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="24,3,,17,dunya_catismalari_catisma_bolgeleri_ve_konulari_cilt_2.html">Dünya Çatışmaları Çatışma Bölgeleri ve Konuları Cilt 2</a></h2>
+          <div class="book_image"><div><img src="uploads/images/dunya_catismalar_2_cilt.jpg" alt="Dünya Çatışmaları Çatışma Bölgeleri ve Konuları Cilt 2" /></div></div>          <div class="sec-heading">
+            <div class="postmeta per-line">
+<i class="fa fa-user-o"></i><span class="post-users">Kemal İnat , Burhanettin Duran , Muhittin Ataman</span><br /><i class="fa fa-book"></i><span class="post-categories"><a href="24,1,,1,kitap.html" title="Kitap" class="important">Kitap</a></span>            </div>
+          </div>
+          <div class="entry-summary">Dünya Çatışmaları kitabının elinizdeki ikinci cildinde Sahra Altı Afrika ile Doğu ve Güney Asya bölgelerindeki çatışmaların yanında terör, milliyetçi çatışmalar, fundamentalizm,...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="24,3,,16,dunya_catismalari_catisma_bolgeleri_ve_konulari_cilt_1.html">Dünya Çatışmaları Çatışma Bölgeleri ve Konuları Cilt 1</a></h2>
+          <div class="book_image"><div><img src="uploads/images/dunya_catismalar_1_cilt.jpg" alt="Dünya Çatışmaları Çatışma Bölgeleri ve Konuları Cilt 1" /></div></div>          <div class="sec-heading">
+            <div class="postmeta per-line">
+<i class="fa fa-user-o"></i><span class="post-users">Kemal İnat , Burhanettin Duran , Muhittin Ataman </span><br /><i class="fa fa-book"></i><span class="post-categories"><a href="24,1,,1,kitap.html" title="Kitap" class="important">Kitap</a></span>            </div>
+          </div>
+          <div class="entry-summary">Dünya Çatışmaları, "Dünya Çatışma Bölgeleri" adını taşıyan ilk iki baskıdan çok daha farklı bir kitap olarak ve iki cilt halinde okurlarıyla buluşuyor. Yeni kitap çerçevesinde,...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="24,3,,15,bati_sosyolojisinin_yaklasan_krizi.html">Batı Sosyolojisinin Yaklaşan Krizi</a></h2>
+          <div class="book_image"><div><img src="uploads/images/bati_sosyolojisinin_krizi.jpg" alt="Batı Sosyolojisinin Yaklaşan Krizi" /></div></div>          <div class="sec-heading">
+            <div class="postmeta per-line">
+<i class="fa fa-user-o"></i><span class="post-users">Alvin W. Gouldner </span><br /><i class="fa fa-book"></i><span class="post-categories"><a href="24,1,,2,sakarya_universitesi_kultur_yayinlari.html" title="Sakarya Üniversitesi Kültür Yayınları" class="important">Sakarya Üniversitesi Kültür Yayınları</a></span>            </div>
+          </div>
+          <div class="entry-summary">Elinizdeki kitap, Alvin W.Gouldner'in yirmi yıllık çalışmasının bir ürünüdür. Yazar, uzun soluklu ve planlı çalışmasının önemli bir bölümü olarak nitelendirdiği eserinde Batı...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+    <div align="right"><a href="24,1,kitaplar.html">Tümü</a></div>
+  </div></div>
+  <div class="content content-right col-sm-4 nopadding"><div>
+    <div class="module-title"><h4>ORMER Yayınlar</h4></div>
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="20,3,,189,lubnan_daki_mardinliler_mardin_halkinin_gocu.html">Lübnan'daki Mardinliler:Mardin Halkının Göçü</a></h2>
+                    <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">25 Nisan 2017</span>
+              <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,5,ars_gor_ayse_selcan_ozdemirci.html" title="Arş. Gör. Ayşe Selcan Özdemirci">Arş. Gör. Ayşe Selcan Özdemirci</a></span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,4,rapor.html" title="Rapor" class="important">Rapor</a></span>
+            </div>
+          </div>
+          <div class="entry-summary"> 18 farklı mezhebin varlık gösterdiği Lübnan'da sosyal ve siyasal yapı, söylemini mezhepsel farklılıklar üzerinden inşa etmiştir. Tüm sistemin mezhep kotalarına dayalı olduğu ülkede azınlıklar başta siyasal temsil ve sosyal haklar olmak üzere birçok temel meselede ciddi problemler yaşamaktadır. Bu çalışma yirminci yüzyıl başından itibaren Mardin'den...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+      <div class="site_lists">
+        <article class="post">
+          <h2><a href="20,3,,180,kuzey_irak_turkiye_iliskileri_pkk_guvenlik_ve_isbirligi.html">Kuzey Irak-Türkiye İlişkileri: PKK, Güvenlik ve İşbirliği</a></h2>
+                    <div class="sec-heading">
+            <div class="postmeta">
+              <i class="fa fa-calendar-plus-o"></i><span class="post-date">12 Nisan 2017</span>
+              <i class="fa fa-user-o"></i><span class="post-users"><a href="20,5,,42,doc_dr_ali_balci.html" title="Doç. Dr. Ali Balcı">Doç. Dr. Ali Balcı</a>, <a href="20,5,,7,ars_gor_berkan_ogur.html" title="Arş. Gör. Berkan Öğür">Arş. Gör. Berkan Öğür</a>, <a href="20,5,,6,ars_gor_zana_baykal.html" title="Arş. Gör. Zana Baykal">Arş. Gör. Zana Baykal</a></span>
+              <i class="fa fa-book"></i><span class="post-categories"><a href="20,2,,4,rapor.html" title="Rapor" class="important">Rapor</a></span>
+            </div>
+          </div>
+          <div class="entry-summary"> Türkiye'nin hem kendi içerisindeki Kürt vatandaşları ile hem de sınır ötesindeki Irak Kürdistan Bölgesi ile olan ilişkisi Ankara için bir "doğu problemi" niteliğindeydi. Abdullah Öcalan'ın yakalanmasını izleyen süreçte Türkiye'deki iç siyasi gelişmelerin de etkisi ile Ankara'nın Kürt politikasında hayati değişiklikler yaşandı. Özellikle Erdoğan...</div>
+          <div class="clear"></div>
+        </article>
+      </div> 
+  </div></div>
+</div></div>      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2017. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="http://www.ortadogu.sakarya.edu.tr/tr/icerik/12194/52778/program-asamalari">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="19,1,,1,ortadogu_kongresi.html">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div>
+<script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

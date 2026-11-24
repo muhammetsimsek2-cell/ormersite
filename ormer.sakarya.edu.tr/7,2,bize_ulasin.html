@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<style type="text/css">
+  html { height: 100% }
+  body { height: 100%; margin: 0; padding: 0 }
+  #map-canvas { height: 100% }
+</style>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7ZKqFFCG6YmoeFlZ3R96cp32cxHp8UD0&sensor=false"></script>
+<script type="text/javascript">
+function initialize() {
+  var myLatlng_1 = new google.maps.LatLng(40.737341,30.336475);
+  var myLatlng_2 = new google.maps.LatLng(40.736791,30.336475);
+
+  var mapOptions = {
+    center: myLatlng_1,
+    zoom: 17,
+    mapTypeId: google.maps.MapTypeId.HYBRID
+  };
+
+  var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+  var contentString = '<p style="text-align: center;"><b>Ortadoğu Enstitüsü</b><br /><br />Esentepe Kampüsü, 54187, 2. Ring Yolu, 54050 Serdivan / Sakarya<br /><br /><a href="http://ormer.sakarya.edu.tr" target="_blank">http://ormer.sakarya.edu.tr</a></p>';
+
+  var infowindow = new google.maps.InfoWindow({
+          content: contentString
+  });
+
+  var marker = new google.maps.Marker({
+          position: myLatlng_2,
+          map: map,
+          title: 'Ortadoğu Enstitüsü'
+  });
+
+  google.maps.event.addListener(marker, 'click', function() {
+       infowindow.open(map,marker);
+  });
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+<body>
+  <div id="map-canvas"></div>
+</body>
+</html>

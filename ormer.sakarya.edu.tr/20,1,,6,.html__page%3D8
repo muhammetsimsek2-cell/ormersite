@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2024 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Opinions | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="https://ortadogu.sakarya.edu.tr/tr/icerik/23215/121792/doktora-programina-nasil-basvurulur">Başvuru Koşulları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a><ul><li><a href="19,2,,3,1_ortadogu_kongresi.html">1. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,2_ortadogu_kongresi.html">2. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,3_ortadogu_kongresi.html">3. Ortadoğu Kongresi</a></li><li><a href="19,2,,13,4_ortadogu_kongresi.html">4. Ortadoğu Kongresi</a></li><li><a href="19,2,,20,5_ortadogu_kongresi.html">5. Ortadoğu Kongresi</a></li><li><a href="19,2,,22,6_ortadogu_kongresi.html">6.Ortadoğu Kongresi</a></li><li><a href="19,,7_ortadogu_kongresi.html">7.Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Son Duyurular</span></h4></div>
+<div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,286,ortadogu_da_toplum_ve_siyaset_kongresi_acilis_konusmacimiz_norman_g_finkelstein.html" title="Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein">Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 26 Temmuz 2024, Cuma</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,285,nili_ortadogu_da_casuslar_savasi_programimiz_29_subat_2024_tarihine_ertelenmistir.html" title="Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir">Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Şubat 2024, Salı</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,284,filistin_uyruklu_ogrencilerin_dikkatine.html" title="FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE">FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Aralık 2023, Çarşamba</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,282,tez_asamasindaki_ogrencilerin_dikkatine.html" title="Tez Aşamasındaki Öğrencilerin Dikkatine">Tez Aşamasındaki Öğrencilerin Dikkatine</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 11 Aralık 2023, Pazartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,280,israil_sorunu_ve_gazze_sempozyumu.html" title="İsrail Sorunu ve Gazze Sempozyumu">İsrail Sorunu ve Gazze Sempozyumu</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 06 Kasım 2023, Pazartesi</span></div></div><div class="clear"></div></article></div></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Opinions</span></h4></div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,150,daesh_after_mosul.html" title="DAESH After Mosul">DAESH After Mosul</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 12 Kasım 2016, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,20,misafir_ogr_uy_murat_yesiltas.html" title="Misafir Öğr. Üy. Murat Yeşiltaş" class="important">Misafir Öğr. Üy. Murat Yeşiltaş</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">The belief that DAESH will face major transformations and will begin its downward spiral is very optimistic. To talk about post-Mosul DAESH scenarios, one must wait for a complete loss of the groups territories. The Mosul offensive, aiming to cleanse the city of DAESH, brings to fore the question of what kind of strategy the terrorist organization is to carry out in the aftermath...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,156,mosul_operation_and_obama_s_nightmare.html" title="Mosul Operation and Obama's Nightmare">Mosul Operation and Obama's Nightmare</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 24 Ekim 2016, Pazartesi</span>          
+      </div>
+    </div>
+    <div class="entry-summary">Observers of the political scene in Iraq point to the inevitable clash between Kurdistan Regional Government (KRG) forces, and that of the central government in Baghdad in the post –ISILera. This is due to the undisciplined attitude of Hashd al-Shaabi(Popular Mobilization Units-PMU) in the past,divergences over how to form thepost-ISILadministration in Mosul, and the struggle...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,83,israel_the_arab_spring_and_the_unfolding_regional_order_in_the_middle_east_a_strategic_assessment.html" title="Israel, the Arab Spring, and the Unfolding Regional Order in the Middle East: A Strategic Assessment">Israel, the Arab Spring, and the Unfolding Regional Order in the Middle East: A Strategic Assessment</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 31 Mayıs 2016, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,philipp_o_amour.html?author=Philipp O. Amour" title="Philipp O. Amour" class="important">Philipp O. Amour</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Philipp O. Amour has published an article entitled 'Israel, the Arab Spring, and the unfolding regional order in the Middle East: a strategic assessment' in the British Journal of Middle Eastern Studies. In his article, Dr Amour analyses Israels reading of recent regional developments and its attitudes and behaviours (since 2010) towards the attendant and emerging strategic...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,184,what_is_sectarian_politics_.html" title="What is Sectarian Politics?">What is Sectarian Politics?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 09 Mayıs 2016, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">In Middle East politics, religious sects have played a key role in shaping the internal and foreign policies of regional actors, during the Arab Spring in particular. It is generally accepted that the Middle Eastern countries, primarily Iran and Saudi Arabia, have developed sectarian reflexes toward the developments in the region and engage in so-called sectarian policies. The...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,185,the_geneva_talks_and_syria_in_its_aftermath.html" title="The Geneva Talks and Syria in its Aftermath">The Geneva Talks and Syria in its Aftermath</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 14 Mart 2016, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">The Geneva Talks held in order to find a diplomatic solution to the Syria problem failed as expected and attention is now turned again towards the front where the violence had never stopped during the talks. The principle reason behind this failure was the unwillingness of the Russian-Iranian-Damascene axis to stop its offensive against the opposition and the disinclination these...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,188,the_recent_developments_in_lebanon_in_the_light_of_the_field_observations.html" title="The Recent Developments in Lebanon in the Light of the Field Observations">The Recent Developments in Lebanon in the Light of the Field Observations</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 30 Mart 2015, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,55,arastirma_gorevlisi_dr_a_selcan_ozdemirci_cinal.html" title="Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal" class="important">Araştırma Görevlisi, Dr. A. Selcan Özdemirci Cinal</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Kemal Salibi describes Lebanon as Since 1975, Lebanon has stood out in the world as a supreme example of political and social disorganization. The transformation of peaceful civil movements that began in Syria in 2011 into a bloody civil war had created a chaotic environment in the region and it also affected Lebanon by the context of its historical relations with Syria and its...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,104,operation_sah_firat_shah_euphrates_and_turkey_s_middle_east_policy.html" title="Operation Şah-Fırat (Shah–Euphrates) and Turkey’s Middle East Policy">Operation Şah-Fırat (Shah–Euphrates) and Turkey’s Middle East Policy</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 18 Mart 2015, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Last weekend Operation Şah-Fırat (Shah – Euphrates) created a great deal of repercussions around the world. With this operation, Turkey moved the Tomb of Süleyman Şah (Shah), the grandfather of the founder of the Ottoman Empire, from a location where it had become more difficult to protect the site to a less risky and easier to protect new location in Syria, nearby the...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,103,the_eu_s_turkey_policies_promotion_of_democracy_vs_interventionism.html" title="The EU’s Turkey Policies: Promotion of Democracy vs Interventionism">The EU’s Turkey Policies: Promotion of Democracy vs Interventionism</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 15 Mart 2014, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">A fair assessment of European Union policy on Turkey is that it displays significant fluctuations based on the specific period of time and who the decision makers are; therefore, it does not follow a consistent path. While the EU at times offers strong support for Turkeys democratization efforts, it occasionally works against its fundamental principles, including the promotion of...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,102,rational_dimension_of_turkey_eu_relations.html" title="Rational Dimension of Turkey-EU relations">Rational Dimension of Turkey-EU relations</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 15 Şubat 2014, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,66,prof_dr_kemal_inat.html" title="Profesör Kemal İnat" class="important">Profesör Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,6,opinions.html" title="Opinions" class="important">Opinions</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">It is the requirement of rational politics for Turkey to have economic and political cooperation with all countries, notably with her neighbors. The Prime Minister Recep Tayyip Erdoğans visit to Brussels after five years, then hosting French President François Hollande in Turkey – a first visit at the presidential level in the last 22 years -, Turkish President Abdullah Güls...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div align="center"><br /><b>Sayfa</b><br /><ul class="pagination">
+    <li><a href="20,1,,6,.html?page=7">&laquo;</a></li>
+    <li><a href="20,1,,6,.html?page=1">1</a></li>
+    <li><a href="20,1,,6,.html?page=2">2</a></li>
+    <li><a href="20,1,,6,.html?page=3">3</a></li>
+    <li><a href="20,1,,6,.html?page=4">4</a></li>
+    <li><a href="20,1,,6,.html?page=5">5</a></li>
+    <li><a href="20,1,,6,.html?page=6">6</a></li>
+    <li><a href="20,1,,6,.html?page=7">7</a></li>
+    <li class="active"><span>8</span></li>
+    <li><span>&raquo;</span></li>
+  </ul>
+<br /></div>          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2024. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

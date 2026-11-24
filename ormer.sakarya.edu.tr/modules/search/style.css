@@ -1,0 +1,11 @@
+.search_url {
+	color: #090;
+}
+
+.search_title {
+	background:#ebeff9;
+	border-top:1px solid #6b90da;
+	margin: 10px 0;
+	padding: 5px;
+	text-align: right;
+}

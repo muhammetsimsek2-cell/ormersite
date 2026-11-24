@@ -1,0 +1,298 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2020 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Yorumlar | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="http://www.ortadogu.sakarya.edu.tr/">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="http://middleeastcongress.org/">Ortadoğu Kongresi</a><ul><li><a href="http://middleeastcongress.org/">IV. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,iii_ortadogu_kongresi.html">III. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,ii_ortadogu_kongresi.html">II. Ortadoğu Kongresi</a></li><li><a href="19,2,,3,i_ortadogu_kongresi.html">I. Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Son Duyurular</span></h4></div>
+<div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,191,tez_oneri_ve_tez_izleme_sinavlari_hakkinda.html" title="TEZ ÖNERİ VE TEZ İZLEME SINAVLARI HAKKINDA">TEZ ÖNERİ VE TEZ İZLEME SINAVLARI HAKKINDA</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 25 Temmuz 2020, Cumartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,189,020_2021_ogretim_yili_guz_yariyili_tezsiz_yuksek_lisans_program_ilani.html" title="020-2021 ÖĞRETİM YILI GÜZ YARIYILI TEZSİZ YÜKSEK LİSANS PROGRAM İLANI">020-2021 ÖĞRETİM YILI GÜZ YARIYILI TEZSİZ YÜKSEK LİSANS PROGRAM İLANI</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 21 Temmuz 2020, Salı</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,188,yeterlik_sinavi.html" title="Yeterlik Sınavı">Yeterlik Sınavı</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 01 Temmuz 2020, Çarşamba</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,187,2019_2020_bahar_yeterlik_sinavlari.html" title="2019-2020 Bahar Yeterlik Sınavları">2019-2020 Bahar Yeterlik Sınavları</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 29 Haziran 2020, Pazartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,186,enstitu_mudurumuz_prof_tuncay_kardas_turkiye_nin_kuzey_irak_operasyonu_ve_libya_hakkinda_konusuyor.html" title="Enstitü Müdürümüz Prof. Tuncay Kardaş Türkiye'nin Kuzey Irak Operasyonu ve Libya Hakkında Konuşuyor">Enstitü Müdürümüz Prof. Tuncay Kardaş Türkiye'nin Kuzey Irak Operasyonu ve Libya Hakkında Konuşuyor</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 24 Haziran 2020, Çarşamba</span></div></div><div class="clear"></div></article></div></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Yorumlar</span></h4></div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,513,covid_19_pandemic_as_global_political_crisis.html" title="COVID-19 Pandemic as Global Political Crisis">COVID-19 Pandemic as Global Political Crisis</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 07 Nisan 2020, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,22,prof_dr_ali_balci.html" title="Prof. Dr. Ali Balcı" class="important">Prof. Dr. Ali Balcı</a>,  <a href="20,5,,23,prof_dr_tuncay_kardas.html" title="Prof. Dr. Tuncay Kardaş" class="important">Prof. Dr. Tuncay Kardaş</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">The world has been under the effect of the new type of coronavirus for the last couple of months. While more than 17,100 people have lost their lives, over 392,300 people were directly affected by the virus. Besides its influences on human life and health sector, it is necessary to mention that this outbreak, which has turned into a pandemic, would also have a lot of consequences...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,520,kriz_en_fazla_kimi_etkileyecek_.html" title="Kriz En Fazla Kimi Etkileyecek?">Kriz En Fazla Kimi Etkileyecek?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 02 Nisan 2020, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Koronavirüsün neden olduğu salgın dolayısıyla dünya iç içe geçmiş çok sayıda krizi birlikte yaşıyor. Şu anda bu krizlerden en akut olanı kuşkusuz sağlıkla ilgili olanı. Bütün ülkeler öncelikli olarak can kayıplarını önlemeye odaklanmış durumdalar. Bunun için bir yandan virüsün yayılmasının önlenmesi için tedbirler alınıyor bir yandan da...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,511,bir_kuresel_siyaset_krizi_olarak_kovid_19_salgini.html" title="Bir küresel Siyaset Krizi Olarak Kovid-19 Salgını">Bir küresel Siyaset Krizi Olarak Kovid-19 Salgını</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Mart 2020, Cuma</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,23,prof_dr_tuncay_kardas.html" title="Prof. Dr. Tuncay Kardaş" class="important">Prof. Dr. Tuncay Kardaş</a>,  <a href="20,5,,22,prof_dr_ali_balci.html" title="Prof. Dr. Ali Balcı" class="important">Prof. Dr. Ali Balcı</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Kovid-19 salgını sadece insan sağlığını tehdit etmekle kalmıyor, toplumsal ve politik düzenleri de sarsıyor. Öncelikle, Kovid-19, siyasete ket vuran bir özelliğe sahip. Bunun en önemli sebebi, siyasetin dost-düşman ayrımı gözeten geleneksel mantığıyla, sağlık temelli tekno-politika arasındaki uyuşmazlık. Bu uyuşmazlık karar verme dinamiklerini de...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,519,korona_k_busu_ndan_hangi_ulke_nasil_uyanacak_.html" title="Korona Kâbusu'ndan Hangi Ülke Nasıl Uyanacak?">Korona Kâbusu'ndan Hangi Ülke Nasıl Uyanacak?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 22 Mart 2020, Pazar</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Dünyanın, uluslararası politikaya yön veren yarımküresinde korona kâbusu sürüyor. Avrupa'da kriz her geçen gün derinleşirken, salgının başladığı Çin ve diğer Doğu Asya ülkeleri krizi yönetmeyi öğrenmiş görünüyorlar. Çin'de yerli nüfus kaynaklı yeni vaka olmadığı açıklanırken, Japonya ve Güney Kore'de yeni vaka sayıları oldukça azalmış...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,508,ortadogu_da_silahlanma_yarisi_2019_da_da_hiz_kesmedi.html" title="Ortadoğu'da Silahlanma Yarışı 2019'da da Hız Kesmedi">Ortadoğu'da Silahlanma Yarışı 2019'da da Hız Kesmedi</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 03 Mart 2020, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,35,ars_gor_furkan_halit_yolcu.html" title="Arş. Gör. Furkan Halit Yolcu" class="important">Arş. Gör. Furkan Halit Yolcu</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Her sene küresel silahlanmaya dair oldukça kapsamlı bir yıllık hazırlayan Londra merkezli Uluslararası Stratejik Araştırmalar Enstitüsünün (IISS) 2019 yılı raporu, Orta Doğu'da silahlanmanın seyrine dair önemli bilgileri içeriyor. Ancak son senelerde olduğu gibi 2019'da da birçok uluslararası silahlanma kurumu, Katar, Yemen ve Birleşik Arap Emirlikleri'nin...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,510,rusya_ile_yol_ayrimi_.html" title="Rusya ile Yol Ayrımı!">Rusya ile Yol Ayrımı!</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 01 Mart 2020, Pazar</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Gücün asıl belirleyici olduğu uluslararası sistemde Türkiye, bağımsız hareket edebilmek için gücünü artırmaya çalışırken, bir taraftan da bağımsızlığına yönelik girişimler karşısında küresel aktörler karşısında denge politikası izlemeye çalıştı. Bağımsızlığına yönelik eylemler ABD'den geldiğinde AB ve Rusya ile ilişkilerini...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,509,idlib_de_muttefiklik_hukuku_ve_cikarlar_.html" title="İdlib’de “Müttefiklik” Hukuku ve Çıkarlar!">İdlib’de “Müttefiklik” Hukuku ve Çıkarlar!</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 29 Şubat 2020, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Son yazımızda Batılı "müttefiklerimizin" İdlib krizi konusunda Türkiye'yi desteklediklerini gösteren açıklamalarına değinmiş ve Ankara'nın bu açıklamalara güvenip güvenemeyeceği sorusunu sormuştuk. Aslında ABD ve Avrupalı NATO müttefiklerimizin son 6-7 yıldır izledikleri Türkiye politikasına baktığımızda, bu ülkelerin ülkemize yönelik tehditler...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,507,idlib_de_bulunmak_turkiye_icin_zorunluluk_mu_tercih_mi_.html" title="İdlib’de Bulunmak Türkiye İçin Zorunluluk mu Tercih mi?">İdlib’de Bulunmak Türkiye İçin Zorunluluk mu Tercih mi?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 25 Şubat 2020, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">İdlib krizi üzerinden Suriye sorunu Türkiye'nin canını yakmaya devam ediyor. En uzun sınırlara sahip olduğumuz bu ülkede yaşanan iç savaş trajedisinin Türkiye'yi etkilememesi gibi bir seçenek yoktu maalesef. Mülteci sorunu üzerinden etkiliyor. Terör örgütlerinin faaliyetleri üzerinden etkiliyor. Yazının devamına buradan...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,506,iran_da_meclis_secimleri_sonrasi_mesruiyet_krizi_derinlesiyor.html" title="İran’da Meclis Seçimleri Sonrası Meşruiyet Krizi Derinleşiyor">İran’da Meclis Seçimleri Sonrası Meşruiyet Krizi Derinleşiyor</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 25 Şubat 2020, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,12,ars_gor_mustafa_caner.html" title="Arş. Gör. Mustafa Caner" class="important">Arş. Gör. Mustafa Caner</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">21 Şubat Cuma günü İran, tarihinin en düşük katılımlı Meclis seçimlerini gerçekleştirdi. Yetkililerin katılımı artırmak için gece yarısına kadar defalarca seçim süresini uzatmalarına rağmen sonuç, rejim yöneticileri için tehlike çanlarını işaret ediyordu. Yüzde 42,57 olarak açıklanan ülke genelindeki katılım oranı, bugüne kadar 2004 yılında...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,503,sozde_filistin_baris_plani_ni_kimler_neden_destekliyor_.html" title="Sözde 'Filistin Barış Planı’nı' Kimler, Neden Destekliyor?">Sözde 'Filistin Barış Planı’nı' Kimler, Neden Destekliyor?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 11 Şubat 2020, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,23,prof_dr_tuncay_kardas.html" title="Prof. Dr. Tuncay Kardaş" class="important">Prof. Dr. Tuncay Kardaş</a>,  <a href="20,5,,41,ars_gor_serra_can.html" title="Arş. Gör. Serra Can" class="important">Arş. Gör. Serra Can</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Geçtiğimiz günlerde Beyaz Saray'da Trump ve Netanyahu'nun ortak basın toplantısıyla açıkladığı "Refah İçin Barış" isimli tek taraflı Filistin planı büyük tartışmalar doğurdu. "Yüzyılın Anlaşması", İsrail'in sahada kaba kuvvetle oluşturduğu uluslararası hukuka aykırı realiteyi meşrulaştırma ve işgalin ilhaka dönüşmesine zemin hazırlama...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div align="center"><br /><b>Sayfa</b><br /><ul class="pagination">
+    <li><a href="20,1,,1,.html?page=3">&laquo;</a></li>
+    <li><a href="20,1,,1,.html?page=1">1</a></li>
+    <li><a href="20,1,,1,.html?page=2">2</a></li>
+    <li><a href="20,1,,1,.html?page=3">3</a></li>
+    <li class="active"><span>4</span></li>
+    <li><a href="20,1,,1,.html?page=5">5</a></li>
+    <li><a href="20,1,,1,.html?page=6">6</a></li>
+    <li><span>...</span></li>
+    <li><a href="20,1,,1,.html?page=39">39</a></li>
+    <li><a href="20,1,,1,.html?page=40">40</a></li>
+    <li><a href="20,1,,1,.html?page=41">41</a></li>
+    <li><a href="20,1,,1,.html?page=5">&raquo;</a></li>
+  </ul>
+<br /></div>          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2020. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="http://www.ortadogu.sakarya.edu.tr/">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="http://middleeastcongress.org/">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

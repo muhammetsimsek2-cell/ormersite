@@ -1,0 +1,47 @@
+.thumbnail_gal {
+	height: 100%;
+	float: left;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+}
+.thumbnail_gal div {
+	margin: 2px;
+	padding: 2px;
+	margin: 0 auto;
+}
+.thumbnail_gal .thumbnail_label {
+	height: 40px;
+	font-weight: bold;
+	padding-top: 8px;
+	display: block;
+	vertical-align: middle;
+}
+.thumbnail_gal .thumbnail_thumb {
+	height: 300px;
+	line-height: 300px;
+	display: block;
+}
+.thumbnail_gal .thumbnail_thumb img {
+    max-width: 100%;
+    max-height: 100%;
+    vertical-align: middle;
+}
+.thumbnail_gal .thumbnail_info {
+	height: 45px;
+	vertical-align: middle;
+	width: 80%;
+	margin: 0 auto;
+	border-bottom: 1px solid #ccc;
+}
+.entry_divl {
+	border-right: 1px solid #ccc;
+}
+
+.entry_divm {
+	border-right: 1px solid #ccc;
+}
+
+.entry_divr {
+	
+}

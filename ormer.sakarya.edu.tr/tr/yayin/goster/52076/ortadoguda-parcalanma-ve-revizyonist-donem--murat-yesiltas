@@ -1,0 +1,543 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="tr">
+<![endif]-->
+<!--[if IE 7]>
+    <html class="no-js lt-ie9 lt-ie8" lang="tr">
+<![endif]-->
+<!--[if IE 8]>
+    <html class="no-js lt-ie9" lang="tr"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="tr">
+<!--<![endif]-->
+<head>
+    <title> Ortadoğu Enstit&#252;s&#252;</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Sakarya &#220;niversitesi » Yazılım Grubu">
+    <meta charset="UTF-8">
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,100,200,300,500,600,700,800&subset=latin-ext' rel='stylesheet' type='text/css'>
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/css/animate.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/yamm.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/validationEngine/css/validationEngine.jquery.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/style.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" />
+
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Content/PagedList.css" rel="stylesheet" />
+
+    
+    
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/modernizr.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/jquery.bxslider/jquery.bxslider.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/jquery.mb.mediaEmbedder.js"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/react-0.14.0.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/react-dom-0.14.0.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/plugins.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/custom.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery.cookie.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/validationEngine/js/languages/jquery.validationEngine-tr.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/validationEngine/js/jquery.validationEngine.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery.mixitup.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/ReactComponent.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/core.js" type="text/javascript"></script>
+    
+    
+    
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/custom.min.css" rel="stylesheet" />
+    <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/favicon.ico">
+    <script>
+        var dilKod = "tr";
+    </script>
+    <!--[if lt IE 8]>
+        <div style='clear: both; text-align: center; position: relative;'>
+            <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode">
+                <img
+                    src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" alt=""/>
+            </a>
+        </div>
+    <![endif]-->
+</head>
+<body>
+<div class="responsive-navigation visible-sm visible-xs">
+    <a href="#" class="menu-toggle-btn">
+        <i class="fa fa-bars"></i>
+    </a>
+    <div class="responsive_menu">
+        <ul class='main_menu'><li><a href='http://ormer.sakarya.edu.tr' >Ana Sayfa</a></li><li><a href='http://www.ormer1.sakarya.edu.tr/' target='_blank' >Akademik</a></li><li><a href='/tr/668/icerik/28125/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='#' target='_self' >Enstitü</a><ul ><li><a href='/tr/490/Personel/2846/idari-yapi/' target='_self' >İdari yapı</a></li><li><a href='/tr/491/Personel/2853/akademik-kadro/' target='_self' >Akademik Kadro</a></li><li><a href='/tr/1126/icerik/51990/misafir-arastirmacilar/' target='_self' >Misafir Araştırmacılar</a></li><li><a href='/tr/608/Personel/51676/idari-kadro/' target='_self' >İdari Kadro</a></li><li><a href='/tr/493/icerik-grup/51955/bulten/' target='_self' >Bülten</a><ul ><li><a href='/tr/977/icerik/51954/ormer-bulteni-mayis-agustos-2014/' target='_self' >Ormer Bülteni Mayıs-Ağustos 2014</a></li><li><a href='/tr/986/icerik/51953/ormer-bulteni-eylul-aralik-2014/' target='_self' >Ormer Bülteni Eylül-Aralık 2014</a></li><li><a href='/tr/979/icerik/51952/ormer-bulteni-ocak-nisan-2015/' target='_self' >Ormer Bülteni Ocak-Nisan 2015</a></li><li><a href='/tr/984/icerik/51949/ormer-bulteni-mayis-agustos-2015/' target='_self' >Ormer Bülteni Mayıs-Ağustos 2015</a></li><li><a href='/tr/989/icerik/51947/ormer-bulteni-eylul-aralik-2015/' target='_self' >Ormer Bülteni Eylül-Aralık 2015</a></li></ul></li><li><a href='#' target='_self' >Etkinlikler</a></li></ul></li><li><a href='#' target='_self' >Programlar</a><ul ><li><a href='/tr/517/icerik/2891/doktora-programi/' target='_self' >Doktora programı</a></li><li><a href='/tr/521/icerik/2833/yuksek-lisans-programi/' target='_self' >Yüksek lisans programı</a></li></ul></li><li><a href='#' target='_self' >Öğrenci</a><ul ><li><a href='/tr/705/icerik/51705/program-asamalari/' target='_self' >Program Aşamaları</a></li><li><a href='/tr/511/icerik/15598/akademik-takvim/' target='_self' >Akademik takvim</a></li><li><a href='/tr/510/icerik/51681/ders-plan-programi/' target='_self' >Ders plan programı</a></li><li><a href='#' target='_self' >Formlar</a><ul ><li><a href='/tr/707/icerik/51706/formlar/' target='_self' >Formlar</a></li><li><a href='/tr/708/icerik/51707/dilekce-ornekleri/' target='_self' >Dilekçe Örnekleri</a></li></ul></li><li><a href='#' target='_self' >Kararlar</a><ul ><li><a href='/tr/532/icerik/51702/enstitu-yonetim-kurulu-kararlari/' target='_self' >Enstitü Yönetim Kurulu Kararları</a></li></ul></li><li><a href='/tr/563/icerik/47950/danismanlik-ve-tez/' target='_self' >Danışmanlık ve tez</a></li><li><a href='#' target='_self' >Başvuru</a><ul ><li><a href='#' target='_self' >Online başvuru</a></li></ul></li></ul></li><li><a href='#' target='_self' >Dergiler</a><ul ><li><a href='/tr/508/icerik/51776/turkiye-ortadogu-calismalari-dergisi/' target='_self' >Türkiye Ortadoğu Çalışmaları Dergisi</a><ul ><li><a href='/tr/904/icerik/51783/son-sayi/' target='_self' >Son Sayı</a></li><li><a href='/tr/905/icerik/51775/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/919/icerik/51769/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/915/icerik/51771/yayin-ilkeleri/' target='_self' >Yayın İlkeleri</a></li><li><a href='/tr/911/icerik//makale-gonder/' target='_self' >Makale Gönder</a></li><li><a href='/tr/907/icerik/51774/iletisim/' target='_self' >İletişim</a></li><li><a href='/tr/920/icerik-grup/51754/gecmis-sayilar/' target='_self' >Geçmiş Sayılar</a><ul ><li><a href='/tr/930/icerik/51784/cilt-1-sayi-1/' target='_self' >Cilt 1 Sayı 1</a></li><li><a href='/tr/932/icerik/51791/cilt-1-sayi-2/' target='_self' >Cilt 1 Sayı 2</a></li><li><a href='/tr/933/icerik/51879/cilt-2-sayi-2/' target='_self' >Cilt 2 Sayı 2</a></li></ul></li></ul></li><li><a href='/tr/509/icerik-grup/51752/ortadogu-yilligi/' target='_self' >Ortadoğu Yıllığı</a><ul ><li><a href='/tr/888/icerik//sayilar/' target='_self' >Sayılar</a><ul ><li><a href='/tr/935/icerik/51943/ortadogu-yilligi-2014/' target='_self' >Ortadoğu Yıllığı 2014</a></li><li><a href='/tr/945/icerik/51942/ortadogu-yilligi-2013/' target='_self' >Ortadoğu Yıllığı 2013</a></li><li><a href='/tr/955/icerik-grup/51755/ortadogu-yilligi-2012/' target='_self' >Ortadoğu Yıllığı 2012</a></li><li><a href='/tr/956/icerik/51939/ortadogu-yilligi-2011/' target='_self' >Ortadoğu Yıllığı 2011</a></li><li><a href='/tr/946/icerik/51929/ortadogu-yilligi-2010/' target='_self' >Ortadoğu Yıllığı 2010</a></li><li><a href='/tr/936/icerik/51928/ortadogu-yilligi-2009/' target='_self' >Ortadoğu Yıllığı 2009</a></li><li><a href='/tr/937/icerik/51927/ortadogu-yilligi-2008/' target='_self' >Ortadoğu Yıllığı 2008</a></li><li><a href='/tr/947/icerik/51926/ortadogu-yilligi-2007/' target='_self' >Ortadoğu Yıllığı 2007</a></li><li><a href='/tr/957/icerik-grup/51755/ortadogu-yilligi-2006/' target='_self' >Ortadoğu Yıllığı 2006</a></li><li><a href='/tr/958/icerik/51925/ortadogu-yilligi-2005/' target='_self' >Ortadoğu Yıllığı 2005</a></li></ul></li><li><a href='/tr/897/icerik/51923/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='/tr/889/icerik-grup/51755/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/890/icerik-grup/51755/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/898/icerik/51935/yazim-kurallari/' target='_self' >Yazım Kuralları</a></li><li><a href='/tr/899/icerik/51920/kunye/' target='_self' >Künye</a></li><li><a href='/tr/891/icerik-grup/51755/makale-yolla/' target='_self' >Makale Yolla</a></li><li><a href='/tr/892/icerik/51921/iletisim/' target='_self' >İletişim</a></li></ul></li></ul></li><li><a href='#' target='_self' >Yayınlar</a><ul ><li><a href='/tr/567/yayin/liste/1/yorumlar/kategori/2838' target='_self' >Yorumlar</a></li><li><a href='/tr/568/yayin/liste/1/perspektif/kategori/2839' target='_self' >Perspektif</a></li><li><a href='/tr/569/yayin/liste/1/analiz/kategori/2840' target='_self' >Analiz</a></li><li><a href='/tr/571/yayin/liste/1/kitap/kategori/2842' target='_self' >Kitap</a></li><li><a href='/tr/572/icerik/2825/sau-kultur-yayinlari/' target='_self' >SAÜ Kültür yayınları</a></li></ul></li><li><a href='/tr/703/icerik/51704/yonetmelik/' target='_self' >Yönetmelik</a></li><li><a href='/tr/702/icerik/51703/belge-talebi/' target='_self' >Belge Talebi</a></li><li><a href='#' target='_self' >Ortadoğu Kongresi</a><ul ><li><a href='http://www.middleeastcongress3.org/' target='_self' >III.Ortadoğu Kongresi</a></li><li><a href='/tr/499/icerik/2829/ii-ortadogu-kongresi/' target='_self' >II. Ortadoğu kongresi</a></li><li><a href='/tr/498/icerik/2828/i-ortadogu-kongresi/' target='_self' >I. Ortadoğu Kongresi</a></li></ul></li><li><a href='/tr/604/iletisim/' target='_self' >İletişim</a></li></ul>
+    </div>
+</div>
+    <header class="site-header">
+        <div class="container">
+            <div class="row">
+
+<div class="col-md-8 header-logo">
+    <div class="logo">
+        <div class="row">
+            <div class="col-md-1 sau-logo-custom-align" style="margin-right: 5px;">
+                <a href="http://ormer.sakarya.edu.tr/tr" title="Sakarya Üniversitesi" rel="home">
+                    <img style="margin-bottom: 12px;" height="100" src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/img/img_saulogo.png" alt="SAKARYA &#220;NİVERSİTESİ">
+                </a>
+            </div>
+            <div class="col-md-10 " style="margin-left: 24px;margin-top: 8px;">
+                <a href="http://ormer.sakarya.edu.tr/tr" title="SAKARYA &#220;NİVERSİTESİ" rel="home">
+                    <span style="font-size: 24px; line-height: 22px; font-family: times new roman; font-weight: bold;">
+                        SAKARYA &#220;NİVERSİTESİ
+                    </span>
+                    <br>
+                        <span style="font-size: 18px; line-height: 20px; font-family: times new roman;">
+                            Ortadoğu Enstit&#252;s&#252;
+                        </span>
+<br/>
+<br />
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-4">
+    <ul class="social_icons hidden-md hidden-lg mobile_social_icons">
+        
+
+
+
+
+</ul>
+
+    <div style="margin-top: 5px;height: 50px;">
+            <img height="50" class="pull-right" src="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer1.sakarya.edu.tr/image/ormerLogo-600x200.png" />
+    </div>
+
+    <div class="clearfix"></div>
+    <form action="/tr/ara">
+        <div class="search-form" style="margin-top: 5px;">
+            <div class="col-xs-6 col-md-6 pull-right" style="padding: 0px; margin-right: -5px;">
+                <ul>
+                        <li class="pull-right">
+                            <a style="color: #fff" href="javascript:void(0);" onclick="LanguageUrlRewrite('tr');">
+                                <div class="bg-primary text-center pull-right sitedilbuton sitedilbutonsecili">
+                                    TR
+                                </div>
+                            </a>
+                        </li>
+                        <li class="pull-right">
+                            <a style="color: #fff" href="javascript:void(0);" onclick="LanguageUrlRewrite('en');">
+                                <div class="bg-primary text-center pull-right sitedilbuton ">
+                                    EN
+                                </div>
+                            </a>
+                        </li>
+                        <li class="pull-right">
+                            <a style="color: #fff" href="javascript:void(0);" onclick="LanguageUrlRewrite('ar');">
+                                <div class="bg-primary text-center pull-right sitedilbuton ">
+                                    AR
+                                </div>
+                            </a>
+                        </li>
+                    <li class="pull-right" style="position: relative;">
+                        <div class="search-bar" style="margin-top: 5px; margin-bottom: 5px;">
+                            <div class="input-group">
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-default"><i class="fa fa-search"></i></button>
+                                </div>
+                                <input class="form-control" placeholder="Arama yap" name="q">
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </form>
+</div>
+            </div>
+        </div>
+<div class="nav-bar-main" role="navigation">
+    <div class="container">
+        <nav class="main-navigation clearfix visible-md visible-lg" role="navigation">
+            <ul class='main-menu sf-menu'><li><a href='http://ormer.sakarya.edu.tr' data-toggle='tooltip'><i class='fa fa-home'></i></a></li><li><a href='http://www.ormer1.sakarya.edu.tr/' target='_blank' >Akademik</a></li><li><a href='/tr/668/icerik/28125/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='#' target='_self' >Enstitü</a><ul class='sub-menu'><li><a href='/tr/490/Personel/2846/idari-yapi/' target='_self' >İdari yapı</a></li><li><a href='/tr/491/Personel/2853/akademik-kadro/' target='_self' >Akademik Kadro</a></li><li><a href='/tr/1126/icerik/51990/misafir-arastirmacilar/' target='_self' >Misafir Araştırmacılar</a></li><li><a href='/tr/608/Personel/51676/idari-kadro/' target='_self' >İdari Kadro</a></li><li><a href='/tr/493/icerik-grup/51955/bulten/' target='_self' >Bülten</a><ul class='sub-menu'><li><a href='/tr/977/icerik/51954/ormer-bulteni-mayis-agustos-2014/' target='_self' >Ormer Bülteni Mayıs-Ağustos 2014</a></li><li><a href='/tr/986/icerik/51953/ormer-bulteni-eylul-aralik-2014/' target='_self' >Ormer Bülteni Eylül-Aralık 2014</a></li><li><a href='/tr/979/icerik/51952/ormer-bulteni-ocak-nisan-2015/' target='_self' >Ormer Bülteni Ocak-Nisan 2015</a></li><li><a href='/tr/984/icerik/51949/ormer-bulteni-mayis-agustos-2015/' target='_self' >Ormer Bülteni Mayıs-Ağustos 2015</a></li><li><a href='/tr/989/icerik/51947/ormer-bulteni-eylul-aralik-2015/' target='_self' >Ormer Bülteni Eylül-Aralık 2015</a></li></ul></li><li><a href='#' target='_self' >Etkinlikler</a></li></ul></li><li><a href='#' target='_self' >Programlar</a><ul class='sub-menu'><li><a href='/tr/517/icerik/2891/doktora-programi/' target='_self' >Doktora programı</a></li><li><a href='/tr/521/icerik/2833/yuksek-lisans-programi/' target='_self' >Yüksek lisans programı</a></li></ul></li><li><a href='#' target='_self' >Öğrenci</a><ul class='sub-menu'><li><a href='/tr/705/icerik/51705/program-asamalari/' target='_self' >Program Aşamaları</a></li><li><a href='/tr/511/icerik/15598/akademik-takvim/' target='_self' >Akademik takvim</a></li><li><a href='/tr/510/icerik/51681/ders-plan-programi/' target='_self' >Ders plan programı</a></li><li><a href='#' target='_self' >Formlar</a><ul class='sub-menu'><li><a href='/tr/707/icerik/51706/formlar/' target='_self' >Formlar</a></li><li><a href='/tr/708/icerik/51707/dilekce-ornekleri/' target='_self' >Dilekçe Örnekleri</a></li></ul></li><li><a href='#' target='_self' >Kararlar</a><ul class='sub-menu'><li><a href='/tr/532/icerik/51702/enstitu-yonetim-kurulu-kararlari/' target='_self' >Enstitü Yönetim Kurulu Kararları</a></li></ul></li><li><a href='/tr/563/icerik/47950/danismanlik-ve-tez/' target='_self' >Danışmanlık ve tez</a></li><li><a href='#' target='_self' >Başvuru</a><ul class='sub-menu'><li><a href='#' target='_self' >Online başvuru</a></li></ul></li></ul></li><li><a href='#' target='_self' >Dergiler</a><ul class='sub-menu'><li><a href='/tr/508/icerik/51776/turkiye-ortadogu-calismalari-dergisi/' target='_self' >Türkiye Ortadoğu Çalışmaları Dergisi</a><ul class='sub-menu'><li><a href='/tr/904/icerik/51783/son-sayi/' target='_self' >Son Sayı</a></li><li><a href='/tr/905/icerik/51775/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/919/icerik/51769/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/915/icerik/51771/yayin-ilkeleri/' target='_self' >Yayın İlkeleri</a></li><li><a href='/tr/911/icerik//makale-gonder/' target='_self' >Makale Gönder</a></li><li><a href='/tr/907/icerik/51774/iletisim/' target='_self' >İletişim</a></li><li><a href='/tr/920/icerik-grup/51754/gecmis-sayilar/' target='_self' >Geçmiş Sayılar</a><ul class='sub-menu'><li><a href='/tr/930/icerik/51784/cilt-1-sayi-1/' target='_self' >Cilt 1 Sayı 1</a></li><li><a href='/tr/932/icerik/51791/cilt-1-sayi-2/' target='_self' >Cilt 1 Sayı 2</a></li><li><a href='/tr/933/icerik/51879/cilt-2-sayi-2/' target='_self' >Cilt 2 Sayı 2</a></li></ul></li></ul></li><li><a href='/tr/509/icerik-grup/51752/ortadogu-yilligi/' target='_self' >Ortadoğu Yıllığı</a><ul class='sub-menu'><li><a href='/tr/888/icerik//sayilar/' target='_self' >Sayılar</a><ul class='sub-menu'><li><a href='/tr/935/icerik/51943/ortadogu-yilligi-2014/' target='_self' >Ortadoğu Yıllığı 2014</a></li><li><a href='/tr/945/icerik/51942/ortadogu-yilligi-2013/' target='_self' >Ortadoğu Yıllığı 2013</a></li><li><a href='/tr/955/icerik-grup/51755/ortadogu-yilligi-2012/' target='_self' >Ortadoğu Yıllığı 2012</a></li><li><a href='/tr/956/icerik/51939/ortadogu-yilligi-2011/' target='_self' >Ortadoğu Yıllığı 2011</a></li><li><a href='/tr/946/icerik/51929/ortadogu-yilligi-2010/' target='_self' >Ortadoğu Yıllığı 2010</a></li><li><a href='/tr/936/icerik/51928/ortadogu-yilligi-2009/' target='_self' >Ortadoğu Yıllığı 2009</a></li><li><a href='/tr/937/icerik/51927/ortadogu-yilligi-2008/' target='_self' >Ortadoğu Yıllığı 2008</a></li><li><a href='/tr/947/icerik/51926/ortadogu-yilligi-2007/' target='_self' >Ortadoğu Yıllığı 2007</a></li><li><a href='/tr/957/icerik-grup/51755/ortadogu-yilligi-2006/' target='_self' >Ortadoğu Yıllığı 2006</a></li><li><a href='/tr/958/icerik/51925/ortadogu-yilligi-2005/' target='_self' >Ortadoğu Yıllığı 2005</a></li></ul></li><li><a href='/tr/897/icerik/51923/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='/tr/889/icerik-grup/51755/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/890/icerik-grup/51755/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/898/icerik/51935/yazim-kurallari/' target='_self' >Yazım Kuralları</a></li><li><a href='/tr/899/icerik/51920/kunye/' target='_self' >Künye</a></li><li><a href='/tr/891/icerik-grup/51755/makale-yolla/' target='_self' >Makale Yolla</a></li><li><a href='/tr/892/icerik/51921/iletisim/' target='_self' >İletişim</a></li></ul></li></ul></li><li><a href='#' target='_self' >Yayınlar</a><ul class='sub-menu'><li><a href='/tr/567/yayin/liste/1/yorumlar/kategori/2838' target='_self' >Yorumlar</a></li><li><a href='/tr/568/yayin/liste/1/perspektif/kategori/2839' target='_self' >Perspektif</a></li><li><a href='/tr/569/yayin/liste/1/analiz/kategori/2840' target='_self' >Analiz</a></li><li><a href='/tr/571/yayin/liste/1/kitap/kategori/2842' target='_self' >Kitap</a></li><li><a href='/tr/572/icerik/2825/sau-kultur-yayinlari/' target='_self' >SAÜ Kültür yayınları</a></li></ul></li><li><a href='/tr/703/icerik/51704/yonetmelik/' target='_self' >Yönetmelik</a></li><li><a href='/tr/702/icerik/51703/belge-talebi/' target='_self' >Belge Talebi</a></li><li><a href='#' target='_self' >Ortadoğu Kongresi</a><ul class='sub-menu'><li><a href='http://www.middleeastcongress3.org/' target='_self' >III.Ortadoğu Kongresi</a></li><li><a href='/tr/499/icerik/2829/ii-ortadogu-kongresi/' target='_self' >II. Ortadoğu kongresi</a></li><li><a href='/tr/498/icerik/2828/i-ortadogu-kongresi/' target='_self' >I. Ortadoğu Kongresi</a></li></ul></li><li><a href='/tr/604/iletisim/' target='_self' >İletişim</a></li></ul>
+            <ul class="social-icons pull-right">
+                                                
+
+
+            </ul>
+        </nav>
+    </div>
+</div>
+
+ 
+      
+        
+        
+        
+       
+    </header>
+    <div class="container">
+        
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="row">
+            <div class="blog-post-container">
+                    <div class="blog-post-image">
+                        <img src="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/Image/f5f932b6575c4700b0d8780522deb48d-ormerlogo_600x200_1.png" alt="">
+                    </div>
+                <div class="blog-post-inner" style="text-align: justify;">
+                    <div class="row pull-right">
+                        <span>
+                            Yazar :
+                            <a href="/tr/Yayin/YazarinYayinlari/1/1079">
+                                Do&#231;.Dr. MURAT YEŞİLTAŞ
+                            </a>
+                        </span>
+                    </div>
+                    <hr/>
+                    <h3 class="blog-post-title">Ortadoğu&#39;da Par&#231;alanma ve Revizyonist D&#246;nem- Murat Yeşiltaş</h3>
+                    <h2>T&uuml;rkiye, Rusya ve İran arasındaki Halep mutabakatı T&uuml;rkiye&rsquo;nin dış politika kodlarında bundan sonra m&uuml;stakil bir revizyonizm siyaseti mi izleyeceği yoksa mevcut par&ccedil;alanma ve tehditler y&uuml;z&uuml;nden dengeleyici ve stat&uuml;kocu rol&uuml;ne geri mi d&ouml;neceği konusuna dair ipu&ccedil;ları i&ccedil;eriyor.</h2>
+
+<p>&nbsp;</p>
+
+<p>Cumhurbaşkanı Erdoğan en son yaptığı a&ccedil;ıklamalardan birinde, b&ouml;lgenin i&ccedil;inden ge&ccedil;tiği kritik d&ouml;nemde &ldquo;Eğer durmaya kalkarsak kendimizi bulacağımız yer Sevr şartlarıdır&rdquo; ifadesini kullandı. Başbakan yardımcısı Numan Kurtulmuş ise, benzer bir bi&ccedil;imde T&uuml;rkiye&rsquo;nin i&ccedil;inde bulunduğu coğrafyanın etnik olarak b&ouml;l&uuml;nmek istendiğini belirterek bu durumu &ldquo;İkinci Sykes-Picot oyunu&rdquo; olarak tanımladı. Her iki a&ccedil;ıklama da Ortadoğu&rsquo;nun i&ccedil;inden ge&ccedil;tiği hali a&ccedil;ık bir bi&ccedil;imde ortaya koyuyor aslında. Tarihsel olarak her iki anlaşma, hayata ge&ccedil;irilememiş olsa da &ouml;yle ya da b&ouml;yle Ortadoğu&rsquo;nun ve T&uuml;rkiye&rsquo;nin bug&uuml;n karşı karşıya kaldığı sorunların kaynağını oluşturuyor. Her iki anlaşma da b&ouml;lgeye dışarıdan dayatılmaya &ccedil;alışılan emperyal d&uuml;zenin tesis edilmesine y&ouml;nelik bir &ccedil;abaydı ve temelinde b&ouml;lgenin emperyal &uuml;lkelerin &ccedil;ıkarlarına uygun bir şekilde b&ouml;l&uuml;nerek s&ouml;m&uuml;r&uuml;lmesi yatıyordu.</p>
+
+<p>Her iki anlaşmanın &uuml;zerinden nerdeyse 100 yıl ge&ccedil;mesine rağmen, bug&uuml;n Ortadoğu yeni bir emperyal dizaynın par&ccedil;ası haline getirilmiş durumda. Ancak bu yeni dizayn, 100 yıl &ouml;ncesiyle karşılaştırılamayacak &ouml;l&ccedil;&uuml;de şiddetli bir par&ccedil;alanmayla b&ouml;lgeyi karşı karşıya bıraktığı gibi, par&ccedil;alanmanın b&ouml;lge i&ccedil;i dinamiklerini &ouml;nemli &ouml;l&ccedil;&uuml;de değiştirdi ve b&ouml;lge i&ccedil;i akt&ouml;rleri daha sert bir meydan okumayla karşı karşıya bıraktı.</p>
+
+<p>Arap Baharı&rsquo;nın ilk ortaya &ccedil;ıktığında en temel vaadi, b&ouml;lgesel d&uuml;zenin i&ccedil;erden ve tabandan dinamiklerle yeniden inşa edilmesine y&ouml;nelikti. Diğer bir ifadeyle, eski rejimlerin d&uuml;şmesiyle birlikte, sosyo-politik d&uuml;zeyde toplumu aşağıdan yukarıya taşımayı hedefleyen halk g&ouml;sterileri beraberinde otoriter rejimleri yıkacak, sonra da demokratik bir sağlamlaştırma d&ouml;nemine ge&ccedil;iş yaşanarak b&ouml;lgesel &ouml;l&ccedil;ekte sistemik d&uuml;zeyde jeopolitik bir d&ouml;n&uuml;ş&uuml;m ortaya &ccedil;ıkacaktı. Bu jeopolitik d&ouml;n&uuml;ş&uuml;m nihayetinde Ortadoğu&rsquo;yu uluslararası sistemin istikrarsız bir alt b&ouml;lgesel sistemi olmaktan &ccedil;ıkaracak ve uzun d&ouml;nemde &ldquo;Ortadoğu barışının&rdquo; koşulları oluşacaktı. Ne var ki Arap Baharı hızla demokrasi, refah ve eşitlik eksenli politik taleplerin ortaya &ccedil;ıkardığı masumane bir kriz olmaktan uzaklaşarak silahlı bir &ccedil;atışma d&ouml;nemine girdi. Suriye&rsquo;deki d&ouml;n&uuml;ş&uuml;m&uuml;n siyasal değil sistemik olduğu anlaşıldığı anda da Arap Baharı&rsquo;nın b&ouml;lgesel &ouml;l&ccedil;ekte, Libya&rsquo;dan Yemen&rsquo;e &uuml;zerinde oturduğu jeopolitik zemin b&uuml;y&uuml;k bir sarsıntı ge&ccedil;irdi. Mısır&rsquo;da yaşanan kanlı darbe ile de Arap Baharı demokrasi zemininden b&uuml;y&uuml;k &ouml;l&ccedil;&uuml;de uzaklaştı. Hem jeopolitik ekseni kayan hem demokratik zeminini b&uuml;t&uuml;n&uuml;yle kaybeden b&ouml;lge, &ccedil;atışmanın giderek derinleştiği ve yaygınlaştığı bir alana d&ouml;n&uuml;şt&uuml;. B&ouml;ylesi bir d&ouml;nemde b&uuml;t&uuml;n akt&ouml;rler, kendisini hayatta kalmak ile par&ccedil;alanma arasında iki b&uuml;y&uuml;k meydan okumayla karşı karşıya buldu. Bu durumun bir sonucu olarak b&ouml;lgesel &ouml;l&ccedil;ekte geleneksel d&uuml;zenin taşıyıcı akt&ouml;rlerinin hemen hemen hepsinin n&uuml;fuz alanlarında kendilerinin kontrol edemediği jeopolitik boşluk alanları oluştu.</p>
+
+<p><strong>Jeopolitik boşluk alanları</strong></p>
+
+<p>Bu jeopolitik boşluk alanlarının devlet d&uuml;zeyinde dolduramaması ise devlet altı silahlı akt&ouml;rler ve ter&ouml;r &ouml;rg&uuml;tlerinin y&uuml;kselişiyle sonu&ccedil;landı. B&ouml;ylece geleneksel b&ouml;lgesel d&uuml;zenin parametreleri b&uuml;y&uuml;k &ouml;l&ccedil;&uuml;de yapısal bir sarsıntı ile karşı karşıya kaldı. PKK,&nbsp; YPG, DEAŞ, El-Kaide, Hizbullah, Haşdi Şaabi ve diğer silahlı gurupların alan kontrol&uuml; ve yeni devlet iddiasına dayalı askeri ve politik stratejileri, zaten zayıf olan ulus devlet mefhumunu daha fazla zayıflattı ve meşru şiddeti organize etme ve kullanma tekelini devlete sağlayan egemenlik pratiğinin b&ouml;lgesel d&uuml;zeyde işleyişini bozdu. Alan kontrol&uuml;ne dayalı silahlı &ccedil;atışma temel olarak etnik ve mezhepsel bir temele oturunca da b&ouml;lgesel &ouml;l&ccedil;ekteki b&uuml;t&uuml;n sosyolojik fay hatları tek tek kırılmaya başladı. Kuzeyden g&uuml;neye doğru K&uuml;rt, S&uuml;nni Arap ve T&uuml;rkmen; g&uuml;neyden kuzeye doğru da Şiilik ekseninde baskı oluşturan etnik ve mezhepsel &ccedil;atışma Arap Baharı sonrası Ortadoğu&rsquo;yu par&ccedil;alayan ve her bir devleti ayrı ayrı tehdit eden bir noktaya ulaştı. Bu nedenle her bir akt&ouml;r&uuml;n, yerelden ulusala, ulusaldan b&ouml;lgesel &ouml;l&ccedil;eğe savaşmak zorunda kaldığı b&ouml;lgesel bir anarşi durumu ortaya &ccedil;ıkmış oldu. Anarşi, d&uuml;zenleyici &uuml;st&uuml;n bir otoriterin olmadığı bir sistem i&ccedil;inde b&uuml;t&uuml;n akt&ouml;rlerin g&uuml;venliklerini ve savunmalarını maksimize etmeye &ccedil;alıştığı bir b&ouml;lgesel sistemin de doğmasına neden oldu.</p>
+
+<p>Neticede Ortadoğu&rsquo;nun hali hazırdaki g&ouml;r&uuml;nt&uuml;s&uuml;ne bakıldığında, b&uuml;t&uuml;n akt&ouml;rlerin (devlet veya devlet dışı) savaştığı karmaşık bir &ccedil;atışma ortamı oluştu. T&uuml;rkiye, Irak, Suriye, İran, Suudi Arabistan başta olmak &uuml;zere b&ouml;lgesel devletler; etnik ve mezhepsel d&uuml;zeyde K&uuml;rtler, S&uuml;nni Araplar, T&uuml;rkmenler, Afganistan&rsquo;dan L&uuml;bnan&rsquo;a kadar savaşmak i&ccedil;in mobilize edilmiş Şiiler; S&uuml;nni ve Şii T&uuml;rkmenler; PKK, YPG, DEAŞ ve El-Kaide gibi devlet dışındaki ter&ouml;r &ouml;rg&uuml;tleri ve b&ouml;lge dışından Rusya ve ABD gibi b&uuml;y&uuml;k g&uuml;&ccedil;ler bir b&uuml;t&uuml;n olarak Ortadoğu coğrafyasında savaştıkları bir anarşi artık yerleşik hale geldi. S&ouml;z konusu akt&ouml;rler arasında stratejik davranışları a&ccedil;ısından bir sınıflandırma yapıldığında ise ş&ouml;yle bir sonu&ccedil; ortaya &ccedil;ıktı.</p>
+
+<p><strong>Revizyonist akt&ouml;rler</strong></p>
+
+<p>Revizyonist kategoride yer alanlar, var olduğu stat&uuml;den memnun olmayan, b&ouml;lgesel &ccedil;atışma ortamını fırsata &ccedil;evirerek mevcut stat&uuml;s&uuml;n&uuml; değiştirmeye &ccedil;alışan akt&ouml;rlerden oluşuyor. Bu t&uuml;r akt&ouml;rlerin temel stratejik davranış bi&ccedil;imi ise savunma ve g&uuml;venlik stratejilerini kendi dışındaki jeopolitik boşluk alanlarına y&ouml;nelterek bu alanları doldurmaya &ccedil;alışması. Bu akt&ouml;rlerin başında elbette devlet d&uuml;zeyinde İran yer alıyor. Halep ile Tahran arasında stratejik savunma a&ccedil;ısından bir illiyet kuran Tahran y&ouml;netimi, aynı zamanda Şii mezhebinin pragmatik ve ara&ccedil;sal bir yorumu vasıtasıyla dini, jeopolitik m&uuml;cadelenin merkezine yerleştirerek b&ouml;lgesel &ouml;l&ccedil;ekte Suriye ve Irak &uuml;zerinden bir &ouml;n jeopolitik hat kurmaya &ccedil;alışıyor. Bu revizyonizmi dışarıdan dizayn etmeye &ccedil;alışan ABD ise, b&ouml;lgede etnik ve mezhepsel d&uuml;zeyde yeni sınırların oluşturulmasına y&ouml;nelik bir politika izliyor.&nbsp;</p>
+
+<p><strong>Dengeci ve stat&uuml;kocu akt&ouml;rler</strong></p>
+
+<p>Dengeci ve stat&uuml;kocu grupta yer alan akt&ouml;rlerin temel &ouml;nceliği, toprak b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml;n korunmasına d&ouml;n&uuml;k korumacı ve &ouml;n alıcı bir stratejiye sahip olmaları. &Ouml;rneğin T&uuml;rkiye, Arap Baharı&rsquo;nın başında sınırlı bir siyasal revizyonizmden yana olsa da temelde b&uuml;t&uuml;n devlet akt&ouml;rlerinin var olan toprak b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml;n korunmasına d&ouml;n&uuml;k bir politika izledi. Revizyonist akt&ouml;rler, Suriye ve Irak&rsquo;ta toprak b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml; bozarken T&uuml;rkiye aynı anda hem b&ouml;lge i&ccedil;ine y&ouml;nelik hem de b&ouml;lge dışındaki b&uuml;y&uuml;k akt&ouml;rlere karşı hem kendi hem de Irak ve Suriye&rsquo;nin toprak b&uuml;t&uuml;nl&uuml;ğ&uuml;n&uuml; korumaya &ccedil;alışıyor. Revizyonist akt&ouml;rler etnik ve mezhepsel &ccedil;atışmayı yukarı doğru hızlı iterken dengeleyici ve stat&uuml;kocu akt&ouml;rler aşağıya doğru bastırmaya &ccedil;alışıyor.</p>
+
+<p><strong>Fırsat&ccedil;ı akt&ouml;rler</strong></p>
+
+<p>B&ouml;lgede &ccedil;atışma ve sınır değişimine y&ouml;nelik baskının bir diğer ayağını ise fırsat&ccedil;ı akt&ouml;rler oluşturuyor. Bu akt&ouml;rlerin temel &ouml;zellikleri, devlet yapılarının &ccedil;&ouml;kt&uuml;ğ&uuml; alanlarda fiili durum oluşturarak yeni sınırlar &uuml;retmeye &ccedil;alışmaları. Fırsat&ccedil;ı devletler dışında b&ouml;lgenin fırsat&ccedil;ı diğer akt&ouml;rlerinin başında DEAŞ ve PKK gelmektedir. DEAŞ T&uuml;rkiye, İran, Mısır ve Suudi Arabistan arasındaki S&uuml;nni orta kuşak &uuml;zerinde yeni devlet ilan ederek fırsat&ccedil;ılığını a&ccedil;ık şekilde icra eden bir &ouml;rg&uuml;t niteliğindeyken, PKK T&uuml;rkiye, Suriye ve Irak &uuml;zerinde etnik d&uuml;zeyde otonom bir coğrafi alan yaratmak peşinde.</p>
+
+<p>B&ouml;lgedeki &ccedil;atışmayı derinleştiren ve sınır değişimi istediğini daha kanlı bir s&uuml;rece sokan ise temel olarak bu &uuml;&ccedil; farklı akt&ouml;r grubu arasında her hangi bir şekilde &ccedil;atışmanın frenlenmesine neden olacak stratejik dengeleme mekanizmasının &ccedil;alıştırılamıyor olması. Akt&ouml;rler birbirilerini dengelemeye &ccedil;alıştık&ccedil;a &ccedil;atışma daha da derinleşmekte, &ccedil;atışma derinleştik&ccedil;e de par&ccedil;alanmanın hızı ve boyutu daha hızlı genişlemektedir. Bu durum bir b&uuml;t&uuml;n olarak b&uuml;t&uuml;n akt&ouml;rleri yeni bir revizyonizmin i&ccedil;ine sokuyor. Diğer bir ifadeyle &ccedil;atışmanın derinleşmesi ve b&uuml;t&uuml;n akt&ouml;rler i&ccedil;in beka sorunu oluşturması akt&ouml;rleri daha m&uuml;tecaviz politikalar izlemeye sevk ediyor.</p>
+
+<p><strong>T&uuml;rkiye&rsquo;nin yeni pozisyonu</strong></p>
+
+<p>Peki, T&uuml;rkiye&rsquo;nin b&uuml;t&uuml;n bu s&uuml;rece y&ouml;nelik politikaları, onu mevcut dengeleyici ve stat&uuml;kocu stat&uuml;s&uuml;nden &ccedil;ıkarıp, b&ouml;lgesel par&ccedil;alanma karşısında &ouml;zellikle askeri g&uuml;c&uuml; merkeze alan m&uuml;dahaleci bir revizyonizme doğru mu y&ouml;neltiyor? Bu soruya hem &ldquo;Evet&rdquo; hem &ldquo;Hayır&rdquo; cevabını vermek m&uuml;mk&uuml;n. Ancak bana kalırsa &ldquo;Evet&rdquo; cevabı vermek daha m&uuml;mk&uuml;n. &Ccedil;&uuml;nk&uuml; T&uuml;rkiye&rsquo;nin son yıllarda yaşadığı b&ouml;lgesel ve ulusal t&uuml;rb&uuml;lansın ortaya &ccedil;ıkardığı riskler, onu bir b&uuml;t&uuml;n olarak savunmacı politikalardan uzaklaştırarak daha ileride olmasını gerektiren aktif bir m&uuml;dahaleci askeri g&uuml;&ccedil; olarak hareket etmesini zorunlu kılıyor. PKK ve DEAŞ&rsquo;ın varlığı ve T&uuml;rkiye&rsquo;ye y&ouml;nelik oluşturduğu &ccedil;ok boyutlu g&uuml;venlik riskleri, T&uuml;rkiye&rsquo;nin bu iki meseleyi kendi sınırları i&ccedil;inde halletmesini imk&acirc;nsız hale getirdi. PKK&rsquo;nın Suriye&rsquo;deki varlığının ortaya &ccedil;ıkardığı yeni dinamiklerin T&uuml;rkiye&rsquo;nin geleneksel m&uuml;ttefik ilişkilerini sorgulayan bir boyuta ulaşması, T&uuml;rkiye&rsquo;nin hem uluslararası ilişkilerini istikrarsızlaştırma riski taşıyor hem de i&ccedil;eride giderek 1990&rsquo;lara benzer yeni bir Sevr sendromu s&ouml;yleminin psikolojik ağırlığının yerleşmesine neden oluyor. Bir b&uuml;t&uuml;n olarak bu g&uuml;venlik risklerini aşmak ve b&ouml;lgesel par&ccedil;alanmanın &uuml;lke i&ccedil; siyasetini zehirlemesinin &ouml;n&uuml;ne ge&ccedil;mek gerekliliği T&uuml;rkiye&rsquo;yi, daha m&uuml;cadeleci ve m&uuml;dahaleci bir revizyonizme zorluyor. &Ouml;te yandan, T&uuml;rkiye&rsquo;nin PKK konusunda geleneksel m&uuml;ttefikleriyle ters d&uuml;şmesi ve bunun karşılığında Rusya ile daha da yakınlaşması, T&uuml;rkiye&rsquo;nin b&ouml;lgesel d&uuml;zeydeki politikalarını daha fazla değiştirme ihtimalinin olduğunu g&ouml;steriyor.</p>
+
+<p>Son g&uuml;nlerdeki T&uuml;rkiye, Rusya ve İran arasındaki Halep mutabakatı T&uuml;rkiye&rsquo;nin dış politika kodlarında bundan sonra m&uuml;stakil bir revizyonizm siyaseti mi izleyeceği yoksa mevcut par&ccedil;alanma ve tehditler y&uuml;z&uuml;nden dengeleyici ve stat&uuml;kocu rol&uuml;ne geri mi d&ouml;neceği konusuna dair ipu&ccedil;ları i&ccedil;eriyor.</p>
+
+<p>&nbsp;</p>
+
+<p>Bu yazı ilkdefa 24.12.2016 tarihinde <a href="http://www.star.com.tr/acik-gorus/ortadoguda-parcalanma-ve--7crevizyonist-donem-haber-1170327/">Star A&ccedil;ık G&ouml;r&uuml;ş</a>&#39;te yayınlanmıştır.</p>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+    <div class="col-md-4">
+<div class="widget-main">
+    <div class="widget-main-title">
+        <a href="#"><h4 class="widget-title">Kategoriler</h4></a>
+    </div>
+    <div class="widget-inner">
+        <div class="blog-categories">
+            <div class="row">
+                <ul class="col-md-12">
+                    <li><a href="/tr/yayin/liste/1/ortadoguda-parcalanma-ve-revizyonist-donem--murat-yesiltas/kategori">Hepsi</a></li>
+                    
+                        <li>
+                            <a href="/tr/yayin/liste/1/ortadoguda-parcalanma-ve-revizyonist-donem--murat-yesiltas/kategori/2838">
+                                Yorum
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/yayin/liste/1/ortadoguda-parcalanma-ve-revizyonist-donem--murat-yesiltas/kategori/2841">
+                                Rapor
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/yayin/liste/1/ortadoguda-parcalanma-ve-revizyonist-donem--murat-yesiltas/kategori/2839">
+                                Perspektif
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/yayin/liste/1/ortadoguda-parcalanma-ve-revizyonist-donem--murat-yesiltas/kategori/2842">
+                                Kitap
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/yayin/liste/1/ortadoguda-parcalanma-ve-revizyonist-donem--murat-yesiltas/kategori/2840">
+                                Analiz
+                            </a>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="widget-main">
+    <div class="widget-main-title">
+        <a href="#"><h4 class="widget-title">Yazarlar</h4></a>
+    </div>
+    <div class="widget-inner">
+        <div class="blog-categories">
+            <div class="row">
+                <ul class="col-md-12">
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/1665">
+                                Prof.Dr. KEMAL İNAT 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/1112">
+                                Do&#231;.Dr. ALİ BALCI 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/1079">
+                                Do&#231;.Dr. MURAT YEŞİLTAŞ 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/840">
+                                Do&#231;.Dr. TUNCAY KARDAŞ 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3627">
+                                Yrd.Do&#231;.Dr. ELDAR HASANOV 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/2749">
+                                Yrd.Do&#231;.Dr. İSMAİL NUMAN TELCİ 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4632">
+                                Yrd.Do&#231;.Dr. KHIRY MOHAMED OMAR KHANGER 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/1294">
+                                Yrd.Do&#231;.Dr. NEBİ MİŞ 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4369">
+                                &#214;ğr.G&#246;r. ELDAR HASANOĞLU 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4048">
+                                Arş.G&#246;r. ABD&#220;SSAMET PULAT 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3947">
+                                Arş.G&#246;r. AYŞE SELCAN &#214;ZDEMİRCİ 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3234">
+                                Arş.G&#246;r. BERKAN &#214;Ğ&#220;R 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/2914">
+                                Arş.G&#246;r. ENSAR MUSLU 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/2965">
+                                Arş.G&#246;r. FAHRİYE KESKİN KARAG&#214;L 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4276">
+                                Arş.G&#246;r. FATMA ZEHRA TO&#199;OĞLU 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4504">
+                                Arş.G&#246;r. FEYZA &#214;Z&#199;ELİK 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4275">
+                                Arş.G&#246;r. FURKAN POLAT 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4656">
+                                Arş.G&#246;r. FURKAN HALİT YOLCU 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3709">
+                                Arş.G&#246;r. İSMAİL AKDOĞAN 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3227">
+                                Arş.G&#246;r. MUSTAFA CANER 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3903">
+                                Arş.G&#246;r. MUSTAFA ŞEYHMUS K&#220;PELİ 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/2962">
+                                Arş.G&#246;r. &#214;MER BEHRAM &#214;ZDEMİR 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3226">
+                                Arş.G&#246;r. RECEP TAYYIP G&#220;RLER 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3250">
+                                Arş.G&#246;r. RUMEYSA K&#214;KTAŞ 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/4503">
+                                Arş.G&#246;r. SERRA CAN 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/tr/Yayin/YazarinYayinlari/1/3259">
+                                Arş.G&#246;r. ZANA BAYKAL 
+                            </a>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+
+
+    </div>
+
+
+<footer class="site-footer">
+    <div class="container">
+        <div class="row">
+
+
+        </div>
+        <div class="bottom-footer" >
+            <div class="row">
+<div class="col-md-4">
+    <p class="small-text">
+        &copy;
+        Copyright 2015 &raquo; <a href="http://www.sakarya.edu.tr/">Sakarya &#220;niversitesi</a> &raquo;
+        Yazılım Grubu
+    </p>
+</div>
+
+<div class="col-md-8">
+        <ul class="footer-nav">
+                <li>
+                <a href="#"
+                   target="_self">Akademik</a>
+            </li>
+                <li>
+                <a href="/668/icerik/28125/hakkimizda/"
+                   target="_self">Hakkımızda</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Enstit&#252;</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Programlar</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">&#214;ğrenci</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Dergiler</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Yayınlar</a>
+            </li>
+                <li>
+                <a href="/703/icerik/51704/yonetmelik/"
+                   target="_self">Y&#246;netmelik</a>
+            </li>
+                <li>
+                <a href="/702/icerik/51703/belge-talebi/"
+                   target="_self">Belge Talebi</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Ortadoğu Kongresi</a>
+            </li>
+                <li>
+                <a href="/604/iletisim/"
+                   target="_blank">İletişim</a>
+            </li>
+        </ul>
+</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+    <script>
+        $(document)
+            .ready(function () {
+                $('body').css('margin-bottom', Math.ceil($('.site-footer').height() + 66) + 'px');
+            });
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $('.mixitup')
+                .mixItUp({
+                    load: { filter: 'all' },
+                    controls: { toggleFilterButtons: false, toggleLogic: 'and' },
+                    callbacks: { onMixEnd: function (state) { console.log(state.activeFilter) } }
+                });
+        });
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,374 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="tr">
+<![endif]-->
+<!--[if IE 7]>
+    <html class="no-js lt-ie9 lt-ie8" lang="tr">
+<![endif]-->
+<!--[if IE 8]>
+    <html class="no-js lt-ie9" lang="tr"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="tr">
+<!--<![endif]-->
+<head>
+    <title> Ortadoğu Enstit&#252;s&#252;</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Sakarya &#220;niversitesi » Yazılım Grubu">
+    <meta charset="UTF-8">
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,100,200,300,500,600,700,800&subset=latin-ext' rel='stylesheet' type='text/css'>
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/css/animate.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/yamm.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/validationEngine/css/validationEngine.jquery.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/style.css" rel="stylesheet" />
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" />
+
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Content/PagedList.css" rel="stylesheet" />
+
+    
+    
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/modernizr.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/jquery.bxslider/jquery.bxslider.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/jquery.mb.mediaEmbedder.js"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/react-0.14.0.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/react-dom-0.14.0.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/plugins.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/custom.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery.cookie.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/validationEngine/js/languages/jquery.validationEngine-tr.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/validationEngine/js/jquery.validationEngine.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/js/jquery.mixitup.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/ReactComponent.js" type="text/javascript"></script>
+    <script src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/Scripts/core.js" type="text/javascript"></script>
+    
+    
+    
+    <link href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/custom.min.css" rel="stylesheet" />
+    <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/images/ico/favicon.ico">
+    <script>
+        var dilKod = "tr";
+    </script>
+    <!--[if lt IE 8]>
+        <div style='clear: both; text-align: center; position: relative;'>
+            <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode">
+                <img
+                    src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" alt=""/>
+            </a>
+        </div>
+    <![endif]-->
+</head>
+<body>
+<div class="responsive-navigation visible-sm visible-xs">
+    <a href="#" class="menu-toggle-btn">
+        <i class="fa fa-bars"></i>
+    </a>
+    <div class="responsive_menu">
+        <ul class='main_menu'><li><a href='http://ormer.sakarya.edu.tr' >Ana Sayfa</a></li><li><a href='#' target='_self' >Enstitü</a><ul ><li><a href='/tr/668/icerik/28125/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='/tr/490/Personel/2846/idari-yapi/' target='_self' >İdari yapı</a></li><li><a href='/tr/491/Personel/2853/akademik-kadro/' target='_self' >Akademik Kadro</a><ul ><li><a href='/tr/1126/icerik/51990/misafir-arastirmacilar/' target='_self' >Misafir Araştırmacılar</a></li></ul></li><li><a href='/tr/608/Personel/51676/idari-personel/' target='_self' >İdari Personel</a></li><li><a href='/tr/493/icerik-grup/51955/bulten/' target='_self' >Bülten</a><ul ><li><a href='/tr/977/icerik/52190/ormer-bulteni-sayi1--2014/' target='_self' >ORMER Bülteni Sayı:1 / 2014</a></li><li><a href='/tr/1654/icerik/51954/ormer-bulteni-sayi2--mayis-agustos-2014/' target='_self' >ORMER Bülteni Sayı:2 / Mayıs-Ağustos 2014</a></li><li><a href='/tr/986/icerik/51953/ormer-bulteni-sayi3--eylul-aralik-2014/' target='_self' >ORMER Bülteni Sayı:3 / Eylül-Aralık 2014</a></li><li><a href='/tr/979/icerik/51952/ormer-bulteni-sayi4--ocak-nisan-2015/' target='_self' >ORMER Bülteni Sayı:4 / Ocak-Nisan 2015</a></li><li><a href='/tr/984/icerik/51949/ormer-bulteni-sayi5--mayis-agustos-2015/' target='_self' >ORMER Bülteni Sayı:5 / Mayıs-Ağustos 2015</a></li><li><a href='/tr/989/icerik/51947/ormer-bulteni-sayi6--eylul-aralik-2015/' target='_self' >ORMER Bülteni Sayı:6 / Eylül-Aralık 2015</a></li><li><a href='/tr/1664/icerik/52209/ormer-bulteni-sayi7--ocak-nisan-2016/' target='_self' >ORMER Bülteni Sayı:7 / Ocak-Nisan 2016</a></li></ul></li><li><a href='#' target='_self' >Etkinlikler</a></li></ul></li><li><a href='#' target='_self' >Programlar</a><ul ><li><a href='/tr/517/icerik/2891/doktora-programi/' target='_self' >Doktora programı</a></li><li><a href='/tr/521/icerik/2833/yuksek-lisans-programi/' target='_self' >Yüksek lisans programı</a></li></ul></li><li><a href='#' target='_self' >Öğrenci</a><ul ><li><a href='/tr/705/icerik/51705/program-asamalari/' target='_self' >Program Aşamaları</a></li><li><a href='/tr/511/icerik/15598/akademik-takvim/' target='_self' >Akademik takvim</a></li><li><a href='/tr/510/icerik/51681/ders-plan-programi/' target='_self' >Ders plan programı</a></li><li><a href='#' target='_self' >Formlar</a><ul ><li><a href='/tr/707/icerik/51706/formlar/' target='_self' >Formlar</a></li><li><a href='/tr/708/icerik/51707/dilekce-ornekleri/' target='_self' >Dilekçe Örnekleri</a></li></ul></li><li><a href='#' target='_self' >Kararlar</a><ul ><li><a href='/tr/532/icerik/51702/enstitu-yonetim-kurulu-kararlari/' target='_self' >Enstitü Yönetim Kurulu Kararları</a></li></ul></li><li><a href='/tr/563/icerik/47950/danismanlik-ve-tez/' target='_self' >Danışmanlık ve tez</a></li><li><a href='#' target='_self' >Başvuru</a><ul ><li><a href='#' target='_self' >Online başvuru</a></li></ul></li></ul></li><li><a href='#' target='_self' >Dergiler</a><ul ><li><a href='/tr/508/icerik/51776/turkiye-ortadogu-calismalari-dergisi/' target='_self' >Türkiye Ortadoğu Çalışmaları Dergisi</a><ul ><li><a href='/tr/904/icerik/51783/son-sayi/' target='_self' >Son Sayı</a></li><li><a href='/tr/920/icerik-grup/51754/gecmis-sayilar/' target='_self' >Geçmiş Sayılar</a><ul ><li><a href='/tr/933/icerik/51879/cilt-2-sayi-2/' target='_self' >Cilt 2 Sayı 2</a></li><li><a href='/tr/1652/icerik/52170/cilt-2-sayi-1/' target='_self' >Cilt 2 Sayı 1</a></li><li><a href='/tr/932/icerik/51791/cilt-1-sayi-2/' target='_self' >Cilt 1 Sayı 2</a></li><li><a href='/tr/930/icerik/51784/cilt-1-sayi-1/' target='_self' >Cilt 1 Sayı 1</a></li></ul></li><li><a href='/tr/905/icerik/51775/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/919/icerik/51769/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/915/icerik/51771/yayin-ilkeleri/' target='_self' >Yayın İlkeleri</a></li><li><a href='/tr/911/icerik//makale-gonder/' target='_self' >Makale Gönder</a></li><li><a href='/tr/907/icerik/51774/iletisim/' target='_self' >İletişim</a></li></ul></li><li><a href='/tr/509/icerik-grup/51755/ortadogu-yilligi/' target='_self' >Ortadoğu Yıllığı</a><ul ><li><a href='/tr/888/icerik//sayilar/' target='_self' >Sayılar</a><ul ><li><a href='/tr/935/icerik/51943/ortadogu-yilligi-2014/' target='_self' >Ortadoğu Yıllığı 2014</a></li><li><a href='/tr/945/icerik/51942/ortadogu-yilligi-2013/' target='_self' >Ortadoğu Yıllığı 2013</a></li><li><a href='/tr/955/icerik-grup/51755/ortadogu-yilligi-2012/' target='_self' >Ortadoğu Yıllığı 2012</a></li><li><a href='/tr/956/icerik/51939/ortadogu-yilligi-2011/' target='_self' >Ortadoğu Yıllığı 2011</a></li><li><a href='/tr/946/icerik/51929/ortadogu-yilligi-2010/' target='_self' >Ortadoğu Yıllığı 2010</a></li><li><a href='/tr/936/icerik/51928/ortadogu-yilligi-2009/' target='_self' >Ortadoğu Yıllığı 2009</a></li><li><a href='/tr/937/icerik/51927/ortadogu-yilligi-2008/' target='_self' >Ortadoğu Yıllığı 2008</a></li><li><a href='/tr/947/icerik/51926/ortadogu-yilligi-2007/' target='_self' >Ortadoğu Yıllığı 2007</a></li><li><a href='/tr/957/icerik-grup/51755/ortadogu-yilligi-2006/' target='_self' >Ortadoğu Yıllığı 2006</a></li><li><a href='/tr/958/icerik/51925/ortadogu-yilligi-2005/' target='_self' >Ortadoğu Yıllığı 2005</a></li></ul></li><li><a href='/tr/897/icerik/51923/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='/tr/889/icerik-grup/51755/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/890/icerik-grup/51755/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/898/icerik/51935/yazim-kurallari/' target='_self' >Yazım Kuralları</a></li><li><a href='/tr/899/icerik/51920/kunye/' target='_self' >Künye</a></li><li><a href='/tr/891/icerik-grup/51755/makale-yolla/' target='_self' >Makale Yolla</a></li><li><a href='/tr/892/icerik/51921/iletisim/' target='_self' >İletişim</a></li></ul></li></ul></li><li><a href='#' target='_self' >Yayınlar</a><ul ><li><a href='/tr/567/yayin/liste/1/yorumlar/kategori/2838' target='_self' >Yorumlar</a></li><li><a href='/tr/568/yayin/liste/1/perspektif/kategori/2839' target='_self' >Perspektif</a></li><li><a href='/tr/569/yayin/liste/1/analiz/kategori/2840' target='_self' >Analiz</a></li><li><a href='/tr/571/yayin/liste/1/kitap/kategori/2842' target='_self' >Kitap</a></li><li><a href='/tr/572/icerik/2825/sau-kultur-yayinlari/' target='_self' >SAÜ Kültür yayınları</a></li></ul></li><li><a href='/tr/703/icerik/51704/yonetmelik/' target='_self' >Yönetmelik</a></li><li><a href='/tr/702/icerik/51703/belge-talebi/' target='_self' >Belge Talebi</a></li><li><a href='#' target='_self' >Ortadoğu Kongresi</a><ul ><li><a href='http://www.middleeastcongress3.org/' target='_self' >III.Ortadoğu Kongresi</a></li><li><a href='/tr/499/icerik/2829/ii-ortadogu-kongresi/' target='_self' >II. Ortadoğu kongresi</a></li><li><a href='/tr/498/icerik/2828/i-ortadogu-kongresi/' target='_self' >I. Ortadoğu Kongresi</a></li></ul></li><li><a href='/tr/604/iletisim/' target='_self' >İletişim</a></li></ul>
+    </div>
+</div>
+    <header class="site-header">
+        <div class="container">
+            <div class="row">
+
+<div class="col-md-8 header-logo">
+    <div class="logo">
+        <div class="row">
+            <div class="col-md-1 sau-logo-custom-align" style="margin-right: 5px;">
+                <a href="http://ormer.sakarya.edu.tr/tr" title="Sakarya Üniversitesi" rel="home">
+                    <img style="margin-bottom: 12px;" height="100" src="http://cdn0.sabis.sakarya.edu.tr/cms/multidomain/assets/img/img_saulogo.png" alt="SAKARYA &#220;NİVERSİTESİ">
+                </a>
+            </div>
+            <div class="col-md-10 " style="margin-left: 24px;margin-top: 8px;">
+                <a href="http://ormer.sakarya.edu.tr/tr" title="SAKARYA &#220;NİVERSİTESİ" rel="home">
+                    <span style="font-size: 24px; line-height: 22px; font-family: times new roman; font-weight: bold;">
+                        SAKARYA &#220;NİVERSİTESİ
+                    </span>
+                    <br>
+                        <span style="font-size: 18px; line-height: 20px; font-family: times new roman;">
+                            Ortadoğu Enstit&#252;s&#252;
+                        </span>
+<br/>
+<br />
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-4">
+    <ul class="social_icons hidden-md hidden-lg mobile_social_icons">
+        
+
+
+
+
+</ul>
+
+    <div style="margin-top: 5px;height: 50px;">
+            <img height="50" class="pull-right" src="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer1.sakarya.edu.tr/image/ormerLogo-600x200.png" />
+    </div>
+
+    <div class="clearfix"></div>
+    <form action="/tr/ara">
+        <div class="search-form" style="margin-top: 5px;">
+            <div class="col-xs-6 col-md-6 pull-right" style="padding: 0px; margin-right: -5px;">
+                <ul>
+                        <li class="pull-right">
+                            <a style="color: #fff" href="javascript:void(0);" onclick="LanguageUrlRewrite('tr');">
+                                <div class="bg-primary text-center pull-right sitedilbuton sitedilbutonsecili">
+                                    TR
+                                </div>
+                            </a>
+                        </li>
+                        <li class="pull-right">
+                            <a style="color: #fff" href="javascript:void(0);" onclick="LanguageUrlRewrite('en');">
+                                <div class="bg-primary text-center pull-right sitedilbuton ">
+                                    EN
+                                </div>
+                            </a>
+                        </li>
+                        <li class="pull-right">
+                            <a style="color: #fff" href="javascript:void(0);" onclick="LanguageUrlRewrite('ar');">
+                                <div class="bg-primary text-center pull-right sitedilbuton ">
+                                    AR
+                                </div>
+                            </a>
+                        </li>
+                    <li class="pull-right" style="position: relative;">
+                        <div class="search-bar" style="margin-top: 5px; margin-bottom: 5px;">
+                            <div class="input-group">
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-default"><i class="fa fa-search"></i></button>
+                                </div>
+                                <input class="form-control" placeholder="Arama yap" name="q">
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </form>
+</div>
+            </div>
+        </div>
+<div class="nav-bar-main" role="navigation">
+    <div class="container">
+        <nav class="main-navigation clearfix visible-md visible-lg" role="navigation">
+            <ul class='main-menu sf-menu'><li><a href='http://ormer.sakarya.edu.tr' data-toggle='tooltip'><i class='fa fa-home'></i></a></li><li><a href='#' target='_self' >Enstitü</a><ul class='sub-menu'><li><a href='/tr/668/icerik/28125/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='/tr/490/Personel/2846/idari-yapi/' target='_self' >İdari yapı</a></li><li><a href='/tr/491/Personel/2853/akademik-kadro/' target='_self' >Akademik Kadro</a><ul class='sub-menu'><li><a href='/tr/1126/icerik/51990/misafir-arastirmacilar/' target='_self' >Misafir Araştırmacılar</a></li></ul></li><li><a href='/tr/608/Personel/51676/idari-personel/' target='_self' >İdari Personel</a></li><li><a href='/tr/493/icerik-grup/51955/bulten/' target='_self' >Bülten</a><ul class='sub-menu'><li><a href='/tr/977/icerik/52190/ormer-bulteni-sayi1--2014/' target='_self' >ORMER Bülteni Sayı:1 / 2014</a></li><li><a href='/tr/1654/icerik/51954/ormer-bulteni-sayi2--mayis-agustos-2014/' target='_self' >ORMER Bülteni Sayı:2 / Mayıs-Ağustos 2014</a></li><li><a href='/tr/986/icerik/51953/ormer-bulteni-sayi3--eylul-aralik-2014/' target='_self' >ORMER Bülteni Sayı:3 / Eylül-Aralık 2014</a></li><li><a href='/tr/979/icerik/51952/ormer-bulteni-sayi4--ocak-nisan-2015/' target='_self' >ORMER Bülteni Sayı:4 / Ocak-Nisan 2015</a></li><li><a href='/tr/984/icerik/51949/ormer-bulteni-sayi5--mayis-agustos-2015/' target='_self' >ORMER Bülteni Sayı:5 / Mayıs-Ağustos 2015</a></li><li><a href='/tr/989/icerik/51947/ormer-bulteni-sayi6--eylul-aralik-2015/' target='_self' >ORMER Bülteni Sayı:6 / Eylül-Aralık 2015</a></li><li><a href='/tr/1664/icerik/52209/ormer-bulteni-sayi7--ocak-nisan-2016/' target='_self' >ORMER Bülteni Sayı:7 / Ocak-Nisan 2016</a></li></ul></li><li><a href='#' target='_self' >Etkinlikler</a></li></ul></li><li><a href='#' target='_self' >Programlar</a><ul class='sub-menu'><li><a href='/tr/517/icerik/2891/doktora-programi/' target='_self' >Doktora programı</a></li><li><a href='/tr/521/icerik/2833/yuksek-lisans-programi/' target='_self' >Yüksek lisans programı</a></li></ul></li><li><a href='#' target='_self' >Öğrenci</a><ul class='sub-menu'><li><a href='/tr/705/icerik/51705/program-asamalari/' target='_self' >Program Aşamaları</a></li><li><a href='/tr/511/icerik/15598/akademik-takvim/' target='_self' >Akademik takvim</a></li><li><a href='/tr/510/icerik/51681/ders-plan-programi/' target='_self' >Ders plan programı</a></li><li><a href='#' target='_self' >Formlar</a><ul class='sub-menu'><li><a href='/tr/707/icerik/51706/formlar/' target='_self' >Formlar</a></li><li><a href='/tr/708/icerik/51707/dilekce-ornekleri/' target='_self' >Dilekçe Örnekleri</a></li></ul></li><li><a href='#' target='_self' >Kararlar</a><ul class='sub-menu'><li><a href='/tr/532/icerik/51702/enstitu-yonetim-kurulu-kararlari/' target='_self' >Enstitü Yönetim Kurulu Kararları</a></li></ul></li><li><a href='/tr/563/icerik/47950/danismanlik-ve-tez/' target='_self' >Danışmanlık ve tez</a></li><li><a href='#' target='_self' >Başvuru</a><ul class='sub-menu'><li><a href='#' target='_self' >Online başvuru</a></li></ul></li></ul></li><li><a href='#' target='_self' >Dergiler</a><ul class='sub-menu'><li><a href='/tr/508/icerik/51776/turkiye-ortadogu-calismalari-dergisi/' target='_self' >Türkiye Ortadoğu Çalışmaları Dergisi</a><ul class='sub-menu'><li><a href='/tr/904/icerik/51783/son-sayi/' target='_self' >Son Sayı</a></li><li><a href='/tr/920/icerik-grup/51754/gecmis-sayilar/' target='_self' >Geçmiş Sayılar</a><ul class='sub-menu'><li><a href='/tr/933/icerik/51879/cilt-2-sayi-2/' target='_self' >Cilt 2 Sayı 2</a></li><li><a href='/tr/1652/icerik/52170/cilt-2-sayi-1/' target='_self' >Cilt 2 Sayı 1</a></li><li><a href='/tr/932/icerik/51791/cilt-1-sayi-2/' target='_self' >Cilt 1 Sayı 2</a></li><li><a href='/tr/930/icerik/51784/cilt-1-sayi-1/' target='_self' >Cilt 1 Sayı 1</a></li></ul></li><li><a href='/tr/905/icerik/51775/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/919/icerik/51769/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/915/icerik/51771/yayin-ilkeleri/' target='_self' >Yayın İlkeleri</a></li><li><a href='/tr/911/icerik//makale-gonder/' target='_self' >Makale Gönder</a></li><li><a href='/tr/907/icerik/51774/iletisim/' target='_self' >İletişim</a></li></ul></li><li><a href='/tr/509/icerik-grup/51755/ortadogu-yilligi/' target='_self' >Ortadoğu Yıllığı</a><ul class='sub-menu'><li><a href='/tr/888/icerik//sayilar/' target='_self' >Sayılar</a><ul class='sub-menu'><li><a href='/tr/935/icerik/51943/ortadogu-yilligi-2014/' target='_self' >Ortadoğu Yıllığı 2014</a></li><li><a href='/tr/945/icerik/51942/ortadogu-yilligi-2013/' target='_self' >Ortadoğu Yıllığı 2013</a></li><li><a href='/tr/955/icerik-grup/51755/ortadogu-yilligi-2012/' target='_self' >Ortadoğu Yıllığı 2012</a></li><li><a href='/tr/956/icerik/51939/ortadogu-yilligi-2011/' target='_self' >Ortadoğu Yıllığı 2011</a></li><li><a href='/tr/946/icerik/51929/ortadogu-yilligi-2010/' target='_self' >Ortadoğu Yıllığı 2010</a></li><li><a href='/tr/936/icerik/51928/ortadogu-yilligi-2009/' target='_self' >Ortadoğu Yıllığı 2009</a></li><li><a href='/tr/937/icerik/51927/ortadogu-yilligi-2008/' target='_self' >Ortadoğu Yıllığı 2008</a></li><li><a href='/tr/947/icerik/51926/ortadogu-yilligi-2007/' target='_self' >Ortadoğu Yıllığı 2007</a></li><li><a href='/tr/957/icerik-grup/51755/ortadogu-yilligi-2006/' target='_self' >Ortadoğu Yıllığı 2006</a></li><li><a href='/tr/958/icerik/51925/ortadogu-yilligi-2005/' target='_self' >Ortadoğu Yıllığı 2005</a></li></ul></li><li><a href='/tr/897/icerik/51923/hakkimizda/' target='_self' >Hakkımızda</a></li><li><a href='/tr/889/icerik-grup/51755/yayin-kurulu/' target='_self' >Yayın Kurulu</a></li><li><a href='/tr/890/icerik-grup/51755/danisma-kurulu/' target='_self' >Danışma Kurulu</a></li><li><a href='/tr/898/icerik/51935/yazim-kurallari/' target='_self' >Yazım Kuralları</a></li><li><a href='/tr/899/icerik/51920/kunye/' target='_self' >Künye</a></li><li><a href='/tr/891/icerik-grup/51755/makale-yolla/' target='_self' >Makale Yolla</a></li><li><a href='/tr/892/icerik/51921/iletisim/' target='_self' >İletişim</a></li></ul></li></ul></li><li><a href='#' target='_self' >Yayınlar</a><ul class='sub-menu'><li><a href='/tr/567/yayin/liste/1/yorumlar/kategori/2838' target='_self' >Yorumlar</a></li><li><a href='/tr/568/yayin/liste/1/perspektif/kategori/2839' target='_self' >Perspektif</a></li><li><a href='/tr/569/yayin/liste/1/analiz/kategori/2840' target='_self' >Analiz</a></li><li><a href='/tr/571/yayin/liste/1/kitap/kategori/2842' target='_self' >Kitap</a></li><li><a href='/tr/572/icerik/2825/sau-kultur-yayinlari/' target='_self' >SAÜ Kültür yayınları</a></li></ul></li><li><a href='/tr/703/icerik/51704/yonetmelik/' target='_self' >Yönetmelik</a></li><li><a href='/tr/702/icerik/51703/belge-talebi/' target='_self' >Belge Talebi</a></li><li><a href='#' target='_self' >Ortadoğu Kongresi</a><ul class='sub-menu'><li><a href='http://www.middleeastcongress3.org/' target='_self' >III.Ortadoğu Kongresi</a></li><li><a href='/tr/499/icerik/2829/ii-ortadogu-kongresi/' target='_self' >II. Ortadoğu kongresi</a></li><li><a href='/tr/498/icerik/2828/i-ortadogu-kongresi/' target='_self' >I. Ortadoğu Kongresi</a></li></ul></li><li><a href='/tr/604/iletisim/' target='_self' >İletişim</a></li></ul>
+            <ul class="social-icons pull-right">
+                                                
+
+
+            </ul>
+        </nav>
+    </div>
+</div>
+
+ 
+      
+        
+        
+        
+       
+    </header>
+    <div class="container">
+        
+
+<div class="col-md-4">
+    <div class="widget-main">
+        <div class="widget-main-title">
+            <h4 class="widget-title">Ortadoğu Yıllığı</h4>
+        </div>
+        <div class="widget-inner">
+            <div class="blog-categories">
+                <div class="row">
+                    <ul class="col-md-12">
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51925&amp;icerikSlug=ortadogu-yilligi-2005">Ortadoğu Yıllığı 2005</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51926&amp;icerikSlug=ortadogu-yilligi-2007">Ortadoğu Yıllığı 2007</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51927&amp;icerikSlug=ortadogu-yilligi-2008">Ortadoğu Yıllığı 2008</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51928&amp;icerikSlug=ortadogu-yilligi-2009">Ortadoğu Yıllığı 2009</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51929&amp;icerikSlug=ortadogu-yilligi-2010">Ortadoğu Yıllığı 2010</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51939&amp;icerikSlug=ortadogu-yilligi-2011">Ortadoğu Yıllığı 2011</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51940&amp;icerikSlug=ortadogu-yilligi-2012">Ortadoğu Yıllığı 2012</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51942&amp;icerikSlug=ortadogu-yilligi-2013">Ortadoğu Yıllığı 2013</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51943&amp;icerikSlug=ortadogu-yilligi-2014">Ortadoğu Yıllığı 2014</a></li>
+                            <li><a href="/tr/509/icerik-grup/51755/ortadogu-yilligi?icerikDugumId=51932&amp;icerikSlug=ortadogu-yilligi-yazim-kurallari">Ortadoğu Yıllığı Yazım Kuralları</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="col-md-8">
+    <div class="blog-post-container">
+        <div class="blog-post-inner" style="text-align: justify;">
+            <div class="page-title clearfix">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 class="blog-post-title">Ortadoğu Yıllığı 2014</h3>
+                    </div>
+                </div>
+            </div>
+                <div class="blog-post-image">
+                    <img src="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/Image/d8369fca69cb4abd8142438eec533b02-2014.png" alt="">
+                </div>
+            <p>2005&rsquo;ten beri yayımlanmakta olan Ortadoğu Yıllığı bu sayısıyla birlikte onuncu kez okuyucusuyla buluşmuş oldu. Uzun bir d&ouml;nem durağan bir siyasi ve toplumsal yapıya sahip olan Ortadoğu coğrafyası, &ouml;zellikle Arap Baharı sonrasında &ccedil;ok ciddi siyasi ve toplumsal hareketlenmeleri ve &ccedil;ok insanın yaşamına mal olan bir istikrarsızlığı yaşamaktadır. Ortadoğu&rsquo;nun bu konumu, b&ouml;lge toplumlarını ve siyasetini anlamak i&ccedil;in derinlikli analizlerin gerekliliğini g&ouml;stermektedir.</p>
+
+<p>T&uuml;m bu s&uuml;re&ccedil;lerin daha sağlıklı ve daha derin bir şekilde analiz edilebilmesi i&ccedil;in &ldquo;doğru bilgi ve sağlıklı analiz&rdquo; sloganıyla yola &ccedil;ıkan Ortadoğu Yıllığı, bu sayısıyla birlikte i&ccedil;eriğini Ortadoğu&rsquo;nun daha geniş bir coğrafyasını kapsayacak şekilde genişletmiştir. Bu kapsamda siyasi, toplumsal ve sosyolojik olarak Ortadoğu&rsquo;nun &ouml;nemli bir par&ccedil;ası olan Libya, Cezayir, Tunus, Fas gibi Kuzey Afrika &uuml;lkeleri de bu yıldan itibaren yıllık serisinde yerini alacaktır. Yine Ortadoğu siyasetinde &ouml;nemli rol oynayan K&uuml;rt toplumuna ve K&uuml;rt siyasi karar alıcılarına ilişkin gelişmeler de bu yıldan itibaren Ortadoğu Yıllığı&rsquo;nda kendine yer bulacaktır.</p>
+
+<p>Ortadoğu Yıllığı&rsquo;nın diğer sayılarında olduğu gibi 2014 Yıllığı da &uuml;&ccedil; b&ouml;l&uuml;mden oluşmaktadır. İlk b&ouml;l&uuml;mde 19 Ortadoğu &uuml;lkesinin ve K&uuml;rt toplumunun 2014 yılındaki siyasi, ekonomik ve toplumsal gelişmeleri ele alınmıştır. İkinci b&ouml;l&uuml;mde bağımsız makaleler yer alırken &uuml;&ccedil;&uuml;nc&uuml; b&ouml;l&uuml;mde ise Ortadoğu &uuml;zerine kitap tanıtımları bulunmaktadır.&nbsp;<br />
+&nbsp;</p>
+
+        </div>
+    </div>
+
+
+
+    <div class="rot">
+        <div class="widget-main">
+            <div class="widget-main-title">
+                <h4 class="widget-title">Dosyalar</h4>
+            </div>
+            <div class="widget-inner">
+                <div class="blog-categories">
+                    <div class="row">
+                        <ul class="col-md-12">
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/ed47017ff5004a7abfa608e40c03a0e8-2014-filistin.pdf" target="_blank">Filistin 2014 - Kadir Sipahi</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/2b36762ada8f4b88837d3bd789297165-2014-israil.pdf" target="_blank">İsrail 2014 - Abd&#252;ssamet Pulat</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/373973ef006f486eb3bc5e2f147b9e54-bahreyn-2014.pdf" target="_blank">Bahreyn 2014 - Abdullah Erboğa</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/64906b2b1167405e89f4c73fe5ce09ba-birlesik-arap-emirlikleri-2014.pdf" target="_blank">Birleşik Arap Emirlikleri 2014 - Ahmet &#220;&#231;ağa&#231;</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/6543da41f8b846be945ebe2202abee58-cezayir-2014.pdf" target="_blank">Cezayir 2014 - Berkan &#214;ğ&#252;r</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/e50c3ddced714505863ca693dd922ff0-fas-2014.pdf" target="_blank">Fas 2014 - Furkan Polat</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/392fbbbda49f41ee8bf9b42b7fe832c4-irak-2014.pdf" target="_blank">Irak 2014 - Rıdvan Kalaycı &amp; Recep Tayyip G&#252;rler</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/2a4fe084563944e98aaf63984ad53ca5-iran-2014.pdf" target="_blank">İran 2014 - Mustafa Caner</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/fc23e69231c842ada1bc2e9387bb2226-katar-2014.pdf" target="_blank">Katar 2014 - Mustafa Yetim</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/4bf883382959442ba40f343fef74ebf1-kuveyt-2014.pdf" target="_blank">Kuveyt 2014 - Fahriye Keskin Karag&#246;l</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/6ee6c407a51a449697e12f14d3a26be6-libya-2014.pdf" target="_blank">Libya 2014 - Bilal Yıldırım</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/0846901881f94c528b5ecb46cd6c9988-lubnan-20141.pdf" target="_blank">L&#252;bnan 2014 - Ayşe Selcan &#214;zdemirci</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/baa51b57453e495884c798c9fac13457-misir-2014.pdf" target="_blank">Mısır 2014 - İsmail Numan Telci</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/d947b5febc8a42e59613bf965a575461-suriye-2014.pdf" target="_blank">Suriye 2014 - Nebi Miş &amp; &#214;mer Behram &#214;zdemir</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/7a9f5fb1b62b4284ba7bef44467762b4-suudi-arabistan-2014.pdf" target="_blank">Suudi Arabistan 2014 - Muhittin Ataman &amp; İsmail Akdoğan</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/6a283a5ca7964cd9bba6f9560ece0151-tunus-2014.pdf" target="_blank">Tunus 2014 - Rumeysa K&#246;ktaş</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/02627101767646198d16d6405d44e368-umman-2014.pdf" target="_blank">Umman 2014 - Sefa Mutlu Koca &amp; &#214;zcan Kayalı</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/0281664728f447e59e1699330b06b948-urdun-2014.pdf" target="_blank">&#220;rd&#252;n 2014 - Haydar Oru&#231;</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/e582cd3242b4422c8773563d7935b70b-yemen-2014.pdf" target="_blank">Yemen 2014 - Fatih Gezgin &amp; Ensar Muslu</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/240ec9befb274653b168960ebd6d00ab-zaortadoguda-kurtler-20141.pdf" target="_blank">Ortadoğu&#39;da K&#252;rtler 2014 - Zana Baykal</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/d9eaf313b8d3459181ff6dac24e483c7-zzkurt-meselesinde-siddetin-soylemsel-kurgulanisi-20142.pdf" target="_blank">K&#252;rt Meselesinde Şiddetin S&#246;ylemsel Kurgulanışı - Taha Baran</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/1eef7286f6f24f9f8c70e3c8a564671e-zzmisisrda-25-ocak-2011-devrimi-oncesi-kilise-devlet-iliskisi1.pdf" target="_blank">Mısır&#39;da 25 Ocak 2011 Devrimi &#214;ncesi Kilise Devlet İlişkisi - Ayşenur Hazar</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/4d76fae6d28c4d31b0cf44c46f073cef-zzsuriyeli-multecilerin-turkiye-basininda-temsili1.pdf" target="_blank">Suriyeli M&#252;ltecilerin T&#252;rkiye Basınında Temsili - İsmail &#199;ağlar &amp; Yusuf &#214;zkır</a></li>
+                                <li><a href="http://dosya.cms.sabis.sakarya.edu.tr/sites/ormer.sakarya.edu.tr/File/c0434d85fbdb4ca58bc5f7cbd045ec6b-zzzzzzkitap-tanitimlari1.pdf" target="_blank">Kitap Tanıtımı/Book Review - American Missionaries and the Middle East: Foundational Encounters - Ayşe Aksu</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+    </div>
+
+
+<footer class="site-footer">
+    <div class="container">
+        <div class="row">
+
+
+        </div>
+        <div class="bottom-footer" >
+            <div class="row">
+<div class="col-md-4">
+    <p class="small-text">
+        &copy;
+        Copyright 2015 &raquo; <a href="http://www.sakarya.edu.tr/">Sakarya &#220;niversitesi</a> &raquo;
+        Yazılım Grubu
+    </p>
+</div>
+
+<div class="col-md-8">
+        <ul class="footer-nav">
+                <li>
+                <a href="#"
+                   target="_self">Enstit&#252;</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Programlar</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">&#214;ğrenci</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Dergiler</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Yayınlar</a>
+            </li>
+                <li>
+                <a href="/703/icerik/51704/yonetmelik/"
+                   target="_self">Y&#246;netmelik</a>
+            </li>
+                <li>
+                <a href="/702/icerik/51703/belge-talebi/"
+                   target="_self">Belge Talebi</a>
+            </li>
+                <li>
+                <a href="#"
+                   target="_self">Ortadoğu Kongresi</a>
+            </li>
+                <li>
+                <a href="/604/iletisim/"
+                   target="_blank">İletişim</a>
+            </li>
+        </ul>
+</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+    <script>
+        $(document)
+            .ready(function () {
+                $('body').css('margin-bottom', Math.ceil($('.site-footer').height() + 66) + 'px');
+            });
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            $('.mixitup')
+                .mixItUp({
+                    load: { filter: 'all' },
+                    controls: { toggleFilterButtons: false, toggleLogic: 'and' },
+                    callbacks: { onMixEnd: function (state) { console.log(state.activeFilter) } }
+                });
+        });
+    </script>
+
+
+</body>
+</html>

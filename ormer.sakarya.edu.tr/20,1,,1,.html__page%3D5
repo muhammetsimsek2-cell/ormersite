@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2020 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Yorumlar | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="http://www.ortadogu.sakarya.edu.tr/">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="http://middleeastcongress.org/">Ortadoğu Kongresi</a><ul><li><a href="http://middleeastcongress.org/">IV. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,iii_ortadogu_kongresi.html">III. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,ii_ortadogu_kongresi.html">II. Ortadoğu Kongresi</a></li><li><a href="19,2,,3,i_ortadogu_kongresi.html">I. Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Son Duyurular</span></h4></div>
+<div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,191,tez_oneri_ve_tez_izleme_sinavlari_hakkinda.html" title="TEZ ÖNERİ VE TEZ İZLEME SINAVLARI HAKKINDA">TEZ ÖNERİ VE TEZ İZLEME SINAVLARI HAKKINDA</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 25 Temmuz 2020, Cumartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,189,020_2021_ogretim_yili_guz_yariyili_tezsiz_yuksek_lisans_program_ilani.html" title="020-2021 ÖĞRETİM YILI GÜZ YARIYILI TEZSİZ YÜKSEK LİSANS PROGRAM İLANI">020-2021 ÖĞRETİM YILI GÜZ YARIYILI TEZSİZ YÜKSEK LİSANS PROGRAM İLANI</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 21 Temmuz 2020, Salı</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,188,yeterlik_sinavi.html" title="Yeterlik Sınavı">Yeterlik Sınavı</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 01 Temmuz 2020, Çarşamba</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,187,2019_2020_bahar_yeterlik_sinavlari.html" title="2019-2020 Bahar Yeterlik Sınavları">2019-2020 Bahar Yeterlik Sınavları</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 29 Haziran 2020, Pazartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,186,enstitu_mudurumuz_prof_tuncay_kardas_turkiye_nin_kuzey_irak_operasyonu_ve_libya_hakkinda_konusuyor.html" title="Enstitü Müdürümüz Prof. Tuncay Kardaş Türkiye'nin Kuzey Irak Operasyonu ve Libya Hakkında Konuşuyor">Enstitü Müdürümüz Prof. Tuncay Kardaş Türkiye'nin Kuzey Irak Operasyonu ve Libya Hakkında Konuşuyor</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 24 Haziran 2020, Çarşamba</span></div></div><div class="clear"></div></article></div></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Yorumlar</span></h4></div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,501,suudi_arabistan_in_libya_politikasi_ve_turkiye_karsitliginin_arka_plani.html" title="Suudi Arabistan’ın Libya Politikası ve Türkiye Karşıtlığının Arka Planı">Suudi Arabistan’ın Libya Politikası ve Türkiye Karşıtlığının Arka Planı</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 14 Ocak 2020, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,8,doktor_arastirma_gorevlisi_ismail_akdogan.html" title="Doktor Araştırma Görevlisi İsmail Akdoğan" class="important">Doktor Araştırma Görevlisi İsmail Akdoğan</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Son on yılda Orta Doğu, bölgesel güç ilişkilerinde köklü bir değişimi beraberinde getiren istikrarsız bir sürece tanıklık etti. Bu sürecin bölgesel ölçekte yaşanmasında iki temel değişim dinamiği etkili oldu. İlki, ABD'nin bölgeye yönelik askeri angajmanını yeniden yapılandırarak bölgesel güvenlik ve istikrarın teminine dair sorumluluk almaktan...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,500,kasim_suleymani_sonrasi_ortadogu_nun_gelecegi.html" title="Kasım Süleymani Sonrası Ortadoğu’nun Geleceği">Kasım Süleymani Sonrası Ortadoğu’nun Geleceği</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 09 Ocak 2020, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,12,ars_gor_mustafa_caner.html" title="Arş. Gör. Mustafa Caner" class="important">Arş. Gör. Mustafa Caner</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">İran'ın en etkili askeri-siyasi figürlerinden Kasım Süleymani'nin 3 Ocak sabahı ABD'nin drone saldırısıyla öldürülmesi, kendisinden sonra Orta Doğu'yu neyin beklediği sorusunu gündeme getirdi. Bu sorunun temelinde, Süleymani'nin İran için olduğu kadar Orta Doğu'daki askeri dengeler açısından da kilit bir aktör olması yatıyor. Yazının devamına buradan...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,498,kasim_suleymani_nin_oldurulmesi_vekalet_savaslarindan_sonrasi_ne_.html" title="Kasım Süleymani’nin Öldürülmesi: Vekalet Savaşlarından Sonrası Ne?">Kasım Süleymani’nin Öldürülmesi: Vekalet Savaşlarından Sonrası Ne?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 06 Ocak 2020, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">İran Devrim Muhafızları Ordusu'nun Kudüs Gücü Komutanı General Kasım Süleymani'nin öldürülmesi 2020 yılının Orta Doğu'da çok sıcak geçeceğinin işareti. Bağdat Havaalanı civarında gerçekleştirilen hava saldırısında Süleymani ile birlikte Haşdi Şabi Başkan Yardımcısı Ebu Mehdi El-Mühendis ve örgütün başka üst düzey yetkilileri de hayatını...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,497,hafter_safindaki_kirli_ittifak.html" title="Hafter Safındaki Kirli İttifak">Hafter Safındaki Kirli İttifak</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 31 Aralık 2019, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,32,ars_gor_furkan_polat.html" title="Arş. Gör. Furkan Polat" class="important">Arş. Gör. Furkan Polat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">"Libya Ulusal Ordusu" (LUO) veya "Libya Arap Silahlı Kuvvetleri" isimleri 2014 yılından günümüze, baştaHalife Hafter olmak üzere, ona yakın çevrelerce Hafter cephesini tanımlamak için kullanılıyor. Bu tanımlama biçimi gerek Türk kamuoyunda gerekse genel itibariyle Hafter karşıtı cenahta ciddi şekilde tartışılıyor. Karşı çıkanların genel argümanı...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,496,libya_daki_kirilgan_ittifaklar_turkiye_yi_zorlayabilir.html" title="Libya'daki Kırılgan İttifaklar Türkiye'yi Zorlayabilir">Libya'daki Kırılgan İttifaklar Türkiye'yi Zorlayabilir</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 23 Aralık 2019, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,32,ars_gor_furkan_polat.html" title="Arş. Gör. Furkan Polat" class="important">Arş. Gör. Furkan Polat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Türkiye'nin ulusal güvenlik ve çıkarlarına yönelik tehditleri bertaraf etme girişimi olarak Libya ile imzaladığı "Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası" Libya iç savaşını yeniden Türkiye'nin gündemine getirdi.Doğu Akdeniz'de Türkiye aleyhine fiili bir durumun meydana getirilmesini engellemek adına imzalanan bu...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,499,mezhepcilik_ve_islam_dunyasinin_21_yuzyili.html" title="Mezhepçilik ve İslam Dünyasının 21. Yüzyılı">Mezhepçilik ve İslam Dünyasının 21. Yüzyılı</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 23 Aralık 2019, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Cumhurbaşkanı Erdoğan hafta içerisinde Malezya'nın başkenti Kuala Lumpur'da önemli bir zirve toplantısına katıldı. İran Cumhurbaşkanı Hasan Ruhani, Katar Emiri Şeyh Temim el-Sani ve Malezya Başbakanı Mahatir Muhammed'in de katıldığı zirvede İslam dünyasının sorunları ve bu sorunlardan çıkış yolları konuşuldu. Yazının devamını buradan...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,495,ortadogu_da_ornek_is_birligi_turkiye_katar_ittifaki.html" title="Ortadoğu’da Örnek İş Birliği: Türkiye-Katar İttifakı">Ortadoğu’da Örnek İş Birliği: Türkiye-Katar İttifakı</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 02 Aralık 2019, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Genellikle çatışma ve rekabetin yoğun olmasıyla tanınan Orta Doğu'da bölge ülkeleri arasında yapıcı iş birliğinden bahsetmek pek mümkün değildir. Bazı bölge ülkelerinin bölge dışı güçlerle "iş birliği" olarak adlandırılan ilişkileri var ama bu iş birlikleri genellikle bölge ülkelerinin ABD ya da Rusya gibi küresel güçlerin Orta Doğu...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,494,israil_in_isini_kim_kolaylastiriyor_.html" title="İsrail’in İşini Kim Kolaylaştırıyor?">İsrail’in İşini Kim Kolaylaştırıyor?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 26 Kasım 2019, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Amerikan Dışişleri Bakanı Mike Pompeo'nun hafta başında "ABD'nin Batı Şeria'daki Yahudi yerleşim birimlerini artık yasa dışı olarak görmediğini" açıklamasının ardından başta Birleşmiş Milletler ve Avrupa Birliği olmak üzere birçok uluslararası aktör, kendi pozisyonlarının değişmediğini ve bu yerleşimleri yasal görmediklerini ifade ettiler....</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,493,turk_amerikan_iliskilerinde_yeni_kritik_donemec.html" title="Türk-Amerikan İlişkilerinde Yeni Kritik Dönemeç">Türk-Amerikan İlişkilerinde Yeni Kritik Dönemeç</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 14 Kasım 2019, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Son yazıda Türk-Amerikan ilişkilerinde 2009 yılından beri yaşanan ayrışmanın neden kaynaklandığını ve ABD'nin Orta Doğu siyasetinde etkili bazı çevrelerin Türkiye'ye karşı "düşmanca" diye tanımlanabilecek olan sert bir politikaya yöneldiğini anlatmaya çalışmıştık. Şimdi Türk-Amerikan ilişkilerinde son dönemde yaşanan krizlere ve bu krizler...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,492,washington_da_bilek_guresi.html" title="Washington’da Bilek Güreşi">Washington’da Bilek Güreşi</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 12 Kasım 2019, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,23,prof_dr_tuncay_kardas.html" title="Prof. Dr. Tuncay Kardaş" class="important">Prof. Dr. Tuncay Kardaş</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Trump'ın 19 Aralık'ta ilan ettiği Suriye'den çekilme kararı sonrası ABD dış politikasında bölünmüş yapının oluşturduğu artçı sarsıntılar devam ediyor. Karara ABD'nin Batılı müttefikleri, ABD içinden de Cumhuriyetçi-Demokrat neredeyse tüm formel siyasi kanallar tepki gösterdi. Başta ABD olmak üzere tüm dünyada yankı bulan karar çerçevesinde...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div align="center"><br /><b>Sayfa</b><br /><ul class="pagination">
+    <li><a href="20,1,,1,.html?page=4">&laquo;</a></li>
+    <li><a href="20,1,,1,.html?page=1">1</a></li>
+    <li><a href="20,1,,1,.html?page=2">2</a></li>
+    <li><a href="20,1,,1,.html?page=3">3</a></li>
+    <li><a href="20,1,,1,.html?page=4">4</a></li>
+    <li class="active"><span>5</span></li>
+    <li><a href="20,1,,1,.html?page=6">6</a></li>
+    <li><a href="20,1,,1,.html?page=7">7</a></li>
+    <li><span>...</span></li>
+    <li><a href="20,1,,1,.html?page=39">39</a></li>
+    <li><a href="20,1,,1,.html?page=40">40</a></li>
+    <li><a href="20,1,,1,.html?page=41">41</a></li>
+    <li><a href="20,1,,1,.html?page=6">&raquo;</a></li>
+  </ul>
+<br /></div>          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2020. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="http://www.ortadogu.sakarya.edu.tr/">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="http://middleeastcongress.org/">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

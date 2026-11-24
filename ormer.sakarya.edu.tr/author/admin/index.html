@@ -1,0 +1,1261 @@
+	<!DOCTYPE html>
+	<script language="JavaScript">
+	TargetDate = "08/22/2014";
+	CountActive = true;
+	CountStepper = -1;
+	LeadingZero = true;
+	DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds ";
+	FinishMessage = "It is finally here!";
+	</script>
+
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+	<script src="http://ormer.sakarya.edu.tr/wp-content/plugins/ultimate-under-construction/includes/js/base.js"></script><script src="http://ormer.sakarya.edu.tr/wp-content/plugins/ultimate-under-construction/includes/js/flipclock.js"></script><script src="http://ormer.sakarya.edu.tr/wp-content/plugins/ultimate-under-construction/includes/js/dailycounter.js"></script><script src="http://ormer.sakarya.edu.tr/wp-content/plugins/ultimate-under-construction/includes/js/flipclock.min.js"></script><link rel="stylesheet" href="http://ormer.sakarya.edu.tr/wp-content/plugins/ultimate-under-construction/includes/css/flipclock.css"> 
+
+	<script type="text/javascript">
+		var clock;
+
+		$(document).ready(function() {
+
+			// Grab the current date
+			var currentDate = new Date();
+			var utccurrentDate = new Date(currentDate.getTime() + currentDate.getTimezoneOffset() * 60000);
+
+			// Set some date in the future.
+			var selecteddate  = new Date("2014/08/22");
+
+			// Calculate the difference in seconds between the future and current date
+			var diff = selecteddate.getTime() / 1000 - utccurrentDate.getTime() / 1000;
+
+			// Instantiate a coutdown FlipClock
+
+			clock = $('.clock').FlipClock(diff, {
+				clockFace: 'DailyCounter',
+				countdown: true
+			});
+		});	
+	</script>	
+	<!doctype html >
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="tr-TR"> <!--<![endif]-->
+<head>
+    <title>admin | ORTADOĞU ARAŞTIRMALARI MERKEZİ</title>
+
+<link rel="stylesheet" href="http://ormer.sakarya.edu.tr/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.7.1" type="text/css" media="all" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="pingback" href="http://ormer.sakarya.edu.tr/xmlrpc.php" />
+
+    <link rel="icon" type="image/png" href="http://5.2.84.234/~ormersak/wp-content/uploads/2014/05/fav.png"><link rel="alternate" type="application/rss+xml" title="ORTADOĞU ARAŞTIRMALARI MERKEZİ &raquo; Beslemesi" href="http://ormer.sakarya.edu.tr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ORTADOĞU ARAŞTIRMALARI MERKEZİ &raquo; Yorum Beslemesi" href="http://ormer.sakarya.edu.tr/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="admin Beslemesi için ORTADOĞU ARAŞTIRMALARI MERKEZİ &raquo; Yazıları" href="http://ormer.sakarya.edu.tr/author/admin/feed/" />
+<link rel='stylesheet' id='uuc-styles-css'  href='http://ormer.sakarya.edu.tr/wp-content/plugins/ultimate-under-construction/includes/css/plugin_styles.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='http://ormer.sakarya.edu.tr/wp-admin/css/color-picker.min.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://ormer.sakarya.edu.tr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://ormer.sakarya.edu.tr/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=3.9.2' type='text/css' media='all' />
+<style type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='google-font-opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-ubuntu-css'  href='http://fonts.googleapis.com/css?family=Ubuntu%3A300%2C400%2C500%2C700%2C300italic%2C400italic%2C500italic%2C700italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Clatin-ext%2Ccyrillic&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-pt-sans-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-roboto-cond-css'  href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-vollkorn-css'  href='http://fonts.googleapis.com/css?family=Vollkorn%3A400italic%2C700italic%2C400%2C700&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-bootstrap-css'  href='http://ormer.sakarya.edu.tr/wp-content/themes/Ormer-v2/includes/wp_booster/external/bootstrap/td-bootstrap.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://ormer.sakarya.edu.tr/wp-content/themes/Ormer-v2/style.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.css?ver=1.5.6' type='text/css' media='screen' />
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=3.9.2'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=3.9.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ormer.sakarya.edu.tr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ormer.sakarya.edu.tr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.2" />
+<script type="text/javascript">var icl_lang = 'tr';var icl_home = 'http://ormer.sakarya.edu.tr/';</script>
+<script type="text/javascript" src="http://ormer.sakarya.edu.tr/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<meta name="generator" content="WPML ver:2.7.1 stt:55,1,5;0" />
+<link rel="alternate" hreflang="en-US" href="http://ormer.sakarya.edu.tr/en/author/admin/" />
+
+<style type="text/css">																						
+</style><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+
+<!-- Style compiled by theme -->
+
+<style>
+    
+.block-title a, .block-title span, .td-tags a:hover, .td-scroll-up-visible, .td-scroll-up, .sf-menu ul
+    .current-menu-item > a, .sf-menu ul a:hover, .sf-menu ul .sfHover > a, .sf-menu ul .td-not-mega > a:hover, .td-rating-bar-wrap div, .iosSlider .slide-meta-cat, .sf-menu ul
+    .current-menu-ancestor > a, .td-404-sub-sub-title a, .widget_tag_cloud .tagcloud a:hover, .td-mobile-close a,
+    ul.td-category a, .td_social .td_social_type .td_social_button a, .dropcap, .td-forum-category-title
+    .td-forum-category-name, .td_display_err, .td_block_mega_menu .td-ajax-next-page:hover, .td_block_mega_menu .td_ajax-prev-page:hover, .post-via span {
+        background-color: #2e4994;
+    }
+    .block-title, .sf-menu li a:hover, .sf-menu .sfHover a, .sf-menu .current-menu-ancestor a, .header-search-wrap
+    .dropdown-menu, .sf-menu > .current-menu-item > a, .ui-tabs-nav,
+    .woocommerce .product .woocommerce-tabs ul.tabs, .td-forum-list-head, .td-login-panel-title {
+        border-color: #2e4994;
+    }
+
+    .widget_price_filter .ui-slider-handle {
+        border-color: #2e4994 !important;
+    }
+
+    .author-box-wrap .td-author-name a, blockquote p, .page-nav a:hover, .widget_pages .current_page_item a,
+    .widget_calendar td a, .widget_categories .current-cat > a, .widget_pages .current_page_parent > a,
+    .td_pull_quote p, .page-nav-post a:hover span, .td-forum-last-comment-content .td-forum-last-author,
+    .td-topics-title-details a, .td-posted-in a {
+        color: #2e4994;
+    }
+
+    .woocommerce .button, .woocommerce .form-submit #submit, .widget_price_filter .ui-slider-handle,
+    .jetpack_subscription_widget input[type="submit"], .pp_woocommerce .pp_close, .pp_woocommerce .pp_expand,
+    .pp_woocommerce .pp_contract, .pp_woocommerce .pp_arrow_previous, .pp_woocommerce .pp_arrow_next, .pp_woocommerce
+     .pp_next:before, .pp_woocommerce .pp_previous:before, #bbpress-forums .button {
+        background: #2e4994 !important;
+    }
+
+    .woocommerce .woocommerce-message, .woocommerce .woocommerce-info, .bbp-template-notice, .td-reply-list-header {
+        border-color: #2e4994 !important;
+    }
+    .woocommerce .woocommerce-message:before, .woocommerce .woocommerce-info:before, .td-login-button {
+        background-color: #2e4994 !important;
+    }
+
+
+    .buddypress #buddypress div.dir-search input[type="submit"], .buddypress #buddypress .message-search
+    input[type="submit"], .buddypress #buddypress .item-list-tabs ul li.selected a,
+    .buddypress #buddypress .generic-button a, .buddypress #buddypress .submit input[type="submit"],
+    .buddypress #buddypress .ac-reply-content input[type="submit"], .buddypress #buddypress .standard-form
+    input[type="submit"], .buddypress #buddypress .standard-form .button-nav .current a, .buddypress #buddypress .standard-form .button, .buddypress #buddypress input[type="submit"],
+        .buddypress #buddypress a.accept, .buddypress #buddypress #activate-page .standard-form input[type="submit"],
+        .buddypress #buddypress .standard-form #group-create-body input[type="button"],
+        .post-password-required input[type="submit"]  {
+        background: #2e4994 !important;
+    }
+
+    .buddypress #buddypress .groups .item-meta, .bbp-forum-title:hover, .td_login_tab_focus, .block-mega-child-cats a.cur-sub-cat {
+        color: #2e4994 !important;
+    }
+
+    .page-nav .current, .page-nav-post span {
+        background-color: #2e4994;
+        border-color: #2e4994;
+    }
+    .wpb_btn-inverse, .ui-tabs-nav .ui-tabs-active a, .post .wpb_btn-danger, .form-submit input, .wpcf7-submit,
+    .wpb_default, .woocommerce .product .woocommerce-tabs ul.tabs li.active, .woocommerce.widget_product_search
+    input[type="submit"], .more-link-wrap, .td_read_more {
+        background-color: #2e4994 !important;
+    }
+    .header-search-wrap .dropdown-menu:before {
+        border-color: transparent transparent #2e4994;
+    }
+    .td-mobile-content .current-menu-item > a, .td-mobile-content a:hover {
+        color: #2e4994 !important;
+    }
+    .category .entry-content, .tag .entry-content, .td_quote_box {
+        border-color: #2e4994;
+    }
+
+    .td-timeline-block-title {
+        background-color: #2e4994 !important;
+    }
+
+    .td-timeline-wrapper-links {
+       border-color: #2e4994 !important;
+    }
+
+    .td-timline-h1-link  span {
+        background-color: #2e4994 !important;
+    }
+
+    .td-page-title .td-search-query {
+         color: #2e4994;
+    }
+
+     
+    .td-sbig-title-wrap .td-sbig-title, .td-slide-item-sec .td-sbig-title-wrap, .td-big-grid-title .td-sbig-title-wrap {
+        background-color: rgba(46, 73, 148, 0.7);
+    }
+
+
+    
+    ::-moz-selection {
+        background: #607bc6;
+        color: #fff;
+    }
+
+    ::selection {
+        background: #607bc6;
+        color: #fff;
+    }
+
+
+
+    
+    .td-logo-rec-wrap .span4,
+    .td-logo-rec-wrap .span8 {
+        top: 40 !important;
+        position: relative !important;
+    }
+
+    @media (max-width: 767px) {
+        .td-logo-rec-wrap {
+            top: 0px !important;
+        }
+    }
+
+    
+	a, .widget_recent_comments .recentcomments .url {
+		color: #2e4994;
+    }
+    .cur-sub-cat {
+      color:#2e4994 !important;
+    }
+    .blog-stack .sf-menu .current-menu-item a,
+    .blog-stack .sf-menu .current-menu-parent .current-menu-item a,
+    .blog-stack .sf-menu .current-menu-parent > a,
+    .blog-stack .sf-menu > li:hover > a,
+    .blog-stack .sf-menu ul li:hover > a,
+    .blog-stack .td-post-text-content .more-link-wrap:hover a,
+    .blog-stack .sf-menu ul .td_mega_menu_sub_cats a.cur-sub-cat,
+    .blog-stack .sf-menu ul .td_mega_menu_sub_cats a.cur-sub-cat:hover,
+    .blog-stack .td-mega-menu .block-mega-child-cats a:hover,
+    .blog-stack .td_mod_mega_menu:hover .item-details a{
+        color:#2e4994 !important;
+    }
+
+    .blog-stack .sf-menu ul li {
+        background-color: #2e4994;
+    }
+
+    .blog-stack .td-post-text-content .more-link-wrap a:hover {
+        outline-color: #2e4994;
+    }
+
+	
+	
+	a:hover, .widget_recent_comments .recentcomments .url:hover {
+		color: #2e4994;
+    }
+
+
+    
+    .post header h1, .post header h1 a {
+        font-family:Tahoma, Verdana, Geneva;
+	font-size:25px;
+	
+    }
+
+    
+    body .td-post-text-content {
+        font-family:Tahoma, Verdana, Geneva;
+	
+    }
+
+    
+    .td-header-menu-wrap li a, .td-header-menu-wrap .td_data_time {
+        font-family:Tahoma, Verdana, Geneva;
+	
+    }
+
+    
+    .sf-menu > .td-not-mega > a {
+        font-family:Tahoma, Verdana, Geneva;
+	font-size:13px;
+	font-weight:bold;
+	
+    }
+
+    
+    .td_mod_mega_menu .item-details a {
+        font-family:Tahoma, Verdana, Geneva;
+	font-size:13px;
+	font-weight:bold;
+	
+    }
+
+    
+    .sf-menu ul .td-not-mega a, .td_mega_menu_sub_cats .block-mega-child-cats a{
+        font-family:Tahoma, Verdana, Geneva;
+	font-size:13px;
+	
+    }
+
+
+    
+    .td_normal_slide .td-sbig-title-wrap .td-sbig-title {
+        font-family:Tahoma, Verdana, Geneva;
+	
+    }
+
+    .td_normal_slide .td-sbig-title-wrap a, .td_normal_slide .iosSlider-col-2 .item .td-sbig-title-wrap a, .td_normal_slide .iosSlider-col-1 .item .td-sbig-title-wrap a {
+        font-family:Tahoma, Verdana, Geneva;
+	
+    }
+
+    
+    .td_block_wrap .block-title a, .block-title span, .block-title label {
+        font-family:Tahoma, Verdana, Geneva;
+	
+    }
+
+    
+    .td_mod2 .entry-title a, .td_mod5 .entry-title a, .td_mod6 .entry-title a, .td_mod_search .entry-title a {
+        font-family:Tahoma, Verdana, Geneva;
+	font-size:16px;
+	
+    }
+
+    
+    .td_mod3 .entry-title a, .td_mod4 .entry-title a, .td_mod_mega_menu .item-details a {
+        font-family:Tahoma, Verdana, Geneva;
+	font-size:14px;
+	
+    }
+
+    
+    .ui-tabs-nav a, .ui-tabs-nav .ui-tabs-active a {
+        font-family:Tahoma, Verdana, Geneva;
+	
+    }
+</style>
+
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_cur_cat = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.is_ajax_running = false;
+    this.header_color = '';
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="http://ormer.sakarya.edu.tr/wp-admin/admin-ajax.php";
+var td_get_template_directory_uri="http://ormer.sakarya.edu.tr/wp-content/themes/Ormer-v2";
+var tds_snap_menu="snap";
+var tds_header_style="";
+var tds_mobile_swipe="swipe";
+var td_search_url="http://ormer.sakarya.edu.tr/search/";
+var td_please_wait="Lütfen bekleyiniz";
+var td_email_user_pass_incorrect="Kullanıcı adı veya şifre hatalı!";
+var td_email_user_incorrect="E-posta veya kullanıcı adı yanlış!";
+var td_email_incorrect="E-posta yanlış!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top="0";
+var td_responsive="";
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52778404-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<!-- Easy FancyBox 1.5.6 using FancyBox 1.3.6 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var fb_timeout = null;
+	var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'overlayOpacity' : 0, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+	var easy_fancybox_handler = function(){
+	/* PDF */
+	jQuery('a[href*=".pdf"]:not(.nofancybox), area[href*=".pdf"]:not(.nofancybox)').addClass('fancybox-pdf');
+	jQuery('a.fancybox-pdf, area.fancybox-pdf, li.fancybox-pdf a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'html', 'width' : '90%', 'height' : '90%', 'padding' : 10, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'autoDimensions' : false, 'scrolling' : 'no', 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.content = '<embed src="' + selectedArray[selectedIndex].href + '#toolbar=1&navpanes=0&nameddest=self&page=1&view=FitH,0&zoom=80,0,0" type="application/pdf" height="100%" width="100%" />' } }) );
+	/* Auto-click */ 
+	jQuery('#fancybox-auto').trigger('click');
+	}
+	/* ]]> */
+	</script>
+	<style type="text/css">
+.fancybox-hidden{display:none}.rtl #fancybox-left{left:auto;right:0px}.rtl #fancybox-right{left:0px;right:auto}.rtl #fancybox-right-ico{background-position:-40px -30px}.rtl #fancybox-left-ico{background-position:-40px -60px}.rtl .fancybox-title-over{text-align:right}.rtl #fancybox-left-ico,.rtl #fancybox-right-ico{right:-9999px}.rtl #fancybox-right:hover span{right:auto;left:20px}.rtl #fancybox-left:hover span{right:20px}#fancybox-img{max-width:none;max-height:none}
+#fancybox-overlay{background-attachment:fixed;background-image:url("http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/light-mask.png");background-position:center;background-repeat:no-repeat;background-size:cover;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/light-mask.png",sizingMethod="scale");-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/light-mask.png',sizingMethod='scale')";}
+#fancybox-outer{background-color:#fff}
+#fancybox-content{border-color:#fff}
+#fancybox-content{color:inherit}
+	</style>
+	<!--[if lt IE 8]>            
+		<style type="text/css">
+.fancybox-ie6 #fancybox-close{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_close.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-left-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_nav_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-right-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_nav_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-over{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_title_over.png",sizingMethod="scale");zoom:1}
+.fancybox-ie6 #fancybox-title-float-left{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_title_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-main{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_title_main.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-right{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_title_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-bg-w,.fancybox-ie6 #fancybox-bg-e,.fancybox-ie6 #fancybox-left,.fancybox-ie6 #fancybox-right,#fancybox-hide-sel-frame{height:expression(this.parentNode.clientHeight+"px")}
+#fancybox-loading.fancybox-ie6{position:absolute;margin-top:0;top:expression((-20+(document.documentElement.clientHeight ? document.documentElement.clientHeight/2 : document.body.clientHeight/2)+(ignoreMe=document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+"px")}
+#fancybox-loading.fancybox-ie6 div{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_loading.png", sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-n{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-ne{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-e{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-se{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-s{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-sw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png",sizingMethod="scale")}
+		</style>
+	<![endif]-->
+	<!--[if IE 8]>            
+		<style type="text/css">
+.fancybox-ie #fancybox-bg-n{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-ne{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-e{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-se{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-s{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-sw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-w{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-nw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png",sizingMethod="scale")'}
+		</style>
+	<![endif]-->
+</head>
+
+<body class="archive author author-admin author-1 td-full-layout td_responsive wpb-js-composer js-comp-ver-4.2.2 vc_responsive">
+
+
+
+<div id="outer-wrap">
+    <div id="inner-wrap">
+<div id="td-mobile-nav">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">KAPAT</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-anasayfa-menu-tr-container"><ul id="menu-anasayfa-menu-tr" class=""><li id="menu-item-2746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first td-not-mega menu-item-2746"><a>HAKKIMIZDA</a>
+<ul class="sub-menu">
+	<li id="menu-item-2748" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-2748"><a href="http://ormer.sakarya.edu.tr/idari-yapi/">İdari Yapı</a></li>
+	<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-486"><a href="http://ormer.sakarya.edu.tr/kadromuz-2/">Kadromuz</a></li>
+	<li id="menu-item-2757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2757"><a>İmkanlar</a>
+	<ul class="sub-menu">
+		<li id="menu-item-517" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-517"><a href="http://ormer.sakarya.edu.tr/isbirligi/">İşbirliği</a></li>
+		<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-516"><a href="http://ormer.sakarya.edu.tr/dil-egitimi/">Dil Eğitimi</a></li>
+		<li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-519"><a href="http://ormer.sakarya.edu.tr/staj/">Staj</a></li>
+		<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-518"><a href="http://ormer.sakarya.edu.tr/ogrenci-asistan/">Öğrenci Asistan</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2752"><a>PROGRAMLAR</a>
+<ul class="sub-menu">
+	<li id="menu-item-3237" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3237"><a href="http://ormer.sakarya.edu.tr/?p=3233">Doktora Programı</a></li>
+	<li id="menu-item-3240" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3240"><a href="http://ormer.sakarya.edu.tr/?p=3238">Yüksek Lisans Programı</a></li>
+</ul>
+</li>
+<li id="menu-item-2753" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2753"><a>YAYINLAR</a>
+<ul class="sub-menu">
+	<li id="menu-item-2110" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-2110"><a href="http://ormer.sakarya.edu.tr/yayinlar/yorum/">Yorum</a></li>
+	<li id="menu-item-503" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-503"><a href="http://ormer.sakarya.edu.tr/yayinlar/perspektif/">Perspektif</a></li>
+	<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-499"><a href="http://ormer.sakarya.edu.tr/yayinlar/analiz/">Analiz</a></li>
+	<li id="menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-504"><a href="http://ormer.sakarya.edu.tr/yayinlar/rapor/">Rapor</a></li>
+	<li id="menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-500"><a href="http://ormer.sakarya.edu.tr/yayinlar/kitap/">Kitap</a></li>
+	<li id="menu-item-505" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-505"><a href="http://ormer.sakarya.edu.tr/yayinlar/sakarya-universitesi-kultur-yayinlari/">Sakarya Üniversitesi Kültür Yayınları</a></li>
+</ul>
+</li>
+<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-509"><a href="http://ormer.sakarya.edu.tr/etkinlikler/">ETKİNLİKLER</a></li>
+<li id="menu-item-2754" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2754"><a>DERGİLER</a>
+<ul class="sub-menu">
+	<li id="menu-item-510" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-510"><a href="http://ormer.sakarya.edu.tr/ortadogu-dergisi/">Ortadoğu Dergisi</a></li>
+	<li id="menu-item-502" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-502"><a href="http://ormer.sakarya.edu.tr/yayinlar/ortadogu-yilligi/">Ortadoğu Yıllığı</a></li>
+</ul>
+</li>
+<li id="menu-item-2771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2771"><a>ORTADOĞU KONGRESİ</a>
+<ul class="sub-menu">
+	<li id="menu-item-3506" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3506"><a href="http://ormer.sakarya.edu.tr/?p=604">I. Ortadoğu Kongresi</a></li>
+	<li id="menu-item-3504" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3504"><a href="http://ormer.sakarya.edu.tr/?p=1161">II. Ortadoğu Kongresi</a></li>
+</ul>
+</li>
+</ul></div>    </div>
+</div><div class="td-header-menu-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="span9">
+                <div class="td_data_time">11 Ekim 2014, Cumartesi</div>                            </div>
+
+            <div class="span3">
+                			<div class="textwidget"><!-- Bu kısımda sayfanın üstünde yer alan dil seçeneklerine ait linkleri görüntüleyebilirsiniz -->
+
+<center>
+<a href="http://ormer.sakarya.edu.tr">Türkçe</a> &nbsp &nbsp &nbsp 
+<a href="http://ormer.sakarya.edu.tr/en/">English</a>&nbsp &nbsp &nbsp 
+<a href="http://ormer.sakarya.edu.tr/ar/">العربية</a>&nbsp &nbsp &nbsp &nbsp
+</center></div>
+		            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<!-- graphic logo and ad -->
+<div class="td-header-bg">
+    <div class="container td-logo-rec-wrap">
+        <div class="row">
+            <div class="span4 header-logo-wrap" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+                                    <a itemprop="url" href="http://ormer.sakarya.edu.tr">
+                        <img width="300" class="td-retina-data" data-retina="http://5.2.84.236/~ormersak/wp-content/uploads/2014/06/Ormer_Logo_X141.png" src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/07/logo1.png" alt=""/>
+                    </a>
+                    <meta itemprop="name" content="ORTADOĞU ARAŞTIRMALARI MERKEZİ">
+                                </div>
+            <div class="span8 td-header-style-1">
+                <div class="td-a-rec td-a-rec-id-header "><img src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/06/Ad_Area2.png"></img></div>            </div>
+        </div>
+    </div>
+</div>
+<!-- header menu -->
+
+<div class="td-menu-placeholder">
+
+    <div class="td-menu-background">
+        <div class="container td-menu-wrap">
+
+
+
+            <div class="row-fluid td-menu-header">
+
+                <div class="span11">
+                                            <div class="mobile-logo-wrap">
+                                                                <a itemprop="url" href="http://ormer.sakarya.edu.tr">
+                                        <img width="300" class="td-retina-data"  data-retina="http://5.2.84.236/~ormersak/wp-content/uploads/2014/06/Ormer_Logo_X141.png" src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/07/logo1.png" alt=""/>
+                                    </a>
+                                    <meta itemprop="name" content="ORTADOĞU ARAŞTIRMALARI MERKEZİ">
+                                                        </div>
+                    
+
+                    <div id="td-top-mobile-toggle">
+                        <ul class="sf-menu">
+                            <li>
+                                <a href="#">
+                                    <span class="menu_icon td-sp td-sp-ico-menu"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div id="td-top-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+                            <div class="menu-anasayfa-menu-tr-container"><ul id="menu-anasayfa-menu-tr-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first td-not-mega menu-item-2746"><a>HAKKIMIZDA</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-2748"><a href="http://ormer.sakarya.edu.tr/idari-yapi/">İdari Yapı</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-486"><a href="http://ormer.sakarya.edu.tr/kadromuz-2/">Kadromuz</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2757"><a>İmkanlar</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-517"><a href="http://ormer.sakarya.edu.tr/isbirligi/">İşbirliği</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-516"><a href="http://ormer.sakarya.edu.tr/dil-egitimi/">Dil Eğitimi</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-519"><a href="http://ormer.sakarya.edu.tr/staj/">Staj</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-518"><a href="http://ormer.sakarya.edu.tr/ogrenci-asistan/">Öğrenci Asistan</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2752"><a>PROGRAMLAR</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3237"><a href="http://ormer.sakarya.edu.tr/?p=3233">Doktora Programı</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3240"><a href="http://ormer.sakarya.edu.tr/?p=3238">Yüksek Lisans Programı</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2753"><a>YAYINLAR</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-2110"><a href="http://ormer.sakarya.edu.tr/yayinlar/yorum/">Yorum</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-503"><a href="http://ormer.sakarya.edu.tr/yayinlar/perspektif/">Perspektif</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-499"><a href="http://ormer.sakarya.edu.tr/yayinlar/analiz/">Analiz</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-504"><a href="http://ormer.sakarya.edu.tr/yayinlar/rapor/">Rapor</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-500"><a href="http://ormer.sakarya.edu.tr/yayinlar/kitap/">Kitap</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-505"><a href="http://ormer.sakarya.edu.tr/yayinlar/sakarya-universitesi-kultur-yayinlari/">Sakarya Üniversitesi Kültür Yayınları</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-509"><a href="http://ormer.sakarya.edu.tr/etkinlikler/">ETKİNLİKLER</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2754"><a>DERGİLER</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-510"><a href="http://ormer.sakarya.edu.tr/ortadogu-dergisi/">Ortadoğu Dergisi</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-502"><a href="http://ormer.sakarya.edu.tr/yayinlar/ortadogu-yilligi/">Ortadoğu Yıllığı</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-not-mega menu-item-2771"><a>ORTADOĞU KONGRESİ</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3506"><a href="http://ormer.sakarya.edu.tr/?p=604">I. Ortadoğu Kongresi</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-3504"><a href="http://ormer.sakarya.edu.tr/?p=1161">II. Ortadoğu Kongresi</a></li>
+</ul>
+</li>
+</ul></div>                    </div>
+
+
+
+                </div>
+
+                <div class="span1" id="td-top-search">
+                    <!-- Search -->
+                    <div class="header-search-wrap">
+                        <div class="dropdown header-search">
+                            <a id="search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><span class="td-sp td-sp-ico-search"></span></a>
+                            <div class="dropdown-menu" aria-labelledby="search-button">
+                                <form role="search" method="get" class="td-search-form" action="http://ormer.sakarya.edu.tr/">
+                                    <div class="td-head-form-search-wrap">
+                                        <input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Arama" />
+                                    </div>
+                                </form>
+                                <div id="td-aj-search"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div> <!-- /.row-fluid -->
+        </div> <!-- /.td-menu-wrap -->
+    </div> <!-- /.td-menu-background -->
+</div> <!-- /.td-menu-placeholder -->
+        <div class="container td-page-wrap">
+            <div class="row">
+                <div class="span12">
+                    <div class="td-grid-wrap">
+                        <div class="container-fluid">
+                            <div class="row-fluid ">
+                    <div class="span8 column_container">
+
+                <div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://ormer.sakarya.edu.tr"><span itemprop="title">Anasayfa</span></a></span> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Authors">Authors</span> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Mesaj tarafındanadmin">Mesaj tarafındanadmin</span></div>
+                <h1 itemprop="name" class="entry-title td-page-title">
+                    <span>admin</span>
+                </h1>
+
+                <div class="author-box-wrap author-page">
+
+    <img alt='' src='http://1.gravatar.com/avatar/b0657975543bf5a296c5a9f737ff171e?s=106&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D106&amp;r=G' class='avatar avatar-106 photo' height='106' width='106' />    <div class="desc">
+
+
+        <div class="td-author-counters">
+            <span class="td-author-post-count">
+                160 MESAJLAR            </span>
+
+            <span class="td-author-comments-count">
+                0 YORUMLAR            </span>
+
+        </div>
+
+        
+
+
+        <div class="td-author-social">
+                    </div>
+    </div>
+
+    <div class="clearfix"></div>
+</div>
+                
+        <article id="post-3420" class="post-3420 post type-post status-publish format-standard has-post-thumbnail hentry category-rapor category-yayinlar" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/kuzey-irak-turkiye-iliskileri-pkk-guvenlik-ve-isbirligi/" rel="bookmark" title="Kuzey Irak &#8211; Türkiye İlişkileri: PKK, Güvenlik ve İşbirliği">Kuzey Irak &#8211; Türkiye İlişkileri: PKK, Güvenlik ve İşbirliği</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Yayınlar</a></li><li class="entry-category"><a >Rapor</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-08-26T12:54:05+00:00" >Ağu 26, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-3420">376</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<button class="wpb_button  wpb_btn-info wpb_regularsize">Berkan Öğür</button>
+<button class="wpb_button  wpb_btn-info wpb_regularsize">Zana Baykal</button>
+<button class="wpb_button  wpb_btn-info wpb_regularsize">Ali Balcı</button>
+
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span8 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<figure id="attachment_3426" style="width: 213px;" class="wp-caption alignleft"><a href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/08/rapor-film-net-1.pdf"><img class="wp-image-3426 size-medium" src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/08/ön-kapak-1-213x300.jpg" alt="ön kapak (1)" width="213" height="300" /></a><figcaption class="wp-caption-text">TAM METİN (PDF)</figcaption></figure>
+<p style="text-align: justify;">Türkiye’nin hem kendi içerisindeki Kürt vatandaşları ile hem de sınır ötesindeki Irak Kürdistan Bölgesi ile olan ilişkisi Ankara için bir “doğu problemi” niteliğindeydi. Abdullah Öcalan’ın yakalanmasını izleyen süreçte Türkiye’deki iç siyasi gelişmelerin de etkisi ile Ankara’nın Kürt politikasında hayati değişiklikler yaşandı. Özellikle Erdoğan liderliğindeki AK Parti’nin hem iç hem de bölgesel politikalarda daha etkin olabilmenin anahtarı olarak Kürt sorununun çözümünü görmesi bu anlamda önemli adımların atılmasını sağlamıştır. Türkiye içerideki Kürt sorununu demokratikleşme çerçevesinde çözerken sınır ötesinde de Irak Kürdistan Bölgesel Yönetimiyle daha yakın işbirliği kurarak kendisine yönelik olası bir tehdidi eleme yoluna gitmiştir. Böylece Ankara bölgesel siyasette daha emin adımlarla ilerlemeye başlamış, iç barışın sağlanması ve demokratikleşme yolunda hızlı adımların atılması konusunda da önemli ilerlemeler kaydetmiştir. Yaşanan bu gelişmeler zorlu süreçlerin ve siyasi çekişmelerin gölgesinde uzun çabaların ardından gerçekleşebilmiştir. Bu sürecin uzmanlar, siyaset yapıcılar ve kamuoyu tarafından kapsamlı bir biçimde anlaşılması kat edilen mesafenin ve elde edilen kazanımların doğru okunabilmesi açısından büyük önem taşımaktadır. Bu çerçevede yapılacak bilimsel çalışmalar, saha araştırmaları ve kapsamlı raporlar literatüre katkılarının yanında kamuoyunun aydınlanması açısından da gereklidir. Sakarya Üniversitesi Ortadoğu Araştırmaları Merkezi olarak ilk raporumuzu bu konuya ayırarak bir zamanlar “doğu sorunu” olarak adlandırılan, bugün ise “doğu barışı” olarak tanımlanabilecek Türk-Kürt ilişkileri alanındaki çalışmalara bir katkı sunmayı hedefledik.</p>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2622" class="post-2622 post type-post status-publish format-standard has-post-thumbnail hentry category-anasayfa-slider category-yayinlar" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/irak-kurdistan-bolgesinin-bagimsizlik-istegi/" rel="bookmark" title="Irak Kürdistan Bölgesinin Bağımsızlık İsteği">Irak Kürdistan Bölgesinin Bağımsızlık İsteği</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Anasayfa</a></li><li class="entry-category"><a >Yayınlar</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-24T14:49:59+00:00" >Tem 24, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2622">148</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <p>Irak Kürdistan Bölgesel Yönetimi (IKBY) Irak’ın kuruluşundan itibaren bağımsızlık isteğine sahip olsa da yakın tarihte bu fikri açıkça dile getirmekten hep imtina etti. Çünkü Kürdistan bölgesi yöneticileri bağımsızlık isteğinin gerçekleşebilmesi için destekleyici koşul ve zamanın beklenilmesi gerektiğine inanarak bu isteği ifade etmekten kaçınmış, hatta reddetmişlerdir. Diğer yandan bu isteğin ifade edilmeyişi ya da reddedilmesi de iyi saklandığı anlamına gelmemekte. Çünkü ilgili küresel ve bölgesel aktörlerin hepsi bunun farkında olmuş ve buna göre politika geliştirmişlerdir. Irak ile ilgili siyasal gelişmeler söz konusu olduğunda ilgili bütün aktörler sürekli olarak “Irak’ın toprak bütünlüğü”ne vurgu yapmış ve böylece Irak’ta bağımsızlığa her zaman en yakın grup olan Kürtlerin bu isteklerinin baskı altında tutulması amaçlanmıştır.</p>
+<p><a href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/07/20140722151506_irak-kurdistan-bolgesinin-bagimsizlik-istegi-pdf.pdf" target="_blank"><img class="alignleft wp-image-2662 size-medium" src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/07/a3-620x343-300x165.jpg" alt="a3-620x343" width="300" height="165" /></a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2613" class="post-2613 post type-post status-publish format-standard has-post-thumbnail hentry category-yorum" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/hamasin-direnisi-ve-misirdaki-darbe/" rel="bookmark" title="Hamas’ın Direnişi ve Mısır’daki Darbe">Hamas’ın Direnişi ve Mısır’daki Darbe</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Yayınlar</a></li><li class="entry-category"><a >Yorum</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-24T12:57:08+00:00" >Tem 24, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2613">581</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span10 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<button class="wpb_button  wpb_btn-info wpb_btn-mini">Kemal İnat</button>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;">Kemal İnat</p>
+<p style="text-align: justify;">İsrail’in Gazze’ye karşı kara operasyonu sürecinde yaşananlar, özellikle de Hamas’ın güçlü direnişi son dönemde Ortadoğu’da yaşanan birçok  olaya ışık tutar nitelikte.</p>
+<p style="text-align: justify;">Öncelikle, İsrail’in geçmiş yıllarda sürekli olarak yaptığı ölçüsüz saldırganlığı tekrarladığını görüyoruz. Filistin ve Lübnan topraklarına yönelik  kitlesel, bölgedeki birçok başka ülkeye yönelik sınırlı saldırıları karşısında İsrail’in ciddi bir tepkiyle karşılaşmadığını herkes biliyor. Bölgede  saldırıya maruz kalan ülke ve halklar İsrail’in askeri gücü karşısında yeterli imkanları olmadığı için “vermeleri gereken kaybı” veriyorlar ve bir  sonraki İsrail saldırısını beklemekten başka çareleri olmuyordu.</p>
+<p style="text-align: justify;">İsrail’e destek vermekten başka bir politikayı düşünmek dahi istemeyen Batılı ülke yönetimleri ise, bu ülkenin “güç gösterisi ve katliamları” için ihtiyaç duyduğu süreyi ona tanımak için ellerinden gelen her türlü desteği veriyorlardı. Uluslararası medya da bu konuda İsrail’den hiçbir yardımı esirgemiyor, İsrail’in aslında kendi güvenliğini sağlamaya çalışan “gerçek mağdur” olduğunu anlatmak için her türlü yöntemi kullanıyordu. Kendi kayıpları 5-10’u geçmeyen İsrail’in katlettiği binlerce insanın büyük çoğunluğunun siviller ve özellikle de çocuklar olduğu gerçeğini örtme konusunda fazla başarılı olamıyorlardı, ancak ellerinden geleni yapmaktan geri durmuyorlardı.</p>
+<p style="text-align: justify;">Bu hikaye sürekli tekrarlanıyordu ve İsrail’in bu “bilim-kurgu korku filmlerindeki zaman zaman ortaya çıkıp kurbanlarını öldüren yaratık” benzeri katliamlarına karşı durmanın artık imkansız olduğuna dair bir anlayış oluşmuştu. Bölge halkları İsrail belasının kendileri için “değişmez bir kader” olduğunu düşünmeye başlamışlardı ve zamanı geldiğinde vermeleri gereken kurbanları vermekten başka çareleri olmadığını düşünüyorlardı. Bölgede yaşayan halkları katletmek, yıldırmak, korkutmak ve göçe zorlamak suretiyle kendilerine bir devlet inşa eden Siyonistler ise bu şekilde devletlerinin adım adım arzuladıkları sınırlara ulaşmasını amaçlıyorlardı.</p>
+<p style="text-align: justify;">Ancak son Gazze Savaşı’nın gelişimi bu algılarda önemli bir değişikliğe yol açtı.</p>
+<p style="text-align: justify;">Hamas’ın, önceki yıllardan farklı olarak, kendi imkanlarıyla karşılaştırılamayacak düzeyde bir askeri güce sahip olan İsrail karşısında çok ciddi bir direniş göstermesi ve çok sayıda İsrail askerini öldürmesi İsrail saldırganlığına karşı boyun eğmenin bir kader olmadığını gösterdi. İsrail’in yenilmezliği mitinin ne kadar yanlış olduğu, aslında gerekli silahlara sahip olması durumunda Hamas’ın bu ülkenin yayılmacı politikasına dur diyebileceği fark ediliyor. Tıpkı Hizbullah’ın 2006 yılında Lübnan’da yaptığı gibi, Hamas’ın sahip olduğu sınırlı silahlarla İsrail’e önemli kayıplar verdirdiğini ve onu ateşkes aramak zorunda bıraktığını görüyoruz. Burada İsrail’in Gazze’de verdiği kayıpların yanında, Hamas’ın elindeki füzelerle İsrail’in çeşitli şehirlerini etkili bir şekilde vurabilecek ve uluslararası havaalanındaki uçuş trafiğini engellemek suretiyle bu ülkeye ciddi ekonomik zararlar verebilecek kapasiteye ulaştığının da altını çizmek gerekir.</p>
+<p style="text-align: justify;">Peki bu Hamas direnişini mümkün kılan şey nedir ve bunun Mısır’da yaşanan darbe ile ne ilgisi vardır?</p>
+<p style="text-align: justify;">Hamas savaşçılarının İsrail saldırganlığı karşısında vatanlarını savunma konusundaki güçlü cesaretlerinde geçmişten günümüze bir değişiklik olmadığına göre, direnişin bu defa daha kuvvetli olmasının sebebi sahip oldukları yeni silahlardır. İsrail ve Batı medyasında yer alan bilgilere göre, Hamas’ın özellikle tanklara karşı artık daha iyi silahlara sahip olduğu görülmekte.</p>
+<p style="text-align: justify;">Peki bu nasıl mümkün oldu? Hamas bu yeni silahlara nasıl ulaştı?</p>
+<p style="text-align: justify;">Tabii ki Muhammed Mursi’nin cumhurbaşkanı olduğu dönemde Mısır üzerinden. Mursi, Hamas’a İsrail saldırganlığı karşısında Gazze’nin korunması için gerekli silahları temin etme imkanı verdi, en azından buna göz yumdu. Bu Filistin direnişine ve Ortadoğu’daki hukuksuzluğa karşı çıkanlara yapılmış çok değerli bir katkıydı. Ancak İsrail’i desteklemeyi kendi devlet politikalarının en önemli amaçlarından biri sayan ABD ve Almanya gibi Batılı ülkeler için ise affedilmeyecek bir suçtu.</p>
+<p style="text-align: justify;">İsrail saldırganlığına karşı Hamas-Mısır ekseninin oluşması ve bu eksenin Türkiye ve Katar gibi ülkeler tarafından desteklenmesi İsrail ve ona destek veren ülkeler açısından bir kabusa dönüşmüştü. Çünkü Mısır, Türkiye ve Katar’ın desteğiyle Hamas’ın İsrail’e karşı güçlü bir direniş hattı oluşturması mümkün olacaktı ve Siyonist yayılmacılığına karşı boyun eğmenin bir kader olmadığı anlaşılacaktı. Bu, İsrail’in gerçekleştirdiği katliamlar karşısında bölgeden yükselen “ağlama ve kınama” politikasından başka bir şey olacaktı. Bölge halkları ve ülkeleri İsrail vahşetine karşı ağlamayı ve sızlanmayı bırakıp ciddi bir direniş hattı kuruyorlardı.</p>
+<p style="text-align: justify;">İşte tam da bu nedenle İsrail ve onu destekleyen Batılı ülke yönetimleri açısından bu direniş hattının kırılması gerekiyordu. Bu nedenle bu hattın en önemli halkasına, Gazze sınırını kontrol eden Mısır’a saldırdılar. Hepimizin bildiği gibi bu saldırı doğrudan dışarıdan gelmedi. Çok defa yaptıkları bir yolu denediler ve içerideki kendileriyle işbirliğine hazır aktörleri harekete geçirdiler ve Mursi’yi iktidardan devirdiler. Bu direniş hattı karşısındaki korku o kadar büyükmüş ki, Müslüman Kardeşler’i tamamen bölge sahnesinden silmek için çok amansız bir savaş başlattılar. Bu savaşlarına destek verecek yerli işbirlikçileri bulmakta ise hiç zorlanmadılar.</p>
+<p style="text-align: justify;">Ancak herşeye rağmen İsrail’in bu Gazze saldırısı onun yumuşak karnını gösterdi. Arkasındaki Batılı yönetimlerin bütün desteğine rağmen, bu işgalci güce karşı koymanın zor olmadığı artık daha iyi biliniyor. Hamas çok sınırlı imkanlarına rağmen İsrail’e bu kadar kayıp verdirip onu durdurabiliyorsa, Hamas’a destek verecek yeni bir direniş hattının kurulması gecikmeyecektir. Bu hat belki yine Mısır üzerinden kurulacak, belki Ürdün üzerinden, belki de Lübnan ve hatta Suriye üzerinden. Bunun için tek ihtiyaç duyulan şey, bu ülkelerde, İsrail saldırganlığının kendilerini de hedef alacağını kavrayan ve bu saldırganlığa karşı kurulması gereken direniş hattına destek olacak yönetimlerin olması.</p>
+<p style="text-align: justify;">Türkiye ise, İsrail saldırganlığına karşı sadece ağlamaktan ve kınamaktan ibaret politikasını terk edip bu direniş hattına destek vermeye başlayalı çok oldu. Mursi’ye yaptıkları gibi, Türkiye’ye de İsrail saldırganlığına karşı çıkan bu politikasının bedelini ödetmeye çalışanların olduğunu görüyoruz. Ancak Türkiye artık bedel ödetme girişimlerine karşı dirençli hale geldi ve başka aktörlerin kendisi için belirlediği rolü oynayacak bir ülke olmaktan çıktı. Kendi doğru politikasının arkasında durabilecek bir güç ve iradeye sahip Türkiye’nin İsrail saldırganlığına karşı çıkan ve Filistin direnişini destekleyen politikasını sürdürmesi bölgenin geleceği açısından da çok önemlidir.</p>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="span2 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2432" class="post-2432 post type-post status-publish format-standard has-post-thumbnail hentry category-anasayfa-slider" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/turkiye-ortadogu-calismalari-dergisi-makale-cagrisi/" rel="bookmark" title="Türkiye Ortadoğu Çalışmaları Dergisi Makale Çağrısı">Türkiye Ortadoğu Çalışmaları Dergisi Makale Çağrısı</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Anasayfa</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-22T15:53:28+00:00" >Tem 22, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2432">266</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <p>Türkiye Ortadoğu Çalışmaları Dergisi ikinci sayısını yayına hazırlıyor.</p>
+<p>2014/2 sayısı için Ortadoğu ve Türkiye&#8217;nin Ortadoğu politikası konulu Türkçe ve İngilizce makaleler kabul edilmektedir.</p>
+<p><a href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/07/fxmkk.png"><img class="alignleft size-medium wp-image-2442" src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/07/fxmkk-212x300.png" alt="fxmkk" width="212" height="300" /></a></p>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2382" class="post-2382 post type-post status-publish format-standard hentry category-makaleler" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/suudi-arabistanda-ihtiyaci-hareketler-olarak-sahve-ve-vehbabilik/" rel="bookmark" title="Suudi Arabistan&#8217;da İhtiyaci Hareketler Olarak Sahve ve Vehbabilik">Suudi Arabistan&#8217;da İhtiyaci Hareketler Olarak Sahve ve Vehbabilik</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Makaleler</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-17T13:08:50+00:00" >Tem 17, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2382">159</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Bu çalışma özü itibariyle Suudi Arabistan’ın kurucu ideolojisi olan Vehhabilik ve Suudi rejimine yönelik güçlü bir İslami muhalefet hareketi olarak ortaya çı-kan Sahve hareketini ele almakta ve her iki hareketin ortaya çıktığı siyasi, dini ve toplumsal dinamikleri incelemeye çalışmaktadır. İhyacı hareketler olarak Vehhabilik ve Sahve, tarihsel süreç içerisinde şekillenen Selefi geleneğin Suudi Arabistan’a özgü bir yansıması olarak ortaya çıkmışlardır. Bu çalışmada, Ah-med İbni Hanbel’le başlayan ve Ahmed İbni Teymiye’yle devam eden Selefi İslam anlayışının dini, siyasi ve toplumsal dinamikleri ortaya konulmak suretiyle Veh-habilik ve Sahve hareketi üzerindeki etkilerine değinilmektedir. Bununla birlikte, Suudi Arabistan’daki ihyacı muhalefet hareketi olan Sahve’nin Suudi rejimi üze-rinde kurduğu siyasal baskılar neticesinde devletin örgütlenme ve işleyiş düzeni ile ilgili olarak yapılan reformlardaki etkisi ortaya konmaya çalışılmaktadır.</p>
+<p><strong>İsmail Akdoğan &amp; Rıdvan Kalaycı</strong></p>
+<h5><a class="wpb_button_a" title="MAKALE İNDİR" href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/06/Sakarya_Universitesi_Ortadogu_Dergisi_C01S01M02.pdf"><span class="wpb_button  wpb_default ">MAKALE İNDİR</span></a>
+</h5>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2380" class="post-2380 post type-post status-publish format-standard hentry category-makaleler" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/el-kaideden-post-kaideye-donusum-isid/" rel="bookmark" title="El Kaide&#8217;den Post-Kaide&#8217;ye Dönüşüm: IŞİD">El Kaide&#8217;den Post-Kaide&#8217;ye Dönüşüm: IŞİD</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Makaleler</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-17T13:07:23+00:00" >Tem 17, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2380">449</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>2011’den bu yana hem Suriye İç Savaşı’nda hem de Irak’ta iç savaşa evrilme potansiyeli olan kaos ortamında aykırı bir aktör olarak gündeme oturan Irak-Şam İslam Devleti’nin (IŞİD) etkin bir konuma sahip olması, kanımızca sebep ve sonuçları ile analiz edilmesi gereken bir vakadır. Bu bağlamda, 2003 Irak İşgali’nden başlayarak günümüze kadar gelen süreci hem yakın dönem siyasi tarih okuması yaparak hem de IŞİD’in güncel gelişim seyrinde bölge politikala-rındaki etkisi üzerinden analiz yapılması gerekli görülmüştür. Bu çalışma kap-samında daha sonra IŞİD adını alacak olan Irak’taki el-Kaide yapılanmasının 2003 Irak İşgali’nden itibaren bölgede örgütlenmesi, Irak merkezi hükümeti ve Sünni Sahva birlikleriyle girdiği mücadele, zayıf düşülen 2008-2011 arası döne-min ardından ABD birliklerinin Irak’tan çekilmesi ile birlikte hareketin yeniden güç kazanmasının nedenleri ele alınırken bir yandan da el-Kaide ile IŞİD arasın-da yaşanacak ayrışma sürecinin başlangıcı olan Irak İslam Devleti’nin IŞİD’e dönüşüm süreci ve Suriye İç Savaşı’ndaki rolü ele alınmaktadır.</p>
+<p><strong>Recep Tayyip Gürler &amp; Ömer Behram Özdemir</strong></p>
+<h4><a class="wpb_button_a" title="MAKALE İNDİR" href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/06/Sakarya_Universitesi_Ortadogu_Dergisi_C01S01M03.pdf"><span class="wpb_button  wpb_default ">MAKALE İNDİR</span></a>
+</h4>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2378" class="post-2378 post type-post status-publish format-standard hentry category-makaleler" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/misir-devrimi-surecinde-isci-hareketinin-rolu/" rel="bookmark" title="Mısır Devrimi Sürecinde İşçi Hareketinin Rolü">Mısır Devrimi Sürecinde İşçi Hareketinin Rolü</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Makaleler</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-17T13:04:16+00:00" >Tem 17, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2378">69</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Mısır’da 25 Ocak 2011’de gerçekleşen devrim ülke tarihi açısından önemli bir dönüm noktasıdır. Asırlar süren baskı rejiminin ardından Mısır’daki sosyal ak-törler topyekün bir hareket başlatarak Hüsnü Mübarek’i görevden ayrılmaya zorlamışlardır. Bu aktörler arasında ülkedeki işçi hareketi önemli bir yer tut-muştur. Uzun yıllardır varlığını sürdüren bu hareket Mübarek rejimi boyunca uğradığı yoğun baskı neticesinde hakların iyileştirilmesi anlamında etkin ola-mamış, ancak gerçekleştirdiği kolektif eylemlerle rejim karşısında diri kalabil-miştir. Özellikle 2000’li yıllarda artan bir oranda gerçekleştirilen grev, oturma eylemi ve protesto gösterileri gibi kolektif eylemler sayesinde işçi hareketi rejim karşıtı muhalefetin daha da cesaretlenmesini sağlamıştır. 2008 yılında Mahal-le El-Kübra şehrinde düzenlenen büyük gösterilerin ardından Mübarek karşıtı diğer hareketler de eylemlere başlamış ve 2011’e gelinen süreç yaşanmıştır. Bu çalışma işçilerin devrime gelinen süreçte oynadığı rolü incelerken, devrimin ar-dından işçi hareketinin siyasal tercihlerinin ne yönde gerçekleştiğini de analiz etmektedir. Ayrıca işçi hareketinin gelişimine yönelik tarihsel bir perspektife yer verilmiş ve devrim öncesi süreçte işçilerin toplumsal hareketlerin kolektif eylem yapabilme kapasitesine etkileri de incelenmiştir.</p>
+<p><strong>İsmail Numan Telci</strong></p>
+<h4><a class="wpb_button_a" title="MAKALE İNDİR" href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/06/Sakarya_Universitesi_Ortadogu_Dergisi_C01S01M04.pdf"><span class="wpb_button  wpb_default ">MAKALE İNDİR</span></a>
+</h4>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2376" class="post-2376 post type-post status-publish format-standard hentry category-makaleler" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/turk-dis-politikasinda-yeni-tarz-i-siyaset-ortadoguda-cok-boyutlu-politikadan-asabiyet-politikasina/" rel="bookmark" title="Türk Dış Politikasında Yeni Tarz-ı Siyaset: Ortadoğu&#8217;da Çok Boyutlu Politikadan Asabiye Politikasına">Türk Dış Politikasında Yeni Tarz-ı Siyaset: Ortadoğu&#8217;da Çok Boyutlu Politikadan Asabiye Politikasına</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Makaleler</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-17T13:03:40+00:00" >Tem 17, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2376">109</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Türk dış politikası söz konusu olduğunda Batılı devletlerin geleneksel bir biçim-de müttefik olarak kabul edildikleri görülmektedir. Dahası, bu ilişkinin sosyal ontolojisi ve dolayısıyla tarihselliği göz ardı edilmektedir. Yüzünü Batı’ya dönen Türkiye, Ortadoğu’yu ise görmezden gelmiştir. Zamanla bu tutumunu gevşeterek çok boyutlu bir dış politika yönelimi kazanan Türk dış politikası, kritik dönem-lerde başarısızlığa maruz kalmaya devam etmiştir. Batı ile ittifak ilişkisinin ge-reği olan karşılığı yeterince göremeyen Türkiye, ortak bir medeniyet geçmişine sahip olduğu Ortadoğu ülkeleriyle arasındaki ortak kimlik birikiminden de isti-fade edemeyerek uluslararası arenada çıkarlarını savunmak konusunda ihtiyaç duyduğu destekten mahrum kalabilmiştir. Arap Uyanışı ile ortaya çıkan demok-rasi talebi, ortak medeniyet geçmişiyle birlikte düşünüldüğünde, Türkiye’ye böl-ge ülkeleriyle yeni bir asabiye geliştirme imkanı sunmaktadır. Türkiye ve bölge ülkelerinde demokrasinin geliştirilmesi, her ne kadar Batı’daki bazı kesimlerin çıkarları aleyhine sonuçlar doğurabilirse de, açık bir güç mücadelesinden daha gerçekleştirilebilir bir seçenek olarak ortaya çıkmaktadır. Bu da Türkiye’ye, or-tak medeniyet geçmişine ve demokratik ilkelere dayalı bir bölgesel politika geliş-tirerek bölge ülkeleriyle yeni bir asabiye kurma imkanı vermektedir.</p>
+<p><strong>Bilal Yıldırım</strong></p>
+<h4><a class="wpb_button_a" title="MAKALE İNDİR" href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/06/Sakarya_Universitesi_Ortadogu_Dergisi_C01S01M05.pdf"><span class="wpb_button  wpb_default ">MAKALE İNDİR</span></a>
+</h4>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2374" class="post-2374 post type-post status-publish format-standard hentry category-makaleler" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/stratejik-derinlikin-jeopolitik-tahayyulu-2/" rel="bookmark" title="Stratejik Derinlik&#8217;in Jeopolitik Tahayyülü">Stratejik Derinlik&#8217;in Jeopolitik Tahayyülü</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Makaleler</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-17T13:02:37+00:00" >Tem 17, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2374">190</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Bu makale Ahmet Davutoğlu’nun başyapıtı Stratejik Derinlik’in jeopolitik ta-hayyülünü incelemektedir. Çalışma, Türkiye jeopolitik kültürü içindeki çarpışan jeopolitik tahayyüllerin, onların siyasi ontolojilerine göre sınıflandırılabileceği-ni ileri sürmektedir. Ayrıca bu makale, Stratejik Derinlik’in entellektüel ve felsefi kökenini, güçlü siyasi düşüncesini ve farklı jeopolitik kavramsallaştrma çerçe-vesini ortaya koyarak onun kendine özgü jeopolitik tasavvuruna ve Türkiye’nin uluslararası konumuna ilişkin farklı yaklaşımına yönelik eleştirel bir jeopolitik temel sağlama arayışındadır. İlk bölümde makale, Davutoğlu’nun Kemalist siyasi ontolojiye yönelik eleştirisini incelemektedir. İkinci bölümde ise Davutoğlu’nun coğrafya (mekan) ve tarih (zaman) anlayışını dikkate alarak Stratejik Derinlik’in jeopolitik metodolojisini analiz etmektedir. Son bölümde ise, Türkiye’nin ‘coğra-fi bir süper yapı’ olarak temsil edilmesini sorunsallaştırarak Stratejik Derinlik’in jeopolitik tahayyülünü açıklamaya çalışmaktadır.</p>
+<p><strong>Murat Yeşiltaş</strong></p>
+<h5><a class="wpb_button_a" title="MAKALE İNDİR" href="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/06/Sakarya_Universitesi_Ortadogu_Dergisi_C01S01M06.pdf"><span class="wpb_button  wpb_default ">MAKALE İNDİR</span></a>
+</h5>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+        <article id="post-2369" class="post-2369 post type-post status-publish format-standard hentry category-makaleler" itemscope itemtype="http://schema.org/Article">
+
+            <header>
+
+                <h1 itemprop="name" class="entry-title"><a itemprop="url" href="http://ormer.sakarya.edu.tr/turk-dis-politikasinin-kapasitesinin-donusumu-ak-parti-donemi/" rel="bookmark" title="Türk Dış Politikasının Kapasitesinin Dönüşümü: AK PARTİ Dönemi">Türk Dış Politikasının Kapasitesinin Dönüşümü: AK PARTİ Dönemi</a></h1>
+                <div class="meta-info">
+                    <ul class="td-category"><li class="entry-category"><a >Makaleler</a></li></ul>                                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2014-07-17T12:04:02+00:00" >Tem 17, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/>                    <div class="entry-comments-views"> <span class="td-sp td-sp-ico-view"></span><span class="td-nr-views-2369">112</span></div>                </div>
+            </header>
+
+
+            
+
+            
+
+            
+                <div class="td-post-text-content">
+                    <div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>2000&#8242;lı yıllarda önemli başarılar elde eden Türk dış politikasında son 3 yıl içerisinde yaşanan sorunlar bir kapasite tartışmasını beraberinde getirmiştir. Bazı kesimler, Türkiyenin kapasitesinin sınırlarını zorlayan bir dış politika izlemeye çalıştığını ileri sürmektedirler. Bu makalede bu tartışmalara ışık tutmaya çalışılmıştır. Bu çerçevede Türkiye&#8217;nin ekonomik, askeri ve diplomatik kapasitesi ele alınmış. 1980&#8242;den beri bu alanlarda kaydedilen adımlar incelenmiştir. Özellikle AK Parti dönemimde ekonomik, askeri ve diplomatik alanlarda yaşanan hızlı gelişme sonrasında Türkiye&#8217;nin dış politikada hangi imkanlara sahip olduğu ve sınırlarının neler olduğu analiz edilmeye çalışılmıştır. Bu analizler ışığında Türkiye&#8217;nin son 30 yılda ve özellikle de son 10 yılda, dış politikasındaki hareket kapasitesini çok fazla arttıracak düzeyde ekonomik ve askeri ilerlemeler kaydettiği, ancak bu açulardan halen daha Almanya ve Fransa gibi dış mücadeleler karşısında sağlam bir yapıya ulaşılmadığı tespiti yapılmıştır.</p>
+<p><strong>Kemat İnat</strong></p>
+<h5><a class="wpb_button_a" title="MAKALE İNDİR" href="http://ormer.sakarya.edu.tr/uploads/2014/06/Sakarya_Universitesi_Ortadogu_Dergisi_C01S01M01.pdf"><span class="wpb_button  wpb_default ">MAKALE İNDİR</span></a>
+</h5>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div>
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+            <footer>
+                                                                                                                            </footer>
+
+        </article> <!-- /.post -->
+
+                
+                <div class="page-nav"><span class="current">1</span><a href="http://ormer.sakarya.edu.tr/author/admin/page/2/" class="page" title="2">2</a><a href="http://ormer.sakarya.edu.tr/author/admin/page/3/" class="page" title="3">3</a><span class="extend">...</span><a href="http://ormer.sakarya.edu.tr/author/admin/page/8/" class="last" title="8">8</a><a href="http://ormer.sakarya.edu.tr/author/admin/page/2/" >-------- <img width="6" class="td-retina right-arrow" src="http://ormer.sakarya.edu.tr/wp-content/themes/Ormer-v2/images/icons/similar-right.png" alt=""/></a><span class="pages">Page 1 of 8</span></div>
+            </div>
+            <div class="span4 column_container">
+                <aside class="widget widget_nav_menu"><div class="menu-kadrolar-menusu-container"><ul id="menu-kadrolar-menusu" class="menu"><li id="menu-item-875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-not-mega menu-item-875"><a href="http://ormer.sakarya.edu.tr/?p=795">Kemal İnat</a></li>
+<li id="menu-item-877" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-877"><a href="http://ormer.sakarya.edu.tr/?p=797">Tuncay Kardaş</a></li>
+<li id="menu-item-878" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-878"><a href="http://ormer.sakarya.edu.tr/?p=799">Ali Balcı</a></li>
+<li id="menu-item-879" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-879"><a href="http://ormer.sakarya.edu.tr/?p=801">Muammer İskenderoğlu</a></li>
+<li id="menu-item-880" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-880"><a href="http://ormer.sakarya.edu.tr/?p=803">Eldar Hasanov</a></li>
+<li id="menu-item-881" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-881"><a href="http://ormer.sakarya.edu.tr/?p=805">Murat Yeşiltaş</a></li>
+<li id="menu-item-882" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-882"><a href="http://ormer.sakarya.edu.tr/?p=807">Yıldırım Turan</a></li>
+<li id="menu-item-883" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-883"><a href="http://ormer.sakarya.edu.tr/?p=809">Nebi Miş</a></li>
+<li id="menu-item-884" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-884"><a href="http://ormer.sakarya.edu.tr/?p=811">İbrahim Efe</a></li>
+<li id="menu-item-885" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-885"><a href="http://ormer.sakarya.edu.tr/?p=813">Filiz Cicioğlu</a></li>
+<li id="menu-item-886" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-886"><a href="http://ormer.sakarya.edu.tr/?p=815">İsmail Numan Telci</a></li>
+<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-887"><a href="http://ormer.sakarya.edu.tr/?p=817">Bilal Yıldırım</a></li>
+<li id="menu-item-888" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-888"><a href="http://ormer.sakarya.edu.tr/?p=819">Ömer Behram Özdemir</a></li>
+<li id="menu-item-889" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-889"><a href="http://ormer.sakarya.edu.tr/?p=821">Mustafa Caner</a></li>
+<li id="menu-item-890" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-890"><a href="http://ormer.sakarya.edu.tr/?p=823">Recep Tayip Gürler</a></li>
+<li id="menu-item-891" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-891"><a href="http://ormer.sakarya.edu.tr/?p=825">Ayşenur Hazar</a></li>
+<li id="menu-item-892" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-892"><a href="http://ormer.sakarya.edu.tr/?p=827">Rumeysa Eldoğan</a></li>
+<li id="menu-item-893" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-893"><a href="http://ormer.sakarya.edu.tr/?p=829">İsmail Akdoğan</a></li>
+<li id="menu-item-894" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-894"><a href="http://ormer.sakarya.edu.tr/?p=831">Berkan Öğür</a></li>
+<li id="menu-item-895" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-895"><a href="http://ormer.sakarya.edu.tr/?p=833">Zana Baykal</a></li>
+<li id="menu-item-896" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-896"><a href="http://ormer.sakarya.edu.tr/?p=835">Ayşe Selcan Özdemirci</a></li>
+<li id="menu-item-897" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-897"><a href="http://ormer.sakarya.edu.tr/?p=837">Mustafa Şeyhmus Küpeli</a></li>
+<li id="menu-item-898" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-898"><a href="http://ormer.sakarya.edu.tr/?p=839">Abdüssamet Pulat</a></li>
+<li id="menu-item-899" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-899"><a href="http://ormer.sakarya.edu.tr/?p=841">Ensar Muslu</a></li>
+<li id="menu-item-900" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-900"><a href="http://ormer.sakarya.edu.tr/?p=843">Fatma Zehra Toçoğlu</a></li>
+</ul></div></aside>            </div>
+        
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="td-footer-wrap">
+        <div class="container">
+            <div class="row">
+                
+                            <div class="span12">
+                                <div class="td-grid-wrap">
+                                    <div class="container-fluid">
+                                        <div class="wpb_row row-fluid ">
+                                            <div class="span4 wpb_column column_container">
+                                                <aside class="widget widget_text">			<div class="textwidget"></br><a href="http://www.sakarya.edu.tr" target="_blank"><img class="aligncenter size-full wp-image-1127" src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/05/sau-logo.png" alt="sau-logo" width="197" height="78" /></a></div>
+		</aside>                                            </div>
+
+                                            <div class="span4 wpb_column column_container">
+                                                <aside class="widget widget_text">			<div class="textwidget"></div>
+		</aside><div class="td_block_wrap td-social-wrap td-social-wrap-32"><div class="td_mod_wrap"><span class="td-social-icon-wrap"><a target="_blank" href="https://www.facebook.com/profile.php?id=100008270208139&fref=ts"><span class="td-social-s1-32 td-s-s-32-facebook"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="https://plus.google.com/u/1/"><span class="td-social-s1-32 td-s-s-32-googleplus"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="https://twitter.com/SAUOrtadogu"><span class="td-social-s1-32 td-s-s-32-twitter"></span></a></span></div></div>                                            </div>
+                                            <div class="span4 wpb_column column_container">
+                                                <aside class="widget widget_text">			<div class="textwidget"><div class="textwidget"><div style="float:none;width:326px">
+<div style="float:left;width:175px;text-align:right">
+<div style="font-size:28pt;color:#15358e">
+ 
+<b>ORMER</b> 
+</div>
+<div style="text-align:right;">
+___________________________ <br> <font size="1" color="#000000"> Sakarya Üniversitesi Esentepe Kampüsü<br>54187 Serdivan / SAKARYA <br>
++90 264 295 3603<br><a href="mailto:ormer@sakarya.edu.tr">ormer@sakarya.edu.tr</a></font>
+</div>
+</div>
+
+
+<div style="float:left;width:151px">
+<img src="http://ormer.sakarya.edu.tr/wp-content/uploads/2014/06/logo_2.png" alt="r10" hspace="10" align="right">
+</div>
+</div></div></div>
+		</aside>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                                    </div>
+        </div>
+    </div> <!-- /.td-footer-wrap  -->
+
+
+
+<div class="td-sub-footer-wrap">
+    <div class="container ">
+        <div class="row">
+            <div class="span12">
+                <div class="td-grid-wrap">
+                    <div class="container-fluid">
+                        <div class="row-fluid ">
+                            <div class="span4 td-sub-footer-copy">
+                                &copy; 2014 Sakarya Üniversitesi Ortadoğu Araştırmaları Merkezi                            </div>
+                            <div class="span8 td-sub-footer-menu">
+
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<!--/#inner-wrap-->
+</div>
+<!--/#outer-wrap-->
+
+<div class="td-sp td-scroll-up"></div>
+
+
+
+    <!--
+        Theme: Newspaper by tagDiv 2014
+        Version: 4.2 (rara)
+        Deploy mode: deploy
+        
+    -->
+
+    
+            <style type="text/css" media="screen">
+                .anasfmenu {
+z-index: 0;
+
+}
+                </style><script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/ormer.sakarya.edu.tr\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"G\u00f6nderiliyor ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/themes/Ormer-v2/js/td_external.js?ver=4.2'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/themes/Ormer-v2/js/full_compact/site.js?ver=4.2'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.js?ver=1.5.6'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3'></script>
+<script type='text/javascript' src='http://ormer.sakarya.edu.tr/wp-content/plugins/easy-fancybox/jquery.mousewheel.pack.js?ver=3.1.3'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+
+<script type="text/javascript">
+jQuery(document).on('ready post-load', easy_fancybox_handler );
+</script>
+
+            <script language="javascript">
+                td_ajax_count.td_get_views_counts_ajax("page","[3420, 2622, 2613, 2432, 2382, 2380, 2378, 2376, 2374, 2369]");
+            </script>
+            </body>
+</html>

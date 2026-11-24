@@ -1,0 +1,47 @@
+.entry_listbox {
+	border-bottom: 1px solid #ccc;
+	height: 100%;
+	float: left;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+}
+.entry_listbox div {
+	margin: 2px;
+	padding: 2px;
+}
+.entry_listbox .entry_name {
+	height: 20px;
+	padding-top: 8px;
+	display: block;
+	vertical-align: middle;
+}
+.entry_listbox .entry_image {
+	height: 220px;
+	display: block;
+}
+.entry_listbox .entry_image div {
+	height: 220px;
+	width: 220px;
+	line-height: 220px;
+	margin: 0 auto;
+	display: block;
+}
+.entry_listbox .entry_image div img {
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0px;
+    margin: 0px;
+    vertical-align: middle;
+}
+.entry_listbox .entry_info {
+	min-height: 82px;
+	vertical-align: middle;
+}
+.entry_divl {
+	border-right: 1px solid #ccc;
+}
+
+.entry_divm {
+	border-right: 1px solid #ccc;
+}

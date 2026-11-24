@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2021 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Yazılar | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="http://www.ortadogu.sakarya.edu.tr/">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a><ul><li><a href="19,2,,3,1_ortadogu_kongresi.html">1. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,2_ortadogu_kongresi.html">2. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,3_ortadogu_kongresi.html">3. Ortadoğu Kongresi</a></li><li><a href="19,2,,13,4_ortadogu_kongresi.html">4. Ortadoğu Kongresi</a></li><li><a href="19,2,,20,5_ortadogu_kongresi.html">5. Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Son Duyurular</span></h4></div>
+<div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,239,egitim_ogretime_ara_verilmesi_ile_ilgili_onemli_duyuru.html" title="EĞİTİM ÖĞRETİME ARA VERİLMESİ İLE İLGİLİ ÖNEMLİ DUYURU">EĞİTİM ÖĞRETİME ARA VERİLMESİ İLE İLGİLİ ÖNEMLİ DUYURU</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 30 Kasım 2021, Salı</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,238,ortadogu_enstitusu_gundem_notlari_eylul_2021.html" title="Ortadoğu Enstitüsü Gündem Notları, Eylül 2021">Ortadoğu Enstitüsü Gündem Notları, Eylül 2021</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 17 Kasım 2021, Çarşamba</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,237,enstitumuz_ortadogu_gundem_notlari_eylul_2021_yayinda.html" title="Enstitümüz Ortadoğu Gündem Notları Eylül 2021 Yayında">Enstitümüz Ortadoğu Gündem Notları Eylül 2021 Yayında</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 29 Ekim 2021, Cuma</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,236,2021_2022_guz_yariyili_100_2000_yok_doktora_bursu_ogrenci_alim_ilani.html" title="2021-2022 Güz Yarıyılı 100/2000 YÖK Doktora Bursu Öğrenci Alım İlanı">2021-2022 Güz Yarıyılı 100/2000 YÖK Doktora Bursu Öğrenci Alım İlanı</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 02 Ekim 2021, Cumartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,235,yuksek_lisans_ve_doktora_programi_bilim_sinavina_girmeye_hak_kazanan_adaylarin_listesi.html" title="Yüksek Lisans ve Doktora Programı Bilim Sınavına Girmeye Hak Kazanan Adayların Listesi">Yüksek Lisans ve Doktora Programı Bilim Sınavına Girmeye Hak Kazanan Adayların Listesi</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 23 Ağustos 2021, Pazartesi</span></div></div><div class="clear"></div></article></div></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Yayınlar</span></h4></div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,11,hamas_in_direnisi_ve_misir_daki_darbe.html" title="Hamas’ın Direnişi ve Mısır’daki Darbe">Hamas’ın Direnişi ve Mısır’daki Darbe</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 24 Temmuz 2014, Perşembe</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Kemal İnat İsrailin Gazzeye karşı kara operasyonu sürecinde yaşananlar, özellikle de Hamasın güçlü direnişi son dönemde Ortadoğuda yaşanan birçok olaya ışık tutar nitelikte. Öncelikle, İsrailin geçmiş yıllarda sürekli olarak yaptığı ölçüsüz saldırganlığı tekrarladığını görüyoruz. Filistin ve Lübnan topraklarına yönelik kitlesel,...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,10,filistinli_cocuklara_ne_soyleyelim_.html" title="Filistinli Çocuklara Ne Söyleyelim?">Filistinli Çocuklara Ne Söyleyelim?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 14 Temmuz 2014, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,24,prof_dr_kemal_inat.html" title="Prof. Dr. Kemal İnat" class="important">Prof. Dr. Kemal İnat</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Kemal İnat İsrailin dünyadaki güç sahipleri tarafından desteklenen vahşet ötesi saldırılarında Filistinli çocuklar evlerini, yakınlarını ve hayatlarını kaybediyorlar. Henüz dört-beş yaşında olanlar ne olduğunu anlayamıyorlar bir türlü. Neden başlarına gökten bomba yağıyor? Neden çocukluklarını yaşamalarına fırsat verilmiyor? Neden kardeşleri,...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,9,iran_da_federalizmin_ayak_sesleri.html" title="İran’da Federalizmin Ayak Sesleri">İran’da Federalizmin Ayak Sesleri</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 09 Temmuz 2014, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,abdullah_yegin.html?author=Abdullah Yeğin" title="Abdullah Yeğin" class="important">Abdullah Yeğin</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> Ortadoğu ve Ortadoğuda yerleşik devletlere dair son yıllarda çokça dile getirilen “Sykes-Picot düzeni”nin değişmeye yüz tuttuğu, bölgenin bünyesinin artık bu yapay sınırları kaldıramadığı ve kendi kültürel kodları ve arka planına endeksli daha doğal sınırlara sahip olacağına dair söylemler gittikçe daha güçlü bir sesle dile getirilmekte ve...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,108,european_foreign_fighters_in_syria_and_virtual_radicalization.html" title="European Foreign Fighters in Syria and Virtual Radicalization">European Foreign Fighters in Syria and Virtual Radicalization</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 09 Temmuz 2014, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,23,prof_dr_tuncay_kardas.html" title="Prof. Dr. Tuncay Kardaş" class="important">Prof. Dr. Tuncay Kardaş</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,7,perspective.html" title="Perspective" class="important">Perspective</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> The Syrian crisis continues to be a hotbed of international politics and a matter of national security in Europe ever since the emergence of thousands of European fighters who joined Syrias civil war. The European governments are particularly fran- tic about the prospects of return of their "radical-extremist" rebel citi- zens. Such fears are not unwarranted as many British...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,8,dogal_bir_kultur_galerisi_iran.html" title="Doğal Bir Kültür Galerisi İran">Doğal Bir Kültür Galerisi İran</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 09 Temmuz 2014, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,sedat_baran.html?author=Sedat Baran" title="Sedat Baran" class="important">Sedat Baran</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Yanı başımızda olduğu halde tanımak için yeterli enstrümanlara sahip olamadığımızı hüzünle itiraf etmek zorunda kaldığımız gizemli ülke İran ve onun bol kültürlü kozmopolit toplumu, kendi Doğulu kimliğimize ağıt yaktıracak kadar çarpıcı ve egzotiktir... Bütün çelişkili özelliklerine rağmen bir “bütün” olmayı benimsemiş yetmiş...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,6,suriye_muhalefeti_ve_dis_destek_yeni_olusumlar.html" title="Suriye Muhalefeti ve Dış Destek: Yeni Oluşumlar">Suriye Muhalefeti ve Dış Destek: Yeni Oluşumlar</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 28 Haziran 2014, Cumartesi</span>          
+      </div>
+    </div>
+    <div class="entry-summary">Suriye Muhalif ve Devrimci Güçler Ulusal Koalisyonu (SMDK) lideri Ahmed Carbanın Mayıs ayı içerisinde gerçekleştirdiği ABD ziyareti ve sonrasında hem diplomatik alanda hem de savaş alanında yaşanan gelişmeler dış müdahale ile alakalı yeni senaryoların ortaya çıkmasına yol açtı. ABD Başkanı Obama ve Dışişleri Bakanı Kerry ile görüşmeleri olumlu bir...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,5,korfez_deki_kriz_sona_erdi_mi_.html" title="Körfez’deki Kriz Sona Erdi mi?">Körfez’deki Kriz Sona Erdi mi?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 28 Haziran 2014, Cumartesi</span>          
+      </div>
+    </div>
+    <div class="entry-summary">Körfez Arap bölgesinde geçtiğimiz aylarda ciddi bir kriz yüzünü gösterdi. Aslında uzun zamandır var olan anlaşmazlıklar yumağı bölgedeki değişim ve siyasetin yeniden şekillendirilmesi girişimlerinin ardından daha da bariz bir biçimde açığa çıkmaya başlamıştır. Körfezin üç Arap ülkesi Suudi Arabistan, Birleşik Arap Emirlikleri (BAE) ve Bahreyn,...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,4,idam_cezalari_ve_misir_da_demokrasi_tahammulsuzlugu.html" title="İdam Cezaları ve Mısır’da Demokrasi Tahammülsüzlüğü">İdam Cezaları ve Mısır’da Demokrasi Tahammülsüzlüğü</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 28 Haziran 2014, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,14,ars_gor_bilal_yildirim.html" title="Arş. Gör. Bilal Yıldırım" class="important">Arş. Gör. Bilal Yıldırım</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,1,yorumlar.html" title="Yorumlar" class="important">Yorumlar</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">En tartışmalı ceza yöntemlerinden birisi olan idam cezası, bugün 58 ülkede uygulanmaya devam etmektedir. Türkiyede 2002 ve ardından 2006 yılında yapılan yasal düzenlemelerle idam cezası tamamen kaldırıldı. ABD, Irak, İran ve Çin idam cezalarında öne çıkan ülkeler arasında yer alıyor. ABDde 2012 yılında 77 kişi hakkında idam kararı verilirken 2013...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,107,pro_kurdish_democratic_islamcongress_and_the_middle_east_rahman_dag.html" title="Pro-Kurdish Democratic IslamCongress and The Middle East- Rahman Dag">Pro-Kurdish Democratic IslamCongress and The Middle East- Rahman Dag</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 28 Haziran 2014, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,rahman_dag.html?author=Rahman Dag" title="Rahman Dag" class="important">Rahman Dag</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,7,perspective.html" title="Perspective" class="important">Perspective</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> For decades, the Kurdish question has undoubtedly been one of the most significant and hotly debated research topics. As Kurds spread out across the Middle East, Turkey remains one of the main countries in which the Kurdish question has taken its toll on both sides within an on- going peace process. In addition to potential problems with obvious ethnic component, Islamic...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,106,2014_kurdistan_bolgesi_vilayet_secimleri.html" title="2014 Kürdistan Bölgesi Vilayet Seçimleri">2014 Kürdistan Bölgesi Vilayet Seçimleri</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 28 Haziran 2014, Cumartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,6,ars_gor_zana_baykal.html" title="Arş. Gör. Zana Baykal" class="important">Arş. Gör. Zana Baykal</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,2,perspektif.html" title="Perspektif" class="important">Perspektif</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> 30 Nisan 2014te sandık başına giden Irak Kürdistan Bölgesel Yönetimi vatandaşları hem Irak parlamentosu hem de Kürt Bölgesi vilayet seçimleri için oy kullandılar. Uzun bir süredir Bağdat ile sorun yaşayan Kürt Bölgesinin bir kulağı Irak parlamento seçim sonuçlarındayken diğer kulağı ise vilayet seçimlerinin sonuçlarında olmuştur. Vilayet...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div align="center"><br /><b>Sayfa</b><br /><ul class="pagination">
+    <li><a href="20,1,yayinlar.html?page=58">&laquo;</a></li>
+    <li><a href="20,1,yayinlar.html?page=1">1</a></li>
+    <li><a href="20,1,yayinlar.html?page=2">2</a></li>
+    <li><a href="20,1,yayinlar.html?page=3">3</a></li>
+    <li><span>...</span></li>
+    <li><a href="20,1,yayinlar.html?page=57">57</a></li>
+    <li><a href="20,1,yayinlar.html?page=58">58</a></li>
+    <li class="active"><span>59</span></li>
+    <li><a href="20,1,yayinlar.html?page=60">60</a></li>
+    <li><a href="20,1,yayinlar.html?page=60">&raquo;</a></li>
+  </ul>
+<br /></div>          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2021. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="http://www.ortadogu.sakarya.edu.tr/">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>

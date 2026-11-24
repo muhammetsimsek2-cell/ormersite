@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+ Fatih "fabal" BALCI
+ fabal [at] progedia [dot] com
+ Copyright (c) 2024 proGEDIA http://www.progedia.com
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>Makaleler | Ortadoğu Enstitüsü</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="description" content="Sakarya Üniversitesi Ortadoğu Enstitüsü" />
+<meta http-equiv="keywords" content="" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var current_lang = 'turkish';
+//-->
+</script>
+<script type="text/javascript" src="HTML/js/functions.js"></script>
+<script type="text/javascript" src='HTML/js/bootstrap.min.js'></script>
+<link rel="StyleSheet" href="themes/v2/style.css" type="text/css" />
+</head><link href='http://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500italic,500,400italic,300italic,300,100italic,100|Open+Sans:400,300,400italic,300italic,600,600italic,700italic,700,800|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="dir_ltr">
+<div class="theme-layout">
+  <div id="top-bar" class="modern notprint">
+    <div class="container">
+      <ul class="navx">
+        <li><a href="http://www.sakarya.edu.tr" target="_blank">Sakarya Üniversitesi</a></li>
+      </ul>
+      <div class="header-social">
+        <ul>
+          <li><a href="https://www.facebook.com/sauormer?fref=ts" title="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SAUOrtadogu" title="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header notprint">
+    <div class="container">
+      <div class="logo"><a href="index.html" title="Sakarya Üniversitesi Ortadoğu Enstitüsü"><img src="themes/v2/images/logo.png" alt="Ortadoğu Enstitüsü" /></a></div>
+      <div class="sidebar-search"><form method="post" action="6,_lnghmpg_013.html"><input class="search" type="text" name="q" placeholder="Sitede Arama Yap" /><input class="search-button" type="submit" value="" /></form></div>
+      <nav class="menu">
+        <ul id="menu-navigation">
+        <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a><ul><li><a href="5,1,,4,idari_yapi.html">İdari Yapı</a></li><li><a href="22,,kadromuz.html">Kadromuz</a></li><li><a href="23,,bulten.html">Bülten</a></li><li><a>İmkanlar</a><ul><li><a href="5,1,,5,mevlana_ve_uluslararasi_is_birligi.html">Mevlana ve Uluslararası İş Birliği</a></li><li><a href="5,1,,6,dil_egitimi.html">Dil Eğitimi</a></li><li><a href="5,1,,8,ogrenci_asistanligi.html">Öğrenci Asistanlığı</a></li><li><a href="5,1,,59,100_2000_yok_doktora_bursiyerlerimiz.html">100/2000 Yök Doktora Bursiyerlerimiz</a></li></ul></li></ul></li><li><a>Programlar</a><ul><li><a>Yüksek Lisans Programı</a><ul><li><a href="5,1,,13,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,14,program_sartlari.html">Program Şartları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21322/22/3/0/0/0">Dersler</a></li></ul></li><li><a>Doktora Programı</a><ul><li><a href="5,1,,9,program_detaylari.html">Program Detayları</a></li><li><a href="5,1,,10,program_sartlari.html">Program Şartları</a></li><li><a href="https://ortadogu.sakarya.edu.tr/tr/icerik/23215/121792/doktora-programina-nasil-basvurulur">Başvuru Koşulları</a></li><li><a href="http://ebs.sabis.sakarya.edu.tr/DersPlan/tr/2016/21321/22/4/0/0/0">Dersler</a></li><li><a href="5,1,,12,yeterlik_sinavi_okuma_listesi.html">Yeterlik Sınavı Okuma Listesi</a></li></ul></li></ul></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a><ul><li><a href="20,1,,1,yorumlar.html">Yorumlar</a></li><li><a href="20,1,,2,perspektif.html">Perspektif</a></li><li><a href="20,1,,3,analiz.html">Analiz</a></li><li><a href="20,1,,18,makaleler.html">Makaleler</a></li><li><a href="20,1,,4,rapor.html">Rapor</a></li><li><a href="24,1,,1,kitap.html">Kitap</a></li><li><a href="24,1,,2,sau_kultur_yayinlari.html">SAÜ Kültür Yayınları</a></li></ul></li><li><a href="18,1,,1,dergiler.html">Dergiler</a><ul><li><a href="18,2,,2,turkiye_ortadogu_calismalari.html">Türkiye Ortadoğu Çalışmaları</a></li><li><a href="18,2,,1,ortadogu_yilligi.html">Ortadoğu Yıllığı</a></li><li><a href="18,2,,6,iran_calismalari_dergisi_2017_2019_.html">İran Çalışmaları Dergisi (2017-2019)</a></li></ul></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a><ul><li><a href="19,2,,3,1_ortadogu_kongresi.html">1. Ortadoğu Kongresi</a></li><li><a href="19,2,,4,2_ortadogu_kongresi.html">2. Ortadoğu Kongresi</a></li><li><a href="19,2,,5,3_ortadogu_kongresi.html">3. Ortadoğu Kongresi</a></li><li><a href="19,2,,13,4_ortadogu_kongresi.html">4. Ortadoğu Kongresi</a></li><li><a href="19,2,,20,5_ortadogu_kongresi.html">5. Ortadoğu Kongresi</a></li><li><a href="19,2,,22,6_ortadogu_kongresi.html">6.Ortadoğu Kongresi</a></li><li><a href="19,,7_ortadogu_kongresi.html">7.Ortadoğu Kongresi</a></li></ul></li><li><a>Veri Tabanı</a><ul><li><a>Ekonomi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/gsmh_1.xls">GSMH</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/ekonomik_buyume.xls">Ekonomik Büyüme</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/enflasyon_1.xls">Enflasyon</a></li><li><a href="https://ormer.sakarya.edu.tr/uploads/files/issizlik_oranlari_1.xls">İşsizlik Oranları</a></li><li><a href="http://ormer.sakarya.edu.tr/uploads/files/kisi_basina_dusen_milli_gelir.xls">Kişi Başına Düşen Milli Gelir</a></li></ul></li><li><a>Demografi</a><ul><li><a href="https://ormer.sakarya.edu.tr/uploads/files/nufus_1.xls">Nüfus</a></li></ul></li></ul></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>          <li class="langselector"><a>Dil &nbsp; <img src="themes/v2/images/flag-turkish.png" /></a>
+            <ul>
+              <li><a href="?newlang=turkish"><img src="themes/v2/images/flag-turkish.png" /> &nbsp; <span>Türkçe</span></a></li>
+              <li><a href="?newlang=english"><img src="themes/v2/images/flag-english.png" /> &nbsp; <span>English</span></a></li>
+              <li><a href="?newlang=arabic"><img src="themes/v2/images/flag-arabic.png" /> &nbsp; <span>Arabic</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</div>
+<script type="text/javascript">
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > 165) {
+        $('.header').addClass('header_fixed');
+        $('section.block').addClass('header_fixed');
+    } else {
+        $('.header').removeClass('header_fixed');
+        $('section.block').removeClass('header_fixed');
+    }
+});
+</script>
+<section class="block">
+  <div class="container">
+    <div class="row">
+      <div class="post">
+
+        <!-- nav-left / start -->
+        <div class="col-sm-3">
+<div class="sidebar-widget">
+  <div class="sidebar-title"><h4><span>Son Duyurular</span></h4></div>
+<div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,286,ortadogu_da_toplum_ve_siyaset_kongresi_acilis_konusmacimiz_norman_g_finkelstein.html" title="Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein">Ortadoğu'da Toplum ve Siyaset Kongresi Açılış Konuşmacımız Norman G. Finkelstein</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 26 Temmuz 2024, Cuma</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,285,nili_ortadogu_da_casuslar_savasi_programimiz_29_subat_2024_tarihine_ertelenmistir.html" title="Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir">Nili: Ortadoğu'da Casuslar Savaşı programımız 29 Şubat 2024 tarihine ertelenmiştir</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Şubat 2024, Salı</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,284,filistin_uyruklu_ogrencilerin_dikkatine.html" title="FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE">FİLİSTİN UYRUKLU ÖĞRENCİLERİN DİKKATİNE</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Aralık 2023, Çarşamba</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,282,tez_asamasindaki_ogrencilerin_dikkatine.html" title="Tez Aşamasındaki Öğrencilerin Dikkatine">Tez Aşamasındaki Öğrencilerin Dikkatine</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 11 Aralık 2023, Pazartesi</span></div></div><div class="clear"></div></article></div><div class="site_lists"><article class="post"><div class="sec-heading"><h2><a href="4,3,,280,israil_sorunu_ve_gazze_sempozyumu.html" title="İsrail Sorunu ve Gazze Sempozyumu">İsrail Sorunu ve Gazze Sempozyumu</a></h2><div class="postmeta"><i class="fa fa-calendar-plus-o"></i><span class="post-date"> 06 Kasım 2023, Pazartesi</span></div></div><div class="clear"></div></article></div></div>        </div>
+        <!-- nav-left / end -->
+
+        <div class="col-sm-9">
+
+          <!-- content / start -->
+          <div class="module-content">
+<div class="module-title"><h4><span>Makaleler</span></h4></div>
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,664,the_ruling_group_survival_why_pakistan_and_hungary_move_away_from_the_us_led_order_.html" title="The Ruling Group Survival: Why Pakistan and Hungary Move Away from the US-led Order?">The Ruling Group Survival: Why Pakistan and Hungary Move Away from the US-led Order?</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 06 Ocak 2023, Cuma</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,22,prof_dr_ali_balci.html" title="Profesör Ali Balcı" class="important">Profesör Ali Balcı</a>,  <a href="20,5,furkan_halid_yolcu.html?author=Furkan Halid YOLCU" title="Furkan Halid YOLCU" class="important">Furkan Halid YOLCU</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">Abstract Why do some smaller states signal to move away from the US-led liberal order? We look at the ruling group survival in smaller allies to answer this pressing puzzle. Despite accepting the merit of systemic explanations, we simply argue that the ruling groups in smaller states engage with revisionist powers in the international system to sustain and enhance their privileged...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,660,the_united_arab_emirates_religious_soft_power_through_ulema_and_organizations.html" title="The United Arab Emirates’ Religious Soft Power through Ulema and Organizations">The United Arab Emirates’ Religious Soft Power through Ulema and Organizations</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 19 Temmuz 2022, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,hamdullah_baycar.html?author=Hamdullah Baycar" title="Hamdullah Baycar" class="important">Hamdullah Baycar</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> Abstract The United Arab Emirates (UAE) proposes "peaceful" religious discourse by supporting religious scholars such as Hamza Yusuf and Abdallah bin Bayyah and institutions such as the Forum for Promoting Peace in Muslim Societies and the Emirates Fatwa Council. The UAE has attempted to present itself as promoting a moderate form of Islam to counter political Islam. This study...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,658,from_radicalism_to_tolerance_media_coverage_od_the_muslim_world_league.html" title="From Radicalism to Tolerance: Media Coverage od the Muslim World League">From Radicalism to Tolerance: Media Coverage od the Muslim World League</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 05 Temmuz 2022, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,yousef_m_aljamal.html?author=Yousef M. Aljamal" title="Yousef M. Aljamal" class="important">Yousef M. Aljamal</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> ABSTRACT Following its establishment in 1962, the Muslim World League (MWL) was meant to be an organization that expands the outreach of Saudi Arabia and its then Wahabi version of Islam in the world in the time when other competing ideologies, especially Arab nationalism, were on the rise. This allowed it to carry out religious, cultural, aid and educational programs. At the...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,655,s400s_sanctions_and_defiance_explaining_turkey_s_quest_for_strategic_autonomy_and_the_us_response.html" title="S400s, sanctions and defiance: explaining Turkey’s quest for strategic autonomy and the US response">S400s, sanctions and defiance: explaining Turkey’s quest for strategic autonomy and the US response</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 05 Temmuz 2022, Salı</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,10,arastirma_gorevlisi_ayse_hazar.html" title="Araştırma Görevlisi
+ Ayşe Hazar" class="important">Araştırma Görevlisi
+ Ayşe Hazar</a>,  <a href="20,5,husna_tas_yetim.html?author=Hüsna Taş Yetim" title="Hüsna Taş Yetim" class="important">Hüsna Taş Yetim</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> ABSTRACT The United States Congress enacted CAATSA in 2017 to impose various restrictions on traditional rivals of the United States, which, however, was also imposed on a long-term strategic ally, Turkey, in December 2020. How can the application of sanctions designated for strategic rivals and enemies on an ally be explained? This article incorporates the hierarchy theory with...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,652,from_brotherhood_of_the_revolution_to_the_struggle_for_power_analysis_of_the_libyan_civil_war_in_the_context_of_the_security_dilemma.html" title="From Brotherhood of the Revolution to the Struggle for Power: Analysis of the Libyan Civil War in the Context of the Security Dilemma">From Brotherhood of the Revolution to the Struggle for Power: Analysis of the Libyan Civil War in the Context of the Security Dilemma</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 29 Haziran 2022, Çarşamba</span>          
+      </div>
+    </div>
+    <div class="entry-summary"> ABSTRACT The concept of the security dilemma, which was developed in the 1950s based on inter-state wars, was applied to civil wars to explain the cause of intra-state conflicts after the end of the Cold War. These applications have criticized for violating the key components emphasized by the original theory. The flaws of the literature have led to the generalization that the...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,649,when_doves_feed_hawks_ottoman_war_decision_and_european_powers_towards_the_crimean_war.html" title="When Doves Feed Hawks: Ottoman War Decision and European Powers Towards the Crimean War">When Doves Feed Hawks: Ottoman War Decision and European Powers Towards the Crimean War</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 27 Mayıs 2022, Cuma</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,23,prof_dr_tuncay_kardas.html" title="Profesör Tuncay Kardaş" class="important">Profesör Tuncay Kardaş</a>,  <a href="20,5,,22,prof_dr_ali_balci.html" title="Profesör Ali Balcı" class="important">Profesör Ali Balcı</a>,  <a href="20,5,,75,doc_dr_yildirim_turan.html" title="Doç. Dr. Yıldırım Turan" class="important">Doç. Dr. Yıldırım Turan</a>,  <a href="20,5,,37,doc_dr_ismail_ediz.html" title="Doç. Dr. İsmail Ediz" class="important">Doç. Dr. İsmail Ediz</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> Abstract When does the war party win in the decision-making process? Why does the peace party lose even if war is too risky? In this article, we show that certain balancing acts of the peace party might increase the confidence of the war party. We examine how the Ottoman Empire's risky Crimean War decision and its war declaration against Russia on 4 October 1853 were shaped by...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,643,controversial_actor_of_the_international_system_iran.html" title="Controversial Actor of the International System: Iran">Controversial Actor of the International System: Iran</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 30 Mart 2022, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,12,ogretim_uyesi_dr_mustafa_caner.html" title="Öğretim Görevlisi, Dr. Mustafa Caner" class="important">Öğretim Görevlisi, Dr. Mustafa Caner</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">The three works examined here deal with Iran's interaction with the international system from a historical perspective and across many dimensions. While the structural and cyclical problems and opportunities between Iran and the international system are conveyed to the reader, analytical and theoretical dimensions are not ignored. However, the three works, due to their publication...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,642,controlling_international_institutions_how_the_us_engineered_unsc_non_permanent_members_in_the_early_cold_war.html" title="Controlling International Institutions: How the US Engineered UNSC Non-permanent Members in the Early Cold War">Controlling International Institutions: How the US Engineered UNSC Non-permanent Members in the Early Cold War</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 23 Mart 2022, Çarşamba</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,22,prof_dr_ali_balci.html" title="Profesör Ali Balcı" class="important">Profesör Ali Balcı</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary">How did the US shape the composition of the UN Security Council during the early Cold War period? By focusing on the election of non-permanent members to Council seats, this paper investigates what role the US played in the nomination and election of candidate countries. In doing so, the study relies heavily on US diplomatic archives since those archival materials are rich in...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,639,rethinking_non_state_armed_actors_and_sovereignty.html" title="Rethinking non-state armed actors and sovereignty">Rethinking non-state armed actors and sovereignty</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 14 Mart 2022, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,51,prof_dr_tuncay_kardas.html" title="Profesör Tuncay Kardaş" class="important">Profesör Tuncay Kardaş</a>,  <a href="20,5,murat_yesiltas.html?author=Murat Yeşiltaş" title="Murat Yeşiltaş" class="important">Murat Yeşiltaş</a>,  <a href="20,5,tim_jacoby.html?author=Tim Jacoby" title="Tim Jacoby" class="important">Tim Jacoby</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> The four papers that make up this special section deal with the complex relationship between emergent non-state armed actors and notions of state sovereignty broadly conceived. With much of the existing literature in this area focused on violence and declining state authority, these linkages remain largely underexplored. Datasets on non-state conflicts frequently overlook such...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div class="site_lists">
+  <article class="post">
+    <div class="sec-heading">
+      <h2><a href="20,3,,629,tabi_devletler_neden_otonomi_arttirmaya_yonelir_1964_1975_donemi_turk_amerikan_iliskilerindeki_krizi_aciklamak.html" title="Tabi Devletler Neden Otonomi Arttırmaya Yönelir? 1964-1975 Dönemi Türk-Amerikan İlişkilerindeki Krizi Açıklamak">Tabi Devletler Neden Otonomi Arttırmaya Yönelir? 1964-1975 Dönemi Türk-Amerikan İlişkilerindeki Krizi Açıklamak</a></h2>
+      <div class="postmeta">
+        <i class="fa fa-calendar-plus-o"></i><span class="post-date"> 13 Aralık 2021, Pazartesi</span>          
+        <i class="fa fa-user-o"></i><span class="post-users"> <a href="20,5,,22,prof_dr_ali_balci.html" title="Profesör Ali Balcı" class="important">Profesör Ali Balcı</a>,  <a href="20,5,husna_tas_yetim.html?author=Hüsna Taş Yetim" title="Hüsna Taş Yetim" class="important">Hüsna Taş Yetim</a></span>
+        <i class="fa fa-book"></i><span class="post-categories"> <a href="20,1,,18,makaleler.html" title="Makaleler" class="important">Makaleler</a></span>          
+      </div>
+    </div>
+    <div class="entry-summary"> Türkiye İkinci Dünya Savaşı sonrası dünyada, ABD düzeninde yer almayı en fazla isteyen ülkeler- den biriydi. Bu süreçte dış dış politikadaki otonomisini önemli ölçüde Washington'a devreden Ankara, 1960'ların ortasına kadar ABD'nin en sadık müttefiklerinden biri oldu. Fakat 1964'te Türkiye-ABD ilişkilerinde başlayan ilk kriz, 1975...</div>
+    <div class="clear"></div>
+  </article>
+</div>  
+<div align="center"><br /><b>Sayfa</b><br /><ul class="pagination">
+    <li><span>&laquo;</span></li>
+    <li class="active"><span>1</span></li>
+    <li><a href="20,1,,18,.html?page=2">2</a></li>
+    <li><a href="20,1,,18,.html?page=3">3</a></li>
+    <li><a href="20,1,,18,.html?page=4">4</a></li>
+    <li><a href="20,1,,18,.html?page=5">5</a></li>
+    <li><a href="20,1,,18,.html?page=2">&raquo;</a></li>
+  </ul>
+<br /></div>          </div>
+          <!-- content / end -->
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="footer-bottom notprint">
+  <div class="container">
+    <p>Ortadoğu Enstitüsü © 2024. Tüm Hakları Saklıdır.</p>
+    <ul>
+      <li><a href="index.html">Ana Sayfa</a></li><li><a href="5,1,,38,hakkimizda.html">Hakkımızda</a></li><li><a href="https://ortadogu.sakarya.edu.tr">Öğrenci</a></li><li><a href="20,1,yayinlar.html">Yayınlar</a></li><li><a href="18,1,,1,dergiler.html">Dergiler</a></li><li><a href="19,2,,24,sad.html">SAD</a></li><li><a href="19,19,,3,ormer_konusmalar.html">ORMER Konuşmalar</a></li><li><a href="19,,ortadogu_kongresi.html">Ortadoğu Kongresi</a></li><li><a href="13,,etkinlik_takvimi.html">Etkinlik Takvimi</a></li><li><a href="7,1,,1,iletisim.html">İletişim</a></li>
+    </ul>
+  </div>
+</div><script>
+$(document).ready(function(){
+  $(".inline_page").colorbox({iframe:true, width:"900px", height:"750px"});
+});
+
+$(document).ready(function() {
+  if(PDFObject.supportsPDFs){
+    $('a').click(
+      function(e){
+        if (this.href.split('.').pop() === 'pdf') {
+          e.preventDefault();
+
+          var url = this.href.substr( this.href.lastIndexOf("/") + 1 );
+          url = "1,6,.html?popup=inline&file=" + encodeURIComponent( btoa( url ));
+
+          $.colorbox({iframe:true, width:"900px", height:"750px", href: url})
+        }
+      }
+    );
+  }
+});
+
+$(document).ready(function () {
+  $("article.post .entry-summary img").each(function () {
+    var maxWidth = $(this).parent().width() - 10;
+    var ratio = 0;
+    var width = $(this).width();
+    var height = $(this).height();
+
+    if (width > maxWidth) {
+      ratio = (maxWidth / width);
+      $(this).attr({
+        width : maxWidth,
+        height : (height * ratio),
+        alt : ""
+      });
+    }
+  });
+});
+
+</script>
+<div align="center">
+</div>
+</body>
+</html>
